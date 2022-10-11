@@ -17,16 +17,17 @@ st.title("AB Physicians")
 
 @st.cache
 def load_df():
-    df = pd.read_csv("physicians.csv")
-    return df
+    df_physicians = pd.read_csv("physicians.csv")
+    df_population = pd.read_csv("population.csv")
+    return df_physicians, df_population
 
 
-df = load_df()
+df_physicians, df_population = load_df()
 st.subheader("DataFrame")
-st.dataframe(df)
+st.dataframe(df_physicians)
 
 st.subheader("Top 10 Cities regarding Number of Physicians")
-most_physicians = df["CITY"].value_counts().reset_index()
+most_physicians = df_physicians["CITY"].value_counts().reset_index()
 most_physicians.columns = ["city", "count"]
 fig = px.bar(
     most_physicians.head(10),
@@ -36,9 +37,28 @@ fig = px.bar(
 )
 fig
 
+ratio = pd.merge(
+    most_physicians,
+    df_population[["GEO", "Population and dwelling counts (13): Population, 2021 [1]"]],
+    how="left",
+    left_on="city",
+    right_on="GEO",
+)
+ratio["ratio"] = (
+    ratio["count"] / ratio["Population and dwelling counts (13): Population, 2021 [1]"]
+)
+fig = px.bar(
+    ratio.head(10),
+    x="city",
+    y="ratio",
+    color="city",
+)
+st.latex(r"ratio = \dfrac{\# of Physicians}{\# of Population}")
+fig
+
 st.subheader("Specialties")
 specialties = Counter()
-for specialty in df["SPECIALTY"]:
+for specialty in df_physicians["SPECIALTY"]:
     for s in specialty.split():
         if s == "-":
             continue

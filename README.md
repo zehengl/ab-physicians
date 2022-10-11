@@ -15,7 +15,8 @@ A Streamlit app to visualize listings of Alberta physicians
     python -m venv .venv
     .venv\Scripts\activate
     pip install -r requirements-dev.txt
-    python fetch.py
+    python fetch_physicians.py
+    python fetch_population.py
     streamlit run app.py
 
 ## Credits
