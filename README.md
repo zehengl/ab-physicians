@@ -1,0 +1,26 @@
+<div align="center">
+    <img src="https://cdn3.iconfinder.com/data/icons/covid-19-coronavirus-protection-or-prevention-fill/64/HospitalCovid-19-512.png" alt="logo" height="196">
+</div>
+
+# ab-physicians
+
+![coding_style](https://img.shields.io/badge/code%20style-black-000000.svg)
+
+## Getting Started
+
+> Install Ghostscript, which is a [dependency](https://camelot-py.readthedocs.io/en/master/user/install-deps.html#install-deps) for `camelot-py`
+
+    python -m venv .venv
+    .venv\Scripts\activate
+    pip install -r requirements-dev.txt
+    python fetch.py
+    streamlit run app.py
+
+## Credits
+
+- [Logo][1] by [KP Arts][2]
+- [Medical Directory Listings][3]
+
+[1]: https://www.iconfinder.com/icons/5946958/clinic_doctor_healthcare_hospital_medical_treatment_icon
+[2]: https://www.iconfinder.com/katsana24
+[3]: https://cpsa.ca/medical-directory-listings/
