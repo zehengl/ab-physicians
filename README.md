@@ -6,6 +6,8 @@
 
 ![coding_style](https://img.shields.io/badge/code%20style-black-000000.svg)
 
+A Streamlit app to visualize listings of Alberta physicians
+
 ## Getting Started
 
 > Install Ghostscript, which is a [dependency](https://camelot-py.readthedocs.io/en/master/user/install-deps.html#install-deps) for `camelot-py`
