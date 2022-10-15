@@ -23,7 +23,9 @@ A Streamlit app to visualize listings of Alberta physicians
 
 - [Logo][1] by [KP Arts][2]
 - [Medical Directory Listings][3]
+- [Population and dwelling counts: Canada and census subdivisions (municipalities)][4]
 
 [1]: https://www.iconfinder.com/icons/5946958/clinic_doctor_healthcare_hospital_medical_treatment_icon
 [2]: https://www.iconfinder.com/katsana24
 [3]: https://cpsa.ca/medical-directory-listings/
+[4]: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000201
