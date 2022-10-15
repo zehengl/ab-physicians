@@ -5,7 +5,7 @@ import plotly.express as px
 import streamlit as st
 
 
-st.set_page_config(page_title="ab-physicians", page_icon="random")
+st.set_page_config(page_title="ab-physicians", page_icon=":mask:")
 _, center, _ = st.columns([2, 1, 2])
 with center:
     st.image(
@@ -19,6 +19,11 @@ st.title("AB Physicians")
 def load_df():
     df_physicians = pd.read_csv("physicians.csv")
     df_population = pd.read_csv("population.csv")
+
+    df_physicians["NUM_SPECIALTIES"] = df_physicians["SPECIALTY"].apply(
+        lambda s: len([x for x in s.split() if x != "-"])
+    )
+
     return df_physicians, df_population
 
 
@@ -71,5 +76,22 @@ fig = px.bar(
     x="specialty",
     y="count",
     color="specialty",
+)
+fig.update_layout(showlegend=False)
+fig
+
+fig = px.histogram(
+    df_physicians,
+    x="NUM_SPECIALTIES",
+    color="NUM_SPECIALTIES",
+)
+fig.update_layout(
+    legend=dict(
+        orientation="h",
+        yanchor="bottom",
+        y=1.02,
+        xanchor="right",
+        x=1,
+    )
 )
 fig
