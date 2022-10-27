@@ -19,9 +19,13 @@ st.title("AB Physicians")
 def load_df():
     df_physicians = pd.read_csv("physicians.csv")
     df_population = pd.read_csv("population.csv")
+    df_ratings = pd.read_csv("ratings.csv")
 
     df_physicians["NUM_SPECIALTIES"] = df_physicians["SPECIALTY"].apply(
         lambda s: len([x for x in s.split() if x != "-"])
+    )
+    df_physicians = pd.merge(
+        df_physicians, df_ratings, left_index=True, right_index=True
     )
 
     return df_physicians, df_population
@@ -93,5 +97,18 @@ fig.update_layout(
         xanchor="right",
         x=1,
     )
+)
+fig
+
+st.subheader("Ratings")
+fig = px.box(
+    df_physicians[
+        df_physicians["CITY"].isin(most_physicians.head(10)["city"])
+        & (df_physicians["average"])
+    ].dropna(),
+    y="average",
+    x="CITY",
+    category_orders={"CITY": most_physicians.head(10)["city"]},
+    color="CITY",
 )
 fig

@@ -1,2 +1,4 @@
 .venv
 *.h5
+*.pkl
+latest_logs
