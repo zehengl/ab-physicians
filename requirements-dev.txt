@@ -5,6 +5,6 @@ jupyterlab==3.5.0
 opencv-python==4.6.0.66
 pip-check-updates==0.18.0
 pylint==2.15.5
-seleniumbase==4.6.6
+seleniumbase==4.7.0
 stats-can==2.5.1
 tqdm==4.64.1
