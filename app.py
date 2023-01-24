@@ -88,6 +88,7 @@ fig = px.histogram(
     df_physicians,
     x="NUM_SPECIALTIES",
     color="NUM_SPECIALTIES",
+    labels={"NUM_SPECIALTIES": "# of Specialties"},
 )
 fig.update_layout(
     legend=dict(
