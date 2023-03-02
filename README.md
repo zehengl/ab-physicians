@@ -18,7 +18,7 @@ A Streamlit app to visualize listings of Alberta physicians
     python fetch_physicians.py
     python fetch_population.py
     python fetch_ratemds.py
-    streamlit run app.py
+    streamlit run streamlit_app.py
 
 ## Credits
 
