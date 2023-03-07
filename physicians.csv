@@ -1,5 +1,4 @@
 NAME,CITY,PHONE,SPECIALTY
-"(Pieter), Petrus Schalk",Calgary,587 535 5600,-
 "A.D. Graham, Tim",Sherwood Park,780-342-3464,CCFP CCEM
 "Aamer, Nazish",Ponoka,403-783-7600,-
 "Aaron, Stephen",Edmonton,780 492 6761,IM RHEU
@@ -97,17 +96,17 @@ NAME,CITY,PHONE,SPECIALTY
 "Achebe, Ifeoma",Red Deer,403-356-6424,PHPM
 "Achen, Alanna",Stony Plain,780-968-3673,CCFP
 "Achen, Blaine",Edmonton,780-407-8861,ANES
-"Achi, Ade",Red Deer,403-346-1533,-
+"Achi, Ade",Red Deer,403-346-1533,CCFP
 "Acholonu-Nwobe, Amarachi",Barrhead,780-674-2246,-
 "Achor, Michael",Edmonton,780-342-7700,PSY
 "Achtymichuk, AUDREY",Calgary,,CCFP
+"Achyuthan, Geeta",Calgary,403-272-2962,CCFP
 "Ackerman, Tom",Edmonton,780-490-1313,DRAD
 "Ackermann, Wendy",Nelson,,-
 "Ackland-Snow, Julia",Edmonton,780-735-2731,PED
 "Ackroyd, Ryan",Edmonton,780-801-3366,CCFP
 "Acquaye, Eunice",Lethbridge,403-388-6600,GIM GM
 "Acton, Claire",Calgary,,EM
-"Acton, Lise-Marie",Canmore,403-679-7313,CCFP
 "Adam, Benjamin Alexander",Edmonton,780-407-4580,ANAP
 "Adam, Marcel",Calgary,403-726-8955,-
 "Adam, Muataz Abdelhamed M",Lloydminster,780-875-2221,-
@@ -138,7 +137,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Adebayo, Ayo",Calgary,403-257-6669,OCCM IM
 "Adebayo, Francis Opeyemi",St Paul,780-645-3666,-
 "Adebayo, 'Lemi",Edmonton,587-414-0469,CCFP
-"Adebayo, Olasunkanmi Othniel",Legal,780-961-3067,CCFP
 "Adebisi, Omoniyi Yakubu",Wetaskiwin,780-352-4481,FOSS CCFP
 "Adebisi, Timothy Adeboye",Airdrie,587-775-1768,CCFP
 "Adebona, Olumuyiwa",Calgary,587-318-4210,CCFP
@@ -152,7 +150,8 @@ NAME,CITY,PHONE,SPECIALTY
 "Adelowokan, Tolulope",Sherwood Park,,-
 "Adelugba-Akande, Seun",Three Hills,403-443-5522,-
 "Ademola, Foluso",Edmonton,780-499-6866,PSY CAPS
-"Ademola, Moses",Lethbridge,403-393-1224,EM
+"Ademola, Moses",Edmonton,,EM
+"Adenaike, Victor",Regina,306-352-5506,PSY
 "Adeniyi, Tayo",Pickering,905-492-7881,CCFP
 "Adeoye, Wale",St. Albert,780-961-3067,-
 "Aderibigbe, Ade",Edmonton,,CCFP
@@ -170,6 +169,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Adhami, Anas",Calgary,,CCFP
 "Adib Azad, Hamid",Calgary,403-943-5000,CCFP
 "Adikea, Chido",Grande Prairie,780-538-6330,PSY
+"Adilih, Amy",,,CCFP
 "Adilih, Stephen",Regina,,CCFP
 "Adrian, Carl",Cochrane,403 313-4920,PSY
 "Adriano, Alvin",Calgary,403-930-6090,CCFP
@@ -229,7 +229,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Ahn, Joseph",Calgary,,ANES
 "Ahn, TaeEun",Calgary,,CCFP
 "Ahpin, Chrisselle",Calgary,403-385-1604,DRAD
-"Ahrari, Azin",Calgary,403-955-8920,IM RHEU
 "Ahsan, Muhammad Rauf",Calgary,403-944-2515,CS
 "Ah-Seng, Andrew",Edmonton,780-488-8860,CCFP
 "Ahtemenciuc, Stanislav",Killam,780-384-3090,-
@@ -246,10 +245,10 @@ NAME,CITY,PHONE,SPECIALTY
 "Ajegbo, Obiora Nnaemeka",Lloydminster,780-872-7589,O&G
 "Ajibade, Adedotun Temitayo",Cochrane,403-840-0120,CCFP
 "Akabutu, John J",Edmonton,780-701-9550,PED
-"Akai, Peter",Edmonton,780-735-2689,IM ID
+"Akai, Peter",,,IM ID
 "Akanayeva, Alnura",Fort McMurray,,PED
 "Akande, Tinuola",Airdrie,587-775-0148,PSY
-"Akbar, Shafiq Fatima",Edmonton,780-265-2094,IM RHEU
+"Akbar, Shafiq Fatima",Edmonton,780-758-1111,IM RHEU
 "Akerman, Mark John",Lloydminster,306-821-7089,CCFP
 "Akil, Mohamad",St. Albert,844-488-4633,-
 "Akinbiyi, Tosin",Grande Prairie,780-882-9449,ORTH
@@ -267,6 +266,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Akinsipe, Mercy",Calgary,403-686-6967,CCFP
 "Akintola, DEJI",Grande Prairie,780-538-7100,CCFP CCEM
 "Aklilu, Fasika",Edmonton,416 509 3432,CCFP CCEM
+"Akobundu, Pearl",Calgary,403-457-5009,CCFP
 "Akolo, Francis",Grande Prairie,587-299-6333,-
 "AKOSILE-XULU, Helen Akosile",Fort McMurray,780-747-8703,-
 "Akpede, Collington",Edmonton,780-761-2430,-
@@ -277,14 +277,14 @@ NAME,CITY,PHONE,SPECIALTY
 "Akwu-ude, Ikenna David",Red Deer,403-346-1533,-
 "Al Awad, Essa",Calgary,403-944-1939,NPM
 "AL Faraj, Noura",Calgary,403-943-5725,PSY
+"Al Habeeb, Ayman Saeed",Mississauga,905-518-3430,ANAP
 "Al Jazairi, Anas",Camrose,780-679-6131,-
-"Al Majed, Nawaf Saad M.",Edmonton,780-236-3904,IM CARD
+"Al Majed, Nawaf Saad M.",Edmonton,780-236-3904,CARD IM
 "Al Masoudi, Faisal K.",Grande Prairie,587-771-1515,-
 "Al Masri, Shokri",Calgary,825-540-4042,PSY
 "Al Nakshabandi, Nizar",Calgary,587-893-1171,DRAD
 "Al Saied, Mohamed Ali",Edmonton,,ORTH
 "Al Siwe, Ahmed Nuri",Edmonton,780-249-8911,CCFP
-"Al Sultan, Abdulaziz",Red Deer,,NEUR
 "Al Tikriti, Bakir Y. Dawood",Calgary,587-392-3839,CCFP
 "Alabaster, Jane",Calgary,587-774-6400,-
 "Al-Abayechi, AHMED",Medicine Hat,403-528-3008,-
@@ -300,33 +300,30 @@ NAME,CITY,PHONE,SPECIALTY
 "Al-Ali, Suhad",Calgary,403-454-5580,CCFP
 "Alam, Muhammad Rizwan",Lamont,780-895-2102,-
 "Alamelhuda, Ahmed",Calgary,403-455-3002,CCFP
-"Alanazi, Mosleh",Riyadh,011-464-7272,IM CRIT
+"Alanazi, Mosleh",Riyadh,011-464-7272,CRIT IM
 "Alanen, Ken",Calgary,403-457-1900,DERM ANAP
 "Al-Ani, Marwan",Edmonton,780-465-7335,-
 "Al-Ani, Zaid",Cold Lake,780-594-8130,-
-"Alao, Samuel Olusegun",Calgary,,CCFP
-"Alaqeel, Bandar Aqeel M.",Riyadh,011-801-1111,PSY
+"Alao, Samuel Olusegun",Sherwood Park,780-464-0123,CCFP
 "Alarape, Akadri Ajiboye",Edmonton,780-705-9944,-
+"Alarfaj, Abdullah",Edmonton,780-407-1591,NS
 "Alatrash, Akrem",St. Albert,780-569-5030,-
 "Al-Attar, Hyder",Edmonton,780-432-8643,DRAD
 "Alawiye, Tayo",Calgary,587 392 9670,CCFP
 "Al-Azem, Hafsah",Calgary,403-221-4400,IM RHEU
 "Al-Azzawi, Abeer",Calgary,403-272-6422,CCFP
 "Albaba, Hamza",Lethbridge,403-388-6802,MONC
-"Albalawi, Zaina",Calgary,403-955-8328,IM
+"Albalawi, Zaina",St. John's,780-989-0008,IM
 "Alballaa, RASHID",Edmonton,780-249-8911,IM
 "Al-Bayati, Rana Abdalmajeed Ghanim",Calgary,403-730-0224,-
 "Albrbar, mohamed",Edmonton,780-406-5514,-
 "Albrecht, Kelly Dawn",Calgary,403-944-4419,O&G
 "Albuquerque, Sandra",Calgary,403-252-0620,CCFP FMPC
-"Alcaraz-Limcangco, Yolanda",Edmonton,780-761-6767,CCFP
-"Aldalle, Sura",Calgary,403.274.9712,CCFP
 "Aldandashi, Samer",Edmonton,780 735 4181,PSY
 "Al-Doori, MARWAN",Edmonton,587-488-9952,-
 "Aldridge, Oliver RV",Vancouver,604 670 5202,CCFP
 "Al-Dujaili, Raya",Calgary,587-319-2236,-
 "Aleker, Junaid",Whitecourt,,-
-"Alenazy, Hameid Abdullah",,,CRIT IM
 "Alewan, Salem",Edmonton,,CCFP RESP IM
 "Alexander, Timothy",Edmonton,780-988-9105,DRAD
 "Alexander, Todd",Edmonton,780-248-5560,PED NEPH
@@ -341,7 +338,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Al-Gailani, Nabeel Ibraheem",Mayerthorpe,780-786-2412,-
 "Alganga, Inas Mohamed I.",Edmonton,780-476-3344,-
 "Alghamdi, Faisal",Edmonton,,CARD IM
-"Alghamdi, Khalid",Edmonton,780-705-0707,IM CRIT RESP
 "Alghamdi, Mohammad Saleh",Ponoka,403-783-7646,PSY
 "Alghbli, Salem",Edmonton,,CCFP
 "Al-Ghoul, Ahmed",Calgary,403-253-5300,OPH
@@ -350,7 +346,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Alhaddad, Mohamed Omar Alhaddad",Calgary,587-393-6633,-
 "Alhaj Imhmed, Hasan",Edmonton,780 705 1011,-
 "Alharbi, Abdul",Hamilton,905-517-6634,IM CARD
-"Alharbi, Waleed",Calgary,403-944-8491,CARD IM
 "Alhask, Alhadi",Edmonton,780-756-3300,-
 "Alhassani, Ghassan",Edmonton,587-525-8433,GS
 "Alherbish, Aws Jaser A",Edmonton,,IM CRIT CARD
@@ -388,6 +383,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Alizadehranjbar, Keysun",Edmonton,780-428-3246,CARD
 "Al-Izzi, Saif",Edmonton,780-756-3666,CCFP
 "Aljadi, Alhadi",Edmonton,,CCFP
+"Aljerian, Khaldoon",,,ANAP
 "Aljishi, Taher",Edmonton,780-439-2007,O&G
 "Al-Jubouri, SALAM",Grande Prairie,587-771-1515,PED
 "Al-Jubury, Muder",Spruce Grove,587-853-0451,CCFP
@@ -398,7 +394,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Allain, Dominic",Edmonton,780-919-8491,PEM PED
 "Allaire, Sandra",Three Hills,,-
 "Allan, Bruce",Calgary,403-271-2550,O&G
-"Alldred, Tracy",Calgary,403-943-2523,PSY
+"Alldred, Tracy",Calgary,403-944-5872,PSY
 "Allegretto, Michael",Edmonton,780-407-8356,OTO
 "Allen, Claire",Calgary,403-944-1110,ANES
 "Allen, Jennifer",Calgary,403 777 3000,DRAD
@@ -408,17 +404,17 @@ NAME,CITY,PHONE,SPECIALTY
 "Almaden-Camacho, Emily Anselmo",Edmonton,780-761-6767,CCFP
 "Al-Mahfoud, Heba",Calgary,403-242-1188,CCFP
 "Almanfoud, Saad",Fairview,780-835-4255,-
-"Almarhabi, Yahya",Jeddah Makkah,,CRIT GS
 "Al-Mashikhi, Baha Shalan",High Prairie,780-523-2868,-
 "Almighairbi, Adel",Edmonton,780-371-1114,-
-"Almikhlafi, Mowaffaq",Fort McMurray,780-750-2180,CRIT IM NEPH
+"Almikhlafi, Mowaffaq",Fort McMurray,780-750-2180,IM NEPH CRIT
 "Almond, Christopher James",Lloydminster,,CCFP CCEM
 "Almowllad, Hala",Calgary,403-257-9075,O&G
 "Al-Musawi, Aws",Grande Prairie,780-357-0199,PED
 "Al-Musawi, Hala",Edmonton,780 705 4466,CCFP
 "Almutawa, Mohammad",St. John's,,IM CARD
 "Alnaami, Ghassan",Edmonton,780-616-5256,PED
-"Alnasser, Hatem Abdulaziz",Edmonton,780-249-8911,IM NEPH
+"AlNabulsi, Reem Khalid",Medicine Hat,403-529-8000,OPH
+"Alnasser, Hatem Abdulaziz",Edmonton,780-249-8911,NEPH IM
 "Alnegratt, Moamer",Edmonton,,-
 "Al-Nuaimi, Saleem",Edmonton,780-342-4926,PSY
 "Alobaidi, Rashid",Edmonton,780-407-0070,PED
@@ -429,7 +425,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Alotaibi, Ghazi Saud D",Edmonton,,IM
 "Alphin, Talal",Medicine Hat,403-528-2931,UROL
 "Alqaser, Hamza  Mohamed",St. Albert,,-
-"Al-Qoofi, Faisal Turki Y.",Calgary,403-617-6066,IM CARD
 "Alrajhi, Yaser",Edmonton,780-407-3395,OTO
 "Al-Rubaiee, Mahmood",Calgary,403-930-1005,-
 "AlSaadon, Abdalrhman",Edmonton,780-757-2012,IM NEPH CRIT
@@ -449,7 +444,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Altayeb, Sami",Edmonton,780-457-4250,CCFP
 "Altman, Daniel",Calgary,403-910-5314,RESP IM
 "Altmeyer, R. Chris",Fort Saskatchewan,780-998-2256,CCFP
-"Alton, Megan",Edmonton,780-760-1727,CCFP
+"Alton, Megan",Edmonton,780-434-2778,CCFP
 "Alturkistani, Majed",Medicine Hat,403-594-1982,ANES
 "Aluka, Tony Maraizu",Redwater,780-942-4780,-
 "Aluko, Bisi",Stony Plain,780-968-6888,CCFP
@@ -460,19 +455,19 @@ NAME,CITY,PHONE,SPECIALTY
 "Al-Witry, Mudher",Calgary,587-329-0266,-
 "Aly, Abdel Rahman",Calgary,403 251 7767,PM&R
 "Al-Yousif, Bahn",Okotoks,403 982 7771,-
-"Alzahrani, Fatmah",Edmonton,780-461-1188,DERM
 "Alzdam, SALEM",Edmonton,780 341 1000,CCFP
 "Amadala, Stephen Ligenga",Calgary,403-944-2025,PSY
 "Aman, Ijaz",Edmonton,587-754-5600,PED
 "Amanie, John Oliver",Edmonton,780-432-8966,RADO
 "Amanna, Gerry",Devon,780-987-4151,CCFP
 "Amanullah, Syed Farrukh",Red Deer,403-314-0355,IM GE
+"Amara, Amaikiye",Lethbridge,403-328-6641,-
 "Amarakone, Inoka",Calgary,403-873-7300,-
 "Amaro, Carla",Medicine Hat,,MONC
 "Amath, Aysah",Calgary,,O&G
 "Amatto, Michael",Edmonton,780-453-5255,PM&R
 "Amatto, Michael Joseph",Lethbridge,403-381-7000,CCFP
-"Ambacher, Kristin",Calgary,,O&G
+"Ambacher, Kristin",Calgary,403-289-8996,O&G
 "Ambasta, Anshula",Calgary,403-944-1136,IM
 "Ambrosano, Lorella",Fort McMurray,780-743-0630,PSY
 "Ambrose, Hilary",Calgary,403-944-1315,EM PEM
@@ -509,7 +504,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Anderson, Blaire Lori",Edmonton,780-407-7072,GS
 "Anderson, Daphne Lois",Calgary,403-262-2620,FMSE CCFP
 "Anderson, Douglas",Okotoks,403-995-0010,CCFP
-"Anderson, Dustin",Edmonton,780-217-3038,NEUR
+"Anderson, Dustin",Edmonton,780-217-3038,NEUR CRIT
 "Anderson, Gordon",Wainwright,780-842-3341,-
 "Anderson, Jarrod",Edmonton,780-735-2819,CCFP CCEM
 "Anderson, Jeffrey",Calgary,403-252-5800,-
@@ -528,7 +523,6 @@ NAME,CITY,PHONE,SPECIALTY
 "andre, ferland",Calgary,403 944 2471,IM CRIT
 "Andreiuk, Sally",Fairview,780-835-4255,CCFP
 "Andrew, Deborah",Edmonton,780-490-5543,CCFP
-"Andrew, Gail",Edmonton,780-735-7963,PED
 "Andrew, Lauren Elizabeth",Calgary,,O&G
 "Andrews, Chris",Calgary,403-955-2953,PED
 "Andrews, Christopher Norman",Calgary,403-944-6555,IM GE
@@ -547,7 +541,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Aniagu, Charles",Medicine Hat,403-548-2228,-
 "Aniki, Yahaya Yusuf",Fort McMurray,780-750-1600,-
 "Anizoba, Ogo",Valleyview,825-281-0133,CCFP
-"Anjum, Mahjabeen",Saskatoon,,CCFP
 "Anker, Chad",Calgary,403-943-9476,CCFP
 "Anker, Katie",Calgary,403-944-2419,EM
 "Annand, Lindsay",,,CCFP
@@ -562,7 +555,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Ansell, Richard",Okotoks,403 917 0664,-
 "Anselm, Daniel Dominic",Medicine Hat,403-580-8288,IM CARD
 "Anselmo, Mark Anthony",Calgary,403 949 2959,RESP PED
-"Anssari, Neda",Winnipeg,204-202-3932,NEUR
 "Anstey, Kristin",Edmonton,780-407-5160,CCFP
 "Anstey, Zachary",Calgary,,CCFP
 "Anton, Andrew Robert",Calgary,403-944-1315,EM
@@ -594,9 +586,8 @@ NAME,CITY,PHONE,SPECIALTY
 "Aquino, Camila",Calgary,,NEUR
 "Aradi, Abdussalam",Edmonton,,-
 "Arafat, Heba",Camrose,780-672-2423,-
-"Arain, Umber",Edmonton,780-486-3600,-
+"Arain, Umber",Edmonton,780-486-3660,-
 "Aramide, AYODELE",Lethbridge,403-328-8101,-
-"Araneta, Patricia",Edmonton,780-496-1390,IM GIM
 "Arasu, Mala",Calgary,403-995-5470,PED
 "Arbillaga, Hector",Calgary,403-265-7117,RHEU
 "Arcega, Rossana Virginia",Calgary,403-281-2020,CCFP
@@ -638,10 +629,10 @@ NAME,CITY,PHONE,SPECIALTY
 "Arruj, Mohamed",Williams Lake,250-392-7717,IM NEPH
 "Arruj, Nasim",Fort McMurray,780-750-2180,-
 "Arthur, Simon G",Calgary,403-282-1245,CCFP
-"Arya, Neehar",St. Albert,,EM
 "Asadi, Leyla",Edmonton,780-407-1427,IM
 "Asaolu, Olumide Opeyemi",Edmonton,780-758-9299,-
 "Ascione, Marc",Crossfield,403-941-0565,CCFP
+"Asham, Hany",Winkler,,ORTH
 "Ashaolu, Nike",Elk Point,780-724-3500,-
 "Ashenhurst, Michael",Calgary,403-245-3171,OPH
 "Asher, Ayesha",Calgary,403-724-9022,CCFP
@@ -656,6 +647,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Aslam, Rizwan",Calgary,403-516-2942,IM
 "Asma, Sayeed",Al Dawhah,+ 974 44069917,CCFP
 "Asongwe, Raymond Chi",St. Albert,,-
+"Asowata-Enaregha, Amen",Mayerthorpe,780-786-2412,-
 "Aspe Ayer, Diana M.A.",Calgary,403-230-6945,CCFP
 "Aspeling, Chrizanne",Peace River,780-624-0717,-
 "Aspinall, Alexander Ian",Calgary,403-956-3805,GE IM
@@ -703,7 +695,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Austin, Hillary J.",Sherwood Park,,EM
 "Austin, Neal",Calgary,403-944-4266,GS
 "Avdic, Emina",Calgary,,CCFP
-"Averin, Konstantin",Edmonton,,PED PEDC
 "Avery-Cooper, Geordon",Calgary,,CCFP CCEM
 "Avramenko, Victor",Calgary,587-327-2134,CCFP
 "Awad, Ahmed",Edmonton,780-761-8529,CCFP
@@ -766,7 +757,9 @@ NAME,CITY,PHONE,SPECIALTY
 "Bader, Ibrahim",Edmonton,780-428-3246,CARD IM
 "Badger, Chantal",Canmore,403-609-8333,CCFP
 "Badhesha, Jagdeep Singh",Calgary,403-475-2500,CCFP
+"Badi, Manal Mohamed A",Edmonton,780-761-3999,CCFP
 "Badilla, Jaime",Edmonton,780-757-5367,OPH
+"Badiru, Abibat Adepeju Adetoun",St. Albert,780-544-9407,CCFP
 "Badr, Khadija",Calgary,403-955-7985,DRAD
 "Badre, Armin",St. Albert,780-569-5494,ORTH
 "Baergen, Jim",Banff,403-762-4846,CCFP
@@ -792,7 +785,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Bailey, Karen",High River,403-652-4505,CCFP O&G
 "Bailey, Michelle",Calgary,403-955-3015,PED
 "Bailey, Patrick",Calgary,587-355-1349,CCFP
-"Bailey, Robert Allan",Rocky Mountain House,403-871-5580,CCFP FMSS
+"Bailey, Robert Allan",Creston,250-428-7768,CCFP FMSS
 "Bailey, robert j",Edmonton,780-421-1029,IM
 "Bain, Caroline",Calgary,403-271-5124,CCFP
 "Bain, Vincent",Edmonton,780-492-8128,IM GE
@@ -806,8 +799,8 @@ NAME,CITY,PHONE,SPECIALTY
 "Baird, Kevin",Calgary,403-210-9355,PSY
 "Baise, Taryn",Edmonton,780-306-1116,-
 "Baithoun, HALA",Edmonton,647-262-2992,-
-"Bajwa, Amandeep Kaur",St. Albert,780-418-8200,GS
 "Bajwa, Chanpreet Kaur",Sherwood Park,780-467-4343,CCFP
+"Bajwa, Harman",,,CCFP
 "Bajwa, Sameena Ashraf",Calgary,403-455-2550,CCFP
 "Bakare, Adedayo Samuel",Swift Current,306-773-4681,-
 "Baker, Chad Franklin",Edmonton,780-448-1801,OPH
@@ -816,7 +809,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Baker, Laurie Ann",Calgary,,CCFP CCEM
 "Bakir, Ali Jafar",Edmonton,780-989-6013,CCFP
 "Bakir, Christina",Lethbridge,403-394-3720,ORTH
-"Bakken, Daniel Eric",Edmonton,780-904-3679,CCFP
+"Bakken, Daniel Eric",Edmonton,,CCFP
 "Bakken, Maureen P.",Red Deer,403-347-8050,-
 "Bakshi, Aneesha",North York,,CCFP
 "Bakshi, Darshan Ramesh",Calgary,403-777-3000,DRAD
@@ -843,7 +836,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Ballinger, Karen Jean",Calgary,403-220-8518,PED
 "Balogh, Alex",Calgary,403-521-3091,RADO
 "Balouch, Hamid",Ponoka,403-783-7643,-
-"Balram, Bee",Edmonton,,IM
 "Balutis, Kelsey",Edmonton,780-407-7525,PED CRIT
 "Balyk, Robert A.",Edmonton,780-439-5858,ORTH
 "Balzun, Margaret Anne",Calgary,,CCFP
@@ -861,7 +853,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Banerji, Kunal",Edmonton,780-498-3971,CCFP
 "Bani, Ahmed",Edmonton,780 488 4242,CCFP
 "Bani, Lara",Edmonton,780-784-5626,IM
-"Banijamali, Hamid",Airdrie,585-885-3858,CARD IM
+"Banijamali, Hamid",Airdrie,587-885-3858,CARD IM
 "Banks, Anke Marie",Calgary,403-955-2980,NEPH PED
 "Banmann, Aaron",Lethbridge,403-317-1890,GS
 "Banmann, Dan",Lethbridge,403-388-6111,CCFP
@@ -874,7 +866,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Bansal, Sanjay",Calgary,403-777-3000,DRAD
 "Baptista, Luis C.",Edmonton,780-476-1388,-
 "Bara, Gurpaul Singh",Edmonton,780-306-1116,CCFP
-"Barakat, Nasser",Calgary,403-920-0011,CCFP
+"Barakat, Nasser",Calgary,403-266-2622,CCFP
 "Baran, Jacob Edward",Edmonton,780-468-5999,CCFP
 "Baranowski, Susan",Calgary,403-289-8996,O&G
 "Barber, Claire",Calgary,403-955-8930,RHEU IM
@@ -968,6 +960,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Baverstock, Richard",Calgary,403-943-8900,UROL
 "Bawden, Jaime LeeAnn",Sherwood Park,780-342-3464,CCFP CCEM
 "Baxter, Cynthia Linda",Calgary,403-460-5955,PSY FPSY
+"Baxter, Laura Joyce",Calgary,403-944-8535,NEUR
 "Baxter, Wai-Ling  Miranda",Edmonton,780-473-2102,CCFP
 "Baydala, Lola",Edmonton,780-735-2731,PED
 "Baydock, Sandra",Edmonton,587-635-3555,O&G
@@ -983,7 +976,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Beaudoin, Eve-Lea",Vancouver,604-875-4122,IM
 "Beaudry, Paul",Calgary,403-955-2850,GS PGS
 "Beavington, Chris",Calgary,403-284-4040,SEMD CCFP
-"Bebb, Gwyn",Thousand Oaks,805-447-2964,MONC IM
 "Becher, Harald",Edmonton,780-407-8504,CARD
 "Beck, Cynthia (Cindy)",Calgary,403-944-1298,PSY
 "Beck, Paul",Calgary,403-944-6583,IM GE
@@ -1007,9 +999,8 @@ NAME,CITY,PHONE,SPECIALTY
 "Behie, Andrea Carla",Calgary,403-221-9345,CCFP
 "Behm, Allan",Calgary,403-263-0661,DERM
 "Behmanesh, Saeid",New Westminster,604-520-4602,ANES
-"Beierle, Joshua Jerrad",High Level,780-926-2286,CCFP
+"Beierle, Joshua Jerrad",Calgary,780-926-2286,CCFP
 "Bekker, Antoinette",Medicine Hat,403-526-1551,PSY
-"Bekker, Leon",Loon Lake,306-837-2066,-
 "Belanger, Francois P.",Calgary,403 955 7070,PED
 "Belda, Patty",Edmonton,,CCFP
 "Belgasem, Nizar",Edmonton,780-451-3702,ANAP
@@ -1024,7 +1015,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Belland, Liane Mariette",Calgary,403-266-3030,O&G
 "Beller, Gregory",Kitchener,,CCFP
 "Bellerose, Sheri",St. Albert,780-569-2223,CCFP
-"Belletrutti, Paul",Calgary,403-944-6555,IM GE
+"Belletrutti, Paul",Calgary,403-944-6555,GE IM
 "Bello, Aminu",Edmonton,780-492-6690,NEPH
 "Bello-Espinosa, Luis",Orlando,321-842-6671,PEDN
 "Belsheim, Miriam",Red Deer,,CCFP
@@ -1092,7 +1083,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Bergner, Anahy",Calgary,204-998-9331,CCFP
 "Bergstrom, Richard",Edmonton,780-444-4030,ANES
 "Berhe, Tzeggai",Grande Prairie,780-833-4323,PSY
-"Bering, Michael Paul",Medicine Hat,403-504-5463,ORTH
+"Bering, Michael Paul",Medicine Hat,403-529-8024,ORTH
 "Berlin, Randall",Calgary,403-266-2622,CCFP
 "Bernadas, Sue A.",Edmonton,780-484-1138,CCFP
 "Bernbaum, Manya",Canmore,403-675-3088,CCFP
@@ -1161,6 +1152,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Bharwani, Fayaz",Calgary,,ANES
 "Bharwani, Hussein",Medicine Hat,403-526-7422,CCFP
 "Bhathala Venkata, Narasimha Prasad",Calgary,403-300-1999,PSY
+"Bhatia, Punashish Kaur",Edmonton,,CCFP
 "Bhatia, Sumeet",Calgary,,CCFP
 "Bhatla, Sanjeev",Calgary,403-247-9797,CCFP
 "Bhattacharjee, Amrita",Edmonton,780-735-2731,PED
@@ -1205,7 +1197,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Birch, Daniel Birch",Edmonton,780-735-4786,GS
 "Birdi, Kam",Edmonton,780-784-2177,RESP IM
 "Birkett, Leanne",Calgary,403-944-1491,PSY
-"Birkill, Richard S.",Lac La Biche,780-623-4421,-
 "Birn, Kailey",Calgary,,GS
 "Biron, Vincent Lucien",Edmonton,780-407-1566,OTO
 "Bisby, Katherine",Calgary,,CCFP
@@ -1232,14 +1223,13 @@ NAME,CITY,PHONE,SPECIALTY
 "Black, Tim",Edmonton,780-907-0639,DRAD
 "Blackburn, Christopher",Drumheller,403-823-6500,CCFP
 "Blackman, Adam Simon",Edmonton,780-488-8203,PSY
-"Blackman, Maurice",Edmonton,780-729-1871,PSY
 "Blackshaw, Alix",Hinton,780-865-3338,CCFP
 "Blackshaw, LeeAnna",Olds,403-556-7130,CCFP
 "Blackshaw, Mike",Olds,403-556-7130,CCFP CCEM
 "Blackwood, Jaime",Calgary,,CRIT PED
 "Blades, Megan",Calgary,,O&G
 "Blagdon, Ashley Mary",Calgary,403-943-8580,PED NPM
-"Blais, Guy Robert",Edmonton,780-850-7418,CCFP
+"Blais, Guy Robert",Edmonton,780-469-5533,CCFP
 "Blais, Mark Raymond",St. Albert,780-413-7568,-
 "Blakely, Reta",Calgary,587-318-4520,CCFP
 "Blanchard, Mathieu",Heritage Pointe,,CCFP
@@ -1273,12 +1263,13 @@ NAME,CITY,PHONE,SPECIALTY
 "Boiteau, Paul",Calgary,403 944-2471,RESP CRIT IM
 "Bokenfohr, Grace",Edmonton,780-438-3241,-
 "Boktor, Ashraf  Gaber  Habib",Calgary,403-274-9712,CCFP
+"Bol, Eric Gerald",Edmonton,,ANAP
 "Boldt, Charles Ian",Grande Prairie,604-316-3716,ANES
 "Boldt, Leah",Lethbridge,403-942-0555,CCFP
 "Bolduc, Francois",Edmonton,780-492-9616,PEDN
 "Bolduc, Gerry",Sherwood Park,780-735-4111,CCFP
 "Bolshin, Justin",Calgary,,CCFP
-"Bolstad, Jeremiah",St. Albert,780-342-1410,PSY CAPS
+"Bolstad, Jeremiah",St. Albert,780-342-1410,CAPS PSY
 "Bolstad, Sally",Medicine Hat,403-502-8929,CCFP
 "Bolster, Edwin Lee",Edmonton,780-407-6370,PED
 "Bolster, Lauren Dawn",Edmonton,780-407-1584,IM HEM
@@ -1336,7 +1327,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Bouchard-Fortier, Antoine",Calgary,403-944-5434,GS
 "Boucher, Michael Alexander",Calgary,905-902-6646,CCFP
 "Boucher, Michelle",Calgary,403-956-3038,CCFP
-"Boucher, Paul",Calgary,403-944-0735,CRIT IM
+"Boucher, Paul",Calgary,403-944-0735,IM CRIT
 "Boudreault, Ghislain",Calgary,403-444-4444,OPH
 "Boughen, Greg",Spruce Grove,780-960-1125,-
 "Boulanger, Michel",Edmonton,780 735 2537,EM
@@ -1364,7 +1355,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Boyd, Charley Marie",Camrose,780-672-2423,CCFP
 "Boyington, Curtiss",Edmonton,780-735-7236,IM
 "Boyko, Boris",Edmonton,780 453-5255,CCFP
-"Boyko, Mark",Surrey,778-581-2211,CCFP CCEM
 "Boyle, Riley",Edmonton,780-407-7035,ANES
 "Boyne, Tim",Calgary,403 571 6962,IM CARD
 "Bozdech, Miloslav",Red Deer,403-342-2020,OPH
@@ -1379,7 +1369,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Braganza, David Andrew",Campbellton,,CCFP CCEM
 "Braganza, Michael",Calgary,587-393-3935,IM RESP
 "Brager, Nancy",Calgary,403-270-8737,PSY
-"Brahim, Asad",Edmonton,780-909-0272,-
 "Brahmania, Mayur",Calgary,,GE
 "Braich, Kanwar",Calgary,403-247-9797,CCFP
 "Brain, Philippa Harriet",Calgary,403 944-2017,O&G
@@ -1402,14 +1391,13 @@ NAME,CITY,PHONE,SPECIALTY
 "Brass, Neil S.",Edmonton,780 428 3246,IM CARD
 "Brass, Stephanie",Lethbridge,,CCFP
 "Brassard, Graeme",Edmonton,780 483 2901,O&G
-"Bratu, Ioana",Edmonton,780-407-1162,GS PGS
+"Bratu, Ioana",Edmonton,780-407-1162,PGS GS
 "Bratvold, Jeffrey",Medicine Hat,403-502-8925,CCFP
 "Brauer, Carmen Alisa",Calgary,,ORTH
 "Braun, Ted",Calgary,403-944-5862,CCFP
 "Braun, Teddy",Edmonton,780-735-4443,CCEM CCFP
 "Bravo, Edward",St Paul,780-645-6000,-
 "Bray, Bob",Calgary,403-220-0410,ORTH
-"Breau, Jean-Bernard",Edmonton,780-407-4843,CARD IM
 "Brebesh, Bashir",Edmonton,780-735-2958,NEUR
 "Bredenkamp, Thomas",Calgary,403-955-6011,-
 "Bredenoord, Steven",Rocky Mountain House,403-895-2468,-
@@ -1429,7 +1417,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Brett, Amanda Catherine",Calgary,403-281-2500,PED
 "Brett, Kelly R.",Calgary,403 452 1316,FMSE
 "Brewerton, Conway",Lethbridge,403-942-6777,-
-"Brewerton, Lee James",Lethbridge,,DRAD
+"Brewerton, Lee James",Lethbridge,403-328-1122,DRAD
 "Breytenbach, Liza",Drayton Valley,780 898 4628,-
 "Brian, Lyttle",London,519-433-2242,PED RESP
 "Bridge, Andrew John",Lethbridge,403-942-7790,CCFP
@@ -1447,7 +1435,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Brindley, Peter George",Edmonton,780-407-8822,IM CRIT
 "Brisebois, Mandy",Edmonton,,IM
 "Brisebois, Ron",Edmonton,780-407-6632,CRIT GS
-"Brister, Danica",Calgary,403-943-4779,IM
 "Bristow, Erin",Edmonton,,EM
 "Bristow, Justine",Bonnyville,780-826-3346,CCFP
 "Bristow, Mike",Calgary,403-944-1969,DRAD
@@ -1469,7 +1456,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Brookes, James Thorpe",Calgary,403-955-2218,OTO
 "Brooks, Esnielle",Red Deer,403-352-7425,CCFP
 "Brooks, Laurie",Edmonton,780-488-2232,-
-"Brooks, Page",Calgary,403-988-7450,CCFP FMAN
 "Brooks, Trevor Michael",Medicine Hat,403-487-0460,PS
 "Brown, Alexander",Calgary,403 943 5721,ANES
 "Brown, Andrea Marie",Edmonton,780-466-6236,CCFP
@@ -1572,7 +1558,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Bury, Jeff",Edmonton,,ORTH
 "Busche, Kevin Douglas",Calgary,403-943-3214,NEUR
 "Bushaala, Rasha",Edmonton,780 761 0732,-
-"Bushell, Robin",Moose Jaw,,CCFP FMAN
 "Buski, John",Calgary,403-253-5300,OPH
 "Bussiere, Miguel",Edmonton,780-735-9626,NEUR
 "Butalia, Sonia",Calgary,403-955-8327,ENDO IM
@@ -1595,7 +1580,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Byers, Susan Dorothy",Lethbridge,403-320-3289,CCFP
 "Byers, Trevor",Leduc,780-986-6624,CCFP
 "Byker, Leonard",Edmonton,,CRIT IM
-"Byrns, Simon",Edmonton,780-407-1537,GS PGS
+"Byrns, Simon",Edmonton,780-407-1537,PGS GS
 "Cabaj, Jason Lee",Calgary,403-943-0209,PHPM
 "Caddy, Bryan James Vernon",Red Deer,403-343-4768,-
 "Caddy, Sheila",Calgary,403-956-2000,O&G
@@ -1610,13 +1595,11 @@ NAME,CITY,PHONE,SPECIALTY
 "Caine, J. Douglas",Calgary,403-270-4300,CCFP
 "Cairncross, Gregory",Calgary,403-210-6596,IM NEUR
 "Cairncross, Sarah",Calgary,587-619-7900,CCFP
-"Calder, Kevin Andrew",Calgary,403-956-3898,PS
 "Calder, Tammy Rachel",Calgary,403-943-3000,CCFP
 "Caldwell, Steven Stewart",Edmonton,780 492-0069,IM NEPH
 "Calhoun, Erin",Three Hills,403-443-5522,-
 "Calitz, Jaco",Whitecourt,780-706-7080,-
 "Callahan, David",Edmonton,780-906-8198,GS
-"Callihoo, Janna Michelle",Edmonton,780-498-3999,CCFP
 "Caluseriu, Oana",Edmonton,780-407-7333,MGEN
 "Camara, Carlos",Calgary,,NEUR
 "Cameron, Alison",Medicine Hat,403-487-2262,CCFP
@@ -1641,7 +1624,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Campbell, Malcolm",Ponoka,403-783-7600,-
 "Campbell, Pamela",Calgary,,-
 "Campbell, Patricia M.",Edmonton,780-407-8881,NEPH IM
-"Campbell, Riley",Nelson,250-777-1828,ORTH
+"Campbell, Riley",Calgary,250-777-1828,ORTH
 "Campbell, Stacy Marie",Edmonton,780-735-7514,PSY
 "Campbell, Susan Lea",Edmonton,780-944-9585,-
 "Campbell, Tessa",Calgary,587-943-4343,RHEU IM
@@ -1663,7 +1646,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Captan, Vasile",Edmonton,780-735-8106,IM
 "Capusten, Bernice",Red Deer,403-755-1056,DRAD
 "Caragea, Mara Andrea",Calgary,403-944-6685,ANAP
-"Caragianis, Anthony N. M.",Stony Plain,780-968-3600,CCFP FMSE
+"Caragianis, Anthony N. M.",Stony Plain,780-968-3600,FMSE CCFP
 "Caratun, Robert",Calgary,,CCFP
 "Card, Cynthia",Calgary,403-521-3446,IM
 "Cardeano, Kelly Jean",Bonnyville,,-
@@ -1823,7 +1806,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Chang, Christine",Calgary,403-944-2404,PSY
 "Chang, David",Edmonton,780-907-8838,-
 "Chang, Eddie",Edmonton,780-735-4442,EM
-"Chang, James",Calgary,403-230-3866,-
+"Chang, James",Calgary,403-230-3866,CCFP
 "Chang, Jason H.",Edmonton,780-735-4442,CCFP CCEM
 "Chang, Kelly",Calgary,403-239-9733,CCFP
 "Chang, Ruoh-Yeng",Sherwood Park,780-449-5380,CCFP
@@ -1837,7 +1820,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Chapman, Chris",Sundre,403-638-2424,CCFP
 "Chapman, Erin May",Edmonton,780-407-1256,ANAP
 "Chapman, Kimberly Ann",Stettler,403-742-4011,CCFP
-"Chapman, Larry Ryan",Surrey,,CCFP
 "Chapman, Sean",Edmonton,780-735-2000,CCEM CCFP
 "Chappell, Nicola R.",Calgary,403-252-8851,CCFP
 "Charbonneau, Francois",Calgary,403-521-2227,IM CARD
@@ -1846,7 +1828,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Chari, Anish",Three Hills,403-443-5522,CCFP
 "Chari, Radha S",Edmonton,780-906-5132,O&G
 "Chark, Davin",Grande Prairie,780-513-2255,OTO
-"Charles, Leduc",Calgary,403-955-9300,CCFP
 "Charles, Lesley",Edmonton,780-735-8882,CCFP FMCE
 "Charleton, Ed",Edmonton,403 517 6097,-
 "Charlton, Jeff",Edmonton,,ANES
@@ -1857,7 +1838,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Chatha, Sandeep",Edmonton,604-761-4896,CCFP
 "Chatterjee, Neal",Edmonton,780-801-3366,CCFP
 "Chatur, Rehana",Edmonton,780-432-0970,PED
-"Chatur, Safia",Red Deer,403-343-4422,IM CARD
+"Chatur, Safia",Boston,,IM CARD
 "Chaturvedi, Rahul",Edmonton,587-415-1251,CCFP
 "Chau, Heidi",Edmonton,780-761-3330,PSY
 "Chau, Jaime",Calgary,403-384-5494,CCFP
@@ -1889,7 +1870,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Cheema, Marvi",Edmonton,,OPH
 "Cheema, Navbir (Nevy) K.",Rocky View County,403-285-5080,CCFP
 "Cheesman, Mark",Calgary,403-956-3883,ANES
-"Chehade, Hiba",St. Catharines,437-360-6660,-
 "Chehimi, Abdul-Hamid",St. Albert,780 460-4562,CCFP
 "Chen, Biqi",Edmonton,780 248 5420,PED GE
 "Chen, Charlie",Calgary,403-944-2304,CCFP FMPC
@@ -1919,14 +1899,14 @@ NAME,CITY,PHONE,SPECIALTY
 "Cheng, Tina",Calgary,,IM
 "Cheng, Yu Ling (Vivian)",Calgary,403-282-9865,CCFP
 "Cherepanov, Vasily",Medicine Hat,403-502-8273,DRAD
-"Chernenko, Vitaliy",Lethbridge,,CCFP
+"Chernenko, Vitaliy",Lethbridge,,CCFP CCEM
 "Cherniak, William",Markham,905-472-7373,CCFP CCEM
 "Cherry, Tadd",Calgary,403-943-5554,ANES
 "Chetty, Arnold Wesley",Calgary,,-
 "Chetty, Sandrasen",Drumheller,403 823 3345,-
 "Chetty, Vanessa",Edmonton,780-483-7860,-
-"Cheuk, Stephen",Calgary,403-251-6066,CI&A PED
-"Cheung, Ace",Edmonton,587-921-4228,-
+"Cheuk, Stephen",Calgary,403-251-6066,PED CI&A
+"Cheung, Ace",Edmonton,587-521-2022,-
 "Cheung, Benny",Calgary,403-230-3866,CCFP
 "Cheung, Edward",Edmonton,780-426-1121,DRAD
 "Cheung, Garvin",Edmonton,780-453-5255,CCFP
@@ -2043,7 +2023,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Christenson, Susan",Stand Off,403 737 8610,CCFP
 "Christiansen, Jesse",Innisfail,403-227-3356,CCFP
 "Christie, Emily Arielle",Edmonton,780-492-1759,NEPH IM
-"Christy, Sheena",Calgary,403-910 2596,CCFP
+"Christy, Sheena",Calgary,403-777-2757,CCFP
 "Chronopoulos, Julia",Edmonton,780-250-6842,CCFP
 "Chrusch, Carla",Calgary,403-943-3788,IM RESP CRIT
 "Chrusch, Cathy",Calgary,403 726-9729,DRAD
@@ -2073,7 +2053,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Chun, Rosaleen",Calgary,403-944-1430,ANES
 "Chung, Andrew Brian",Edmonton,587-735-3030,CCFP
 "Chung, Brendon",Edmonton,780-735-7000,ANES
-"Chung, Carol",Edmonton,780-492-7824,RESP IM
+"Chung, Carol",Edmonton,780-492-7824,IM RESP
 "Chung, Helen",Calgary,403-234-6023,OPH
 "Chung, John Bao Minh",Edmonton,825-436-8299,DRAD
 "Chung, Kerri",Edmonton,780-735-2472,ANAP
@@ -2100,7 +2080,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Clarahan, Shannon",Edmonton,,IM
 "Claramunt, Jaime Andres",Grande Prairie,780-402-8001,-
 "Clark, Brenda G.",Edmonton,780-735-7921,PED
-"Clark, Jeff",Calgary,403-943-5474,VS GS
+"Clark, Jeff",Calgary,403-943-5474,GS VS
 "Clark, Jessica",Calgary,403-955-2218,OTO
 "Clark, Jodie",Calgary,403-452-9711,CCFP
 "Clark, Kathleen",Canmore,403-675-3088,CCFP
@@ -2152,16 +2132,14 @@ NAME,CITY,PHONE,SPECIALTY
 "Cohen, Adrienne Faith",Calgary,403-955-1549,GM IM
 "Cohen, Herb",Claresholm,403-682-3500,PSY
 "Cohen, Matthew Robert",Edmonton,780-735-4010,ANES
-"Cohen, Robert",Calgary,403-256-6663,CCFP
+"Cohen, Robert",Calgary,403-254-6663,CCFP
 "Cohen, Robin Raphael",Calgary,403-984-2226,CCFP
 "Cojocaru, Alex",Edmonton,780-487-7713,CCFP
 "Colbert, Jillian",Calgary,403-943-4524,CARD IM
 "Colbert, Peter",Calgary,403-278-2164,CCFP
 "Colcy, Elizabeth Ann",Edmonton,,ANES
-"Cole, Dale",Calgary,403-247-9797,CCFP
 "Cole, Marty",Calgary,403-244-2624,IM GE
 "Cole, Robert Daniel",Calgary,403-265-6533,CCFP
-"Colebrook, John",Red Deer,403-343-4444,CCFP CCEM
 "Coleman, Angela",Calgary,403-282-3806,CCFP
 "Colgan, Simon John",Calgary,,FMPC
 "Colijn, Mark",Calgary,,PSY
@@ -2179,10 +2157,11 @@ NAME,CITY,PHONE,SPECIALTY
 "Colthrust, Rawle Colin",Edmonton,780-989-5300,CCFP
 "Coma, Aaron",Lethbridge,403 328-2326,CCFP
 "Coma, Adrian",Westlock,780-307-3744,CCFP
+"Comeau, Kent",Medicine Hat,,PSY
 "Comeau, Raymond",Red Deer,403-342-7270,CCFP
 "Condliffe, Elizabeth Grace",Calgary,403-955-7251,PM&R
 "Congdon, Barry",Edmonton,780-735-4111,ORTH
-"Congly, Stephen",Calgary,403-944-6555,IM GE
+"Congly, Stephen",Calgary,403-944-6555,GE IM
 "Conly, John Maynard",Calgary,403-944-8090,IM CCFP ID
 "Connelly, Michael S.",Calgary,403 943 4662,CARD
 "Connick, Carol D",Edmonton,780-735-2000,CCFP
@@ -2238,13 +2217,12 @@ NAME,CITY,PHONE,SPECIALTY
 "Costello, Fiona Evanne",Calgary,403-944-8389,NEUR
 "Costello, Katy",Calgary,403 955 6155,PSY
 "Cota Schwarz, Ana Lucia",Calgary,403-944-6683,ANAP
-"Côté, Anne-Josée",Calgary,403-955-5502,PED
 "Cote, David S.",Edmonton,780-450-3335,OPH
 "Cote, David Walli Joseph",Edmonton,780-407-4491,OTO CCFP
 "Cote, Erin",Hinton,780-865-3338,CCFP
 "Cote, Richard V.",Cochrane,403-907-0490,CCFP CCEM
 "Cotton, Darrel",Calgary,403-956-3800,IM
-"Coughlan, Laura",Calgary,403 289 8996,O&G
+"Coughlan, Laura",,,O&G
 "Coughlin, Jason James",Sherwood Park,780-464-0123,CCFP
 "Coughlin, Jim",Grande Prairie,825-412-4000,DRAD
 "Couillard, Philippe",Calgary,403-944-2471,NEUR CRIT
@@ -2254,7 +2232,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Courtney, Keith Williams",Calgary,825 437 8574,PSY
 "Courtney, Mark",Edmonton,780-492-2122,IM NEPH
 "Courvoisier-Grzywacz, Ewa",Calgary,403 956 3000,CCFP
-"Coutinho, Wade",Edmonton,780-487-7713,CCFP
+"Coutinho, Wade",Waterloo,,CCFP
 "Coutts, Shelagh Brown",Calgary,403-944-1594,NEUR
 "Cowan, Shaun Mark",Edmonton,,GS
 "Cox, Robin Gray",Calgary,403-955-7810,ANES
@@ -2275,7 +2253,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Crawford, Kathleen",Edmonton,,CCEM CCFP
 "Crawford, MacKenzie",Devon,780-342-7000,CCFP
 "Crawford, Rob",Cardston,403-653-3331,-
-"Crawford, Stephen",Lethbridge,403-894-1611,-
 "Crawley, Cinzia",Lethbridge,,DRAD
 "Crawley, Renee Allison",Lacombe,403-782-3351,CCFP
 "Crewe, Carly",Blackfalds,587-205-5900,CCFP
@@ -2288,6 +2265,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Crockford, David N.",Calgary,403-944-1491,PSY
 "Croft, Lorraine",Calgary,403-455-6580,-
 "Cromwell, Korwin",Edmonton,,CCFP CCEM
+"Crone, Megan",Calgary,403-955-7211,NEUR
 "Cronje, RYNIER",St. Albert,780-458-7344,-
 "Crook, Michelle",Canmore,819-572-8079,CCFP
 "Cross, Elfriede",Edmonton,780-407-7047,EM
@@ -2327,8 +2305,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Curry, Lexie",Calgary,403-240-2221,CCFP
 "Curtis, Colleen Mary",Calgary,403-955-7816,NEUR
 "Curtis, Glenn",Calgary,403-286-9118,CCFP
-"Curtis, Michael",Calgary,403-521-2227,CARD IM
-"Curtis, Michael",Stratford,519-271-4881,CCFP CCEM
+"Curtis, Michael",Calgary,403-521-2227,IM CARD
 "Curtis, Robin",Red Deer,403-392-5992,ANES
 "Curtis, Sarah",Edmonton,780.492.9077,PED
 "Cusnir, Ina",Calgary,403-221-4465,IM
@@ -2337,7 +2314,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Cwinn, Matthew",Edmonton,780-461-6012,VS GS
 "Cyngiser, Frances",Edmonton,780-487-4485,-
 "Cyr, Daniel",Trois-Rivières,819 489-0523,CCFP
-"Cyr, Kayla",Timmins,705-269-0415,ORTH
 "Cyrus, Bitabella",Calgary,403-398-5449,CCFP
 "Czechowsky, Diana K.",Calgary,403-216-9860,PSY
 "Czernikiewicz, Voytek",Edmonton,780 973 4011,PSY
@@ -2346,7 +2322,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Dabbs, Kelly",Edmonton,780-735-6562,GS
 "DaCambra, Mark Philip",Grande Prairie,780-402-7181,ORTH
 "DaCunha, Noel",Westlock,780-349-3341,-
-"Dada, Daniel Olufemi",Didsbury,403-335-8896,CCFP
+"Dada, Daniel Olufemi",,,CCFP
 "Dada, Nadeem Ahmad",Edmonton,780-400-2271,PSY
 "D'Agnone, John J.",Lethbridge,403-328-3836,PSY
 "D'Agostini, Stephanie",Spruce Grove,780-962-9888,CCFP
@@ -2362,7 +2338,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Dalphond, Louise M.",Lethbridge,403-327-3977,-
 "Dalvi, Siddhartha",Edmonton,,HEMP ANAP
 "Daly, Andrew",Calgary,403-944-5246,IM HEM
-"Damant, Ron",Edmonton,780-492-4554,IM CCFP RESP
+"Damant, Ron",Edmonton,780-492-4554,CCFP IM RESP
 "Damaraju, Swathi",Calgary,587-318-4520,CCFP
 "Damji, Rahim Salim",Calgary,403-275-6606,CCFP
 "Danby, Stuart",Okotoks,403-540-9212,CCFP
@@ -2372,6 +2348,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Dang, Thuc Nhi",Edmonton,780-421-1029,IM
 "Dang, Wilfred",Edmonton,780-426-1121,DRAD
 "Dangerfield, Jordan",Calgary,587-296-3363,CCFP
+"Danial, Amathul Azeez",Edmonton,780-450-4550,-
 "Danial, Hajira",Edmonton,780-421-4728,O&G
 "Daniel, Antia",Calgary,587-576-3344,CCFP
 "Daniel, Ariana",Edmonton,,O&G GREI
@@ -2391,7 +2368,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Darby, Mark",Calgary,587-353-5040,CCFP
 "Darcus, Karl",Calgary,403-943-5554,ANES
 "Dares, Katherine",High River,403-652-2929,CCFP
-"Dargie, Andrew Clarke",Calgary,587-822-2027,CCFP
 "Darif, Suzan",Grande Prairie,780-533-4444,-
 "Darnell, Tim",Lacombe,403-782-3351,CCFP
 "Darren, Lau",Edmonton,780-492-7711,GIM IM
@@ -2430,7 +2406,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Davidow, Jon",Edmonton,780-995-0350,EM CRIT
 "Davids, Jonathan",Edmonton,780-484-8411,CCFP
 "Davids, Peter",Calgary,403-943-4999,CCFP CCEM
-"Davidson, Gary",Red Deer,403-343-4442,CCFP
+"Davidson, Gary",Red Deer,,CCFP
 "Davidson, Mark R.",Edmonton,780-489-3005,PED
 "Davidson, W",Calgary,403-910-5314,IM RESP
 "Davidson, Zach",Edmonton,780-735-4111,ANES
@@ -2442,7 +2418,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Davies, Martin",Calgary,403-440-6326,CCFP
 "Davies, Robert",Calgary,403 215 2900,DRAD
 "Davies, Stacy J.",Calgary,403-269-3114,CCFP
-"Davila, Andres",Grande Prairie,825-412-4280,-
+"Davila, Andres",Grande Prairie,825-412-4280,PSY
 "Davis, Janet E.",Calgary,403 478 2170,-
 "Davis, Laura",Edmonton,780-735-7000,VS
 "Davis, Melinda",Calgary,403-944-1403,ANES
@@ -2512,7 +2488,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Dean, Lucas Wyatt",Edmonton,780-407-5800,UROL
 "Dean, Naeem",Edmonton,780 944 2705,IM
 "Dearden, Madalena",Grande Prairie,780-833-4991,CCFP
-"Deban, Mélina",Calgary,403-521-3169,GS
 "Debek, Ali",Calgary,403-235-4109,IM
 "Debenham, Brock John",Edmonton,780-432-8516,RADO
 "Debert, Chantel",Calgary,403-944-1580,PM&R
@@ -2522,6 +2497,7 @@ NAME,CITY,PHONE,SPECIALTY
 "deBruyn, Jeremy Hendrik Clayton",Calgary,403-221-8797,CCFP
 "DeBruyne, Beth",Edmonton,780-451-3537,PED
 "DeCesare, James Michael",Edmonton,780-342-7784,PSY
+"Dechant, Anthony",Calgary,,IM RESP
 "DeCicco, Angeline Dawn Martin",St. Albert,780-419-3627,CCFP
 "Decker, Martha",Calgary,403-221-4465,IM
 "DeCock, Marie",Airdrie,,CCFP
@@ -2564,6 +2540,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Der, Linda",Edmonton,780-479-1944,-
 "Derakhshan, Mina",Calgary,403-240-2258,CCFP
 "Derdall, Kirstin Meredith",Lethbridge,403-388-6111,ANES
+"Derflinger, Konrad Albert",Lethbridge,,PSY
 "Dergousoff, Brieanne",Calgary,,PED
 "Dergousoff, Jace Keston Fredrick",Calgary,403-944-1321,PSY
 "Derie-Gillespie, Lena",Medicine Hat,403-487-3944,CCFP
@@ -2610,7 +2587,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Dhaliwal, Rupinder Kaur",Edmonton,780-421-4728,O&G
 "Dhaliwal, Sandeep",Red Deer,403-342-0494,OTO
 "Dhaliwal, Sundeep Singh",Calgary,403 956 3038,CCFP
-"Dhalla, Muhammed",Calgary,403-879-7911,RHEU PED
+"Dhalla, Muhammed",Calgary,403-879-7911,PED RHEU
 "Dhanani, Raheem Hassan Ali",Bow Island,403-545-2244,-
 "Dhanji, Sadru",Calgary,403-272-8130,CCFP
 "Dhanoa, LeRose",Edmonton,780-705-4090,CCFP
@@ -2656,7 +2633,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Dinsa, Gurpreet S.",Leduc,780-986-2712,CCFP
 "Dinyari, Kourosh",Edmonton,780-342-6552,-
 "Dion, Michelle",Edmonton,780-342-4740,CCEM
-"DiPasquale, Ashley",Edmonton,,GS
 "DiPersio, Mario Bruno",Edmonton,780-735-8208,PM&R
 "Dippenaar, Helgardt",Wetaskiwin,780-352-9700,-
 "Dirker, Caren",Medicine Hat,403 529 8000,-
@@ -2698,7 +2674,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Doherty, Katie",Calgary,403-208-1160,PED
 "Doig, Chip",Calgary,403-944-2471,CRIT IM
 "Dolatabadi, Amir",Medicine Hat,403-487-5313,NEUR
-"Dolgetta, Speranza",Calgary,403-269-9488,CCFP
+"Dolgetta, Speranza",Calgary,403-454-6199,CCFP
 "Dolhaniuk, Christina Emilia Daria",Edmonton,587-523-0235,O&G
 "Dolinka, Peter Przemyslaw",Calgary,403-460-4502,CCFP
 "Doll, Corinne",Calgary,403-521-3196,RADO
@@ -2728,7 +2704,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Dorey, Michael",Edmonton,780-450-3335,OPH
 "Dorjee, Tsering",Calgary,,-
 "Dornian, Jonathan",Calgary,403-955-6566,PSY
-"Doroshenko, Alexander",Edmonton,780-492-4910,PED PHPM ID
+"Doroshenko, Alexander",Edmonton,780-492-4910,ID PED PHPM
 "Dorri, Ehsan",Calgary,403-944-1110,PSY
 "Dorrington, Cathy",Calgary,403-943-4999,EM
 "Dorsch, Micha",Edmonton,780-428-3246,CARD
@@ -2744,7 +2720,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Doucette-Preville, Stéphane René",Edmonton,780-489-8430,DRAD
 "Dougall, Hugh R.",Calgary,403 221 8359,ORTH
 "Dougherty, Stephen Hugh",Calgary,403-454-3770,CCFP
-"Doughty, Paul",Calgary,403-955-7074,PED CRIT
+"Doughty, Paul",Calgary,403-955-7074,CRIT PED
 "Douglas, David",Lethbridge,403-328-1122,DRAD NUCM
 "Douglas, Steve",Strathmore,,CCFP
 "Douglas-Jones, Paul",Red Deer,403-342-0494,OTO
@@ -2776,8 +2752,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Drebit, Robert",Edmonton,780 400-2271,PSY
 "Dreise, Heather",Ponoka,403-783-3399,PED
 "Drever, Clinton Jay",Calgary,403-943-9476,CCFP CCEM
-"Drew-McKinstry, Meg",Calgary,403-956-3801,HEM IM
-"Drews, Tanya",Calgary,403-955-7931,PED
+"Drews, Tanya",Calgary,403-955-7931,CRIT PED
 "Dreyer, Francois",Hinton,780-816-0556,-
 "Dreyer, Ryno Richard",Brooks,403-793-8111,-
 "Driedger, Emmi",Red Deer,403-340-6404,PED
@@ -2795,7 +2770,6 @@ NAME,CITY,PHONE,SPECIALTY
 "du Plessis, Lienki",Calgary,780-783-0537,-
 "du Plessis, Mia",Edson,780-723-3366,-
 "Du Plessis, Stephan",Calgary,403-944-4776,NS
-"du Plooy, Magriet",Tshwane,,PED
 "du Plooy, Rian",Lloydminster,780-875-2221,-
 "Du Preez, Amelia",Bonnyville,780-826-3346,-
 "du Prey, Beatrice",Okotoks,403-938-5455,CCFP
@@ -2825,7 +2799,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Dufresne, Jeffrey",Fort McMurray,587-229-6968,CCFP
 "Duggan, Keltie",Calgary,403-944-4258,CCFP
 "Duggan, Peter",Calgary,403-944-5246,IM HEM
-"Duggan, Shelley Lynn",Edmonton,780-994-7120,CRIT IM NEPH
+"Duggan, Shelley Lynn",Edmonton,780-994-7120,IM CRIT NEPH
 "Duggleby, Gerald",Canmore,,CCFP
 "Duha, Aalo",Edmonton,780-432-8486,DRAD
 "Duhra, Kiran",Calgary,403-243-9500,CCFP
@@ -2916,16 +2890,15 @@ NAME,CITY,PHONE,SPECIALTY
 "Edgecumbe, Boyd M.S.",Edmonton,,CCFP
 "Edginton, Stefan",Calgary,403 944 1464,IM RESP
 "Edguer, Beste",Edmonton,780-441-9880,NEUR
-"Ediger, Krystyna Leigh",Edmonton,780-735-4670,NPM PED
+"Ediger, Krystyna Leigh",Edmonton,780-735-4670,PED NPM
 "Edstrom, John",Camrose,,PSY
 "Edwards, Allison Diane",St. Albert,780-459-1104,O&G
 "Edwards, Brett",Calgary,403-944-9643,ID IM
-"Edwards, Dane",Hinton,780 865 3338,CCFP
 "Edwards, David",Edmonton,780-483-6400,PS
 "Edwards, Janet",Calgary,403-944-8560,TS GS
 "Edwards, Marianne Catherine",Edmonton,780-990-0670,OPH
 "Edwards, Patrick",Belleville,613-945-1111,CCFP
-"Eeles, Ruth",Canmore,403-678-5585,CCFP
+"Eeles, Ruth",Canmore,403-471-1741,CCFP
 "Eesa, Muneer",Calgary,,DRAD
 "Efenure, SIMON",Calgary,587-318-7156,CCFP
 "Efimova, Olga",Three Hills,403-443-5522,CCFP
@@ -2937,6 +2910,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Egbujuo, Collins",St. Thomas,519-633-0038,-
 "Ehigiator, Etinosa Anne",Red Deer,403-343-0115,-
 "Ehigiator, Japhet Osayawe",Red Deer,403-343-0115,-
+"Ehigiator, Patrick Femi",Calgary,,CCFP
 "Ehlers, Leo",Stony Plain,780-963-7800,-
 "Ehmann, David",Edmonton,780-448-1801,OPH
 "Ehmann, Jonathan Erwin",Calgary,306-591-2228,DRAD
@@ -2998,6 +2972,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Elhaj Emhmed, Sufrani",Edmonton,780-462-3491,-
 "El-Hakim, Hamdy",Edmonton,780-407-8629,OTO
 "Elharathi, Hythum",Edmonton,587-400-3709,CCFP
+"Elharram, Malik",Edmonton,780-407-6507,IM
 "Elhasumi, Hatim",Calgary,403-457-5850,CCFP
 "Elhsaeri, Nader",Grande Prairie,780-539-9892,CCFP
 "Eliason, Darrel G.",Calgary,403-286-3035,-
@@ -3021,7 +2996,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Elliott, Graham Robert",Calgary,,CCFP
 "Elliott, John",Edmonton,780-407-7400,DERM
 "Elliott, John",Nanaimo,403 479 9202,PSY
-"Elliott, Mark",Edmonton,403-944-5530,IM NEPH
 "Elliott, Meghan",Calgary,403-210-9640,IM NEPH
 "Elliott, Sarah",Calgary,403-221-8780,CCFP
 "Elliott, Vance",Sherwood Park,780-416-8999,CCFP
@@ -3039,7 +3013,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Elms, Alan",Calgary,403-284-3272,CCFP
 "Elmsallati, Taher",Edmonton,780-752-4288,-
 "Elmusharaf, Mohamed S.",Calgary,403-454-9235,CCFP
-"Elnagar, Islam",Red Deer,403-309-2001,ORTH
 "El-Nageh, Osama Mahmoud E.",Sherwood Park,587-200-0105,-
 "Elrebigi, Mona",Red Deer,403-343-4422,-
 "Els, Joe",Camrose,780-672-2423,-
@@ -3051,7 +3024,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Elwani, Murad",Calgary,403-236-2344,-
 "Elwesh, Safya",Edmonton,780-391-1880,CCFP
 "Elzinga, Kate",Calgary,403-956-3867,PS
-"Emadi, Mehrdad",Calgary,403-236-2344,-
+"Emadi, Mehrdad",Calgary,403-384-9799,-
 "Emagbetere, Arthur",Cold Lake,780 639 3001,-
 "Embaya, Mohamed A. A. M.",Edmonton,,-
 "Embia, Omran M. A.",Edmonton,780-752-4288,CCFP
@@ -3078,7 +3051,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Erasmus, Deon",Provost,780 753-2271,-
 "Erasmus, Elizabeth",Calgary,403-955-6600,CCFP
 "Erasmus, Magda",Sherwood Park,780-400-3323,-
-"Erasmus, Schoombee",Westlock,780-349-3341,CCFP FMAN CCEM
+"Erasmus, Schoombee",Westlock,780-349-3301,CCFP FMAN CCEM
 "Erfanifar, Haydeh",Edmonton,780-989-6013,-
 "Erian, Ragaee Saleeb",Spruce Grove,780-948-1559,CCFP
 "Ericksen, Marty",Lethbridge,403.328.1925,CCFP ANES
@@ -3122,14 +3095,14 @@ NAME,CITY,PHONE,SPECIALTY
 "Evans, Sarah",Calgary,403-943-3000,CCFP
 "Evashuk, Kristin",Calgary,,PED
 "Evered, Lisa Maureen",Edmonton,780-407-3737,PED
-"Evernden, Kyle Joseph",Rimbey,403-843-2256,CCFP
+"Evernden, Kyle Joseph",Calgary,403-236-2344,CCFP
 "Ewa, Vivian",Calgary,403-955-1505,CCFP FMCE
 "Ewanowich, Carol",Edmonton,780 735 6895,ANAP
 "Ewasechko, Gail",Calgary,403 943 3558,CCFP FMCE
 "Ewashina, Darby",Calgary,403-956-4222,PSY
 "Ewen, Alastair",Calgary,403-819-8357,ANES
 "Ewen, Emily Marie",Bonnyville,780-826-3346,CCFP
-"Ewing, Christopher",Edmonton,780-421-1990,PRES PED
+"Ewing, Christopher",Edmonton,780-454-8857,PRES PED
 "Exner, Derek",Calgary,403-220-3219,IM CARD
 "Eyo, Francis",Fort Saskatchewan,780-998-2256,CCFP
 "Ezaydi, Murad",Calgary,403-254-8703,CCFP
@@ -3142,6 +3115,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Ezeno, Dumebi",Lethbridge,403-328-6641,-
 "Ezike, Ifeanyi",McLennan,780-324-3054,-
 "Ezumah, Celestine Emeka",Lloydminster,780 874 1077,CCFP
+"Ezzabi, Nada",Grande Cache,,-
 "Ezzat, Jumana",Edmonton,780-432-8229,-
 "Fabreau, Gabriel Esteban",Calgary,403-210-8608,IM
 "Fadahunsi, Olajide  Babatunde Weyburn",,306-897-3239,PSY
@@ -3167,7 +3141,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Fajimi, olaitan",Calgary,587-392-5858,-
 "Fakulujo, Olumide (Dr Bisi)",Edmonton,780-850-2345,CCFP
 "Falade, Ayo",Edmonton,780-705-8300,CCFP
-"Falk, David",Calgary,587-393-1300,CCFP
+"Falk, David",Calgary,587-393-1350,CCFP
 "Falkenstein, Richard",Calgary,403 247 6813,ANES
 "Fallis, Shari",Edmonton,780-482-7551,-
 "Falodun, DJ",Calgary,403 685 3350,CCFP
@@ -3179,7 +3153,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Fanous, Samuel",Edmonton,587-415-3537,CCFP FMCE
 "Farag, Erene",Edmonton,780-451-3702,PATH
 "Farag, Hayam",Spruce Grove,587-461-2050,CCFP
-"Farah, Dahir Ali",Lower Sackville,,CCFP
 "Farah, Musarat",Calgary,403-724-9022,CCFP
 "Farhan, Maikel",Edmonton,,PED
 "Farhat, FAWZI",Edmonton,780-705-0506,-
@@ -3232,6 +3205,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Fee, Sabrina",Edmonton,,CCFP
 "Fehr, Lana Marie",Arrowwood,587-652-5999,CCFP
 "Fehr, Sharon",Calgary,403-955-6011,-
+"Feldman, Matthew",Calgary,403-955-5443,PED
 "Fell, Charlene D",Calgary,403-956-2800,IM RESP
 "Fell, Heidi",Calgary,403-248-2273,CCFP
 "Felske-Durksen, Cassandra Lucille",Edmonton,780-735-4512,CCFP
@@ -3267,7 +3241,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Ficiur, Brian",Red Deer,403-343-4422,CCFP
 "Fida, Norina",Calgary,403-455-2216,PED
 "Fiedrich, Elsa Clare",Calgary,403-956-3695,PED NPM
-"Field, Nicholas Charles Farningham",St. Albert,780-418-7310,CCFP FMAN
+"Field, Nicholas Charles Farningham",St. Albert,780-418-7310,FMAN CCFP
 "Field, Stephen",Calgary,403-220-8722,IM RESP
 "Fielden, Michael Peter",Calgary,403-286-6802,OPH
 "Fielding, Ariane Emilie",Edmonton,780-735-2000,ANES
@@ -3285,7 +3259,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Findlay, Megan Rose",Hinton,780-865-3338,CCFP
 "Findlay, Ted",Calgary,403-943-9900,CCFP
 "Fine, Alison G",Vancouver,,CCFP
-"Fine, Nowell",Calgary,403-956-3748,IM CARD
+"Fine, Nowell",Calgary,403-956-3748,CARD IM
 "Fineblit, Samuel Elliott",Calgary,403-221-4440,IM ENDO
 "Finegan, Donal Anthony",Calgary,403-944-1430,ANES
 "Fingard, Jordan",Edmonton,780 426 1121,DRAD
@@ -3312,7 +3286,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Flaman, Ashley",Calgary,403-770-3797,ANAP
 "Flanagan, Sean",Edmonton,780-735-7182,-
 "Flanagan, Tom",Edmonton,,-
-"Flanders, Tracey-Lee",Edmonton,780-757-4220,-
+"Flanders, Tracey-Lee",,,-
 "Flaschner, David",Calgary,403-983-9025,PM&R
 "Fleck, David Lee",Calgary,403-943-3000,CCFP
 "Fleetcroft, Jennifer Jane",Calgary,403-539-4060,CCFP
@@ -3329,7 +3303,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Flook, Robert",Edmonton,780-757-9786,CCFP
 "Florence, Peter",Edmonton,780-735-4111,PSY
 "Florencio, Karla",Calgary,403-257-6669,CCFP
-"Flor-Henry, Sophie",Edmonton,,PSY
 "Flowers, Brendan",Canmore,403-675-3088,CCFP
 "Flynn, Ethan",Calgary,403-770-3396,PATH
 "Flynn, Jane Frances Emma",Calgary,403-514-0500,CCFP
@@ -3351,6 +3324,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Foolen, Carla",Sundre,403-638-2424,CCFP
 "Foong, Shu Ching",Calgary,403-284-5444,O&G
 "Foran, Allison Sophia",Calgary,403-944-1635,EM
+"Forbes, Ian Stewart",,,PSY
 "Forbes, Karen",Edmonton,780-248-5510,PED
 "Forbes, Katie",Calgary,403-240-2660,CCFP
 "Forbes, Natalie",Calgary,403-955-1077,PED
@@ -3415,7 +3389,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Fraser, Kristin",Calgary,403-943-8864,IM RESP
 "Fraser, Lexa",Lethbridge,403-320-7825,PED
 "Fraser, Lou",Grande Prairie,,ANES
-"Fraser, Sarah",Calgary,,CCFP
 "Fraser, Suzanne",Calgary,403-252-1529,PSY
 "Frauenstein, Giesela",Edmonton,780-436-8731,-
 "Fraulin, Frankie",Calgary,403-955-2840,PS
@@ -3495,7 +3468,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Gagné, Owen",Spruce Grove,587-853-0451,CCFP
 "Gagnon, Ben",Wetaskiwin,780-352-9700,-
 "Gagnon, Lisa M.",Calgary,403-944-5872,PSY
-"Gaid, Sameh",Leader,306-628-5510,-
 "Gainer, Anita L.",Edmonton,780 471 2071,-
 "Gainer, Jane",Edmonton,780-407-6693,PSY
 "Gaisbichler, Wolfgang",Fort McMurray,780-714-5622,DRAD
@@ -3515,7 +3487,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Galvez, Alberto",Edmonton,780-735-5097,OPH
 "Gambetti, Andrea",Edmonton,780-342-5555,PSY
 "Gamble, Mardelle",Calgary,403.944.1315,EM CCFP
-"Gambrel, Jason",Sydenham,,ORTH
 "Game, Kathleen",Rocky Mountain House,403-845-2815,CCFP
 "Game, Melaku",Edmonton,780-496-1390,IM
 "Gamez, Ryan David",Edmonton,780 735 2000,ANES
@@ -3556,11 +3527,11 @@ NAME,CITY,PHONE,SPECIALTY
 "Gautam, Sampann",Edmonton,780-407-2114,PSY CAPS
 "Gautama, Mindy",Airdrie,403-948-3109,CCFP
 "Gauthier, Martin",Edmonton,780-407-3737,PED
-"Gawad, Nada",Edmonton,780-407-8822,GS
 "Gawley, Emily",Edmonton,780-735-2000,CCEM CCFP
 "Gawlinski, Mary",Calgary,403-229-2273,CCFP
 "Gazie, Hillary",Calgary,403-247-9797,CCFP
 "Gbadamosi, Oluwafemi Adebayo",Calgary,403-269-9488,CCFP
+"Gbamgbola, Saheed Adekunle",Edmonton,,CCFP
 "Geambasu, Adrian",Fort McMurray,780-750-8684,CCFP
 "Geates, Barry",Lacombe,403 782 6717,-
 "Gebhardt, Ian",Medicine Hat,403-487-4041,CCFP
@@ -3570,7 +3541,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Gee, Christopher",Edmonton,780-483-3253,CCFP
 "Gee, Ed",Sherwood Park,780-467-8886,-
 "Geisheimer, Andrew Ross",Edmonton,780-407-7035,ANES
-"Gelber, Tobias",Pincher Creek,403-627-3321,CCFP
 "Geleidi, Aladdin",Airdrie,587-332-6767,-
 "Gelfand, Gary A.J.",Calgary,403-944-4268,TS GS
 "Gendemann, Klaus D.",Edmonton,587-525-8463,PSY
@@ -3615,7 +3585,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Ghrooda, Esseddeeg",Edmonton,,NEUR
 "Ghura, Parminder Singh",Ottawa,519-579-0589,CCFP
 "Giang, Clarence",Edmonton,780-434-2778,CCFP
-"Giang, Valerie",Edmonton,780-735-4111,CCFP
 "Giannakopoulos, Nadia",Edmonton,780-613-5084,PATH
 "Giannoccaro, John Peter",Calgary,403-571-8642,IM CARD
 "Giantomaso, Tony",Calgary,403-210-8026,PM&R
@@ -3651,22 +3620,22 @@ NAME,CITY,PHONE,SPECIALTY
 "Gill, Aashna Singh",Calgary,,ENDO IM
 "Gill, Charmaine",Calgary,403-686-6967,CCFP
 "Gill, Gleam Singh",High Prairie,780-523-2868,-
-"Gill, Gulwant Singh",Leduc,,CCFP
+"Gill, Gulwant Singh",Edmonton,,CCFP
 "Gill, Gurkirat Kaur",Edmonton,780-445-1962,IM
 "Gill, Gurleen Kaur",Calgary,403-800-1171,CCFP
 "Gill, Gurpreet",Edmonton,780-448-1166,CCFP
 "Gill, Gursharan",Edmonton,780-465-7335,CCFP
-"Gill, Harbir Singh",Calgary,587-777-4722,CCFP
+"Gill, Harbir Singh",Calgary,587-777-4722,FMAD CCFP
 "Gill, Jasdeep ""Jag""",Edmonton,780-983-1648,CCEM
 "Gill, M John",Calgary,403-220-6032,IM ID
 "Gill, Mona",Edmonton,780-220-9789,IM
 "Gill, Rajwinder",Edmonton,780-735-7000,ANES
-"Gill, Ranbir Singh",Calgary,403-252-1111,CCFP
 "Gill, Ranbir Singh",Calgary,403-590-4444,-
+"Gill, Ranbir Singh",Calgary,403-252-1111,CCFP
 "Gill, Ranjit",Edmonton,780-735-7292,PSY
 "Gill, Richdeep Singh",Calgary,587-320-6123,GS
 "Gill, Satvir",Edmonton,780-448-1166,CCFP
-"Gill, Sim",Calgary,403-944-3597,NEPH IM
+"Gill, Sim",Calgary,403-944-3597,IM NEPH
 "Gill, Sukh",Airdrie,403-948-3109,CCFP
 "Gilleland, Jonathan",Calgary,403-955-7074,PED CRIT
 "Gillespie, JOHN",Calgary,403-259-6798,-
@@ -3709,7 +3678,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Glimpel, Perry Bryan",Calgary,403-272-3384,CCFP
 "Gllies, Liesel",Calgary,403-291-2122,-
 "Glofcheskie, B.A. Ron",Calgary,,-
-"Glor, Hayden Michael",Calgary,403-263-7997,CCFP
 "Gnanakumar, Ruban",Calgary,,NUCM DRAD
 "Gnanakumar, Vithya",Calgary,403-955-7251,PM&R
 "Gnawali, Anupa",Cochrane,403-981-1999,-
@@ -3724,7 +3692,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Goel, Nand K.",Calgary,403-543-5000,OPH
 "Goel, Seema",Calgary,403-291-3801,CCFP
 "Goeres, Patrick Aidan",Canmore,,CCFP
-"Goez, Helly",Edmonton,780-735-7916,PED PEDN DEVP
 "Goha, Hoda",Edmonton,780-478-0975,-
 "Gohel, Bhavini",Calgary,,CCFP
 "Gohill, Jit",Calgary,403-264-0141,OPH
@@ -3743,7 +3710,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Goliath, Jade",Calgary,403-956-2300,CCFP
 "Gomaa, Nahla",Edmonton,587-635-2810,OTO
 "Gomes, Tony",Lethbridge,403-317-1890,GS
-"Gonsalves, Allison Jane",Lethbridge,403-394-6923,NONS PHPM
+"Gonsalves, Allison Jane",Lethbridge,403-394-6923,PHPM NONS
 "Gonsalvez, A.K",Lethbridge,403-942-6805,PSY
 "Gonzales, Sean",Edmonton,780-453-5255,PM&R
 "Goodarzi, Zahra",Calgary,403-944-4364,IM GM
@@ -3771,10 +3738,10 @@ NAME,CITY,PHONE,SPECIALTY
 "Goshko, Vic",Calgary,403-956-3000,EM
 "Gossmann, Antoinette",Drayton Valley,780-898-4628,-
 "Goswami, Ankur",Calgary,,IM
+"Goswami, Anurag",Calgary,403-272-2211,-
 "Goswami, Suruchi",Calgary,403-717-3736,CCFP
 "Gotto, Geoffrey Thomas",Calgary,403-943-8921,UROL
 "Gotz, Tom",Calgary,403-284-5444,GREI O&G
-"Goucher, George",Calgary,,UROL
 "Goucher, Natalie",Calgary,403-944-4309,ANES
 "Gouda, Amira",Leduc,,-
 "Gouda, Pishoy",Edmonton,780 407 6507,IM CARD
@@ -3813,7 +3780,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Gramlich, Leah",Edmonton,780-735-6839,IM GE
 "Granberg, Brad Mikael",Calgary,,EM
 "Granger, Robert Douglas Charles",Calgary,587-885-3895,PSY
-"Grant Orser, Amanda",Calgary,,RESP IM
 "Grant, Chris",Calgary,,PM&R
 "Grant, Estee C.",Calgary,403-955-7211,PED
 "Grant, Jeff",Calgary,403-944-1651,EM
@@ -3832,12 +3798,12 @@ NAME,CITY,PHONE,SPECIALTY
 "Green, Christopher David",Calgary,403-873-7300,CCFP
 "Green, James Stewart",Edmonton,780-407-8822,ANES
 "Green, Lee",Edmonton,780-407-7755,CCFP
-"Green, Luke Lyndon",Red Deer,403-342-2234,CCFP
+"Green, Luke",Red Deer,403-342-2234,CCFP
 "Green, Steven",Abu Dhabi,,ANES
 "Greene, Helena Ann",Calgary,403-944-1110,ORTH
 "Greenfield, Gavin",Calgary,403-944-1596,CCEM CCFP
 "Greenspan, Stan",Edmonton,780-426-1121,DRAD
-"Greenwald, Iris",Brampton,,FMAD CCFP
+"Greenwald, Iris",Brampton,,CCFP FMAD
 "Greenway, Steven Clive",Calgary,403-255-2737,PED CARD
 "Greenwood, Rachel",Calgary,403-282-1247,CCFP
 "Greep, Kent",Calgary,403-777-3000,DRAD
@@ -3873,7 +3839,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Grieve, Catharine",Edmonton,780-498-3999,CCFP
 "Griffin, William",Edmonton,780-735-2000,-
 "Griffith, Whitney Alexandria",Lethbridge,403-381-7000,NEUR
-"Griffiths, Jill",Kelowna,,O&G
 "Griggs, Lauren",Lethbridge,403-869-6448,CCFP
 "Grimbeek, Francois Nils",Red Deer,403-342-9444,-
 "Grimbly, Chelsey",Edmonton,780-407-1568,PED ENDO
@@ -3951,7 +3916,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Gupta, Milli",Calgary,,IM GE
 "Gupta, Neelam",Edmonton,780-439-2008,O&G
 "Gupta, Priya",Calgary,,DRAD
-"Gupta, Priya",Calgary,403-520-6270,CCFP
+"Gupta, Priya",Calgary,403-943-4555,CCFP
 "Gupta, Sahil",Edmonton,,EM
 "Gupta, Saurabh",Edmonton,,CCEM CCFP
 "Gupta, Sunil",Edmonton,780 735 4010,ANES
@@ -3960,12 +3925,11 @@ NAME,CITY,PHONE,SPECIALTY
 "Gurke, Richard",Edmonton,780-735-2934,PSY
 "Guron, Nita",Calgary,403-943-4504,IM CARD
 "Gursky, Lucas Jesse",Ponoka,403-783-7688,PHPM
-"Gurtu, Vikram",Edmonton,,IM CARD
 "Gusdal, Jeffrey",Edmonton,780-432-0211,CCFP
 "Gushaty, Leonard N.",Edmonton,780-432-0211,CCFP
 "Gustafson, Karla",Calgary,403-943-0215,PHPM
 "Gutfreund, Klaus S.",Edmonton,780 908 1948,IM GE
-"Gutman, Lawrence Benjamin",Calgary,587-393-8482,IM RESP
+"Gutman, Lawrence Benjamin",Calgary,587-393-3935,IM RESP
 "Gutteridge, Timothy John",Edmonton,780-407-2840,CCFP FMPC
 "Guzik, Elaine Catherine",Fort Saskatchewan,780-997-0177,CCFP
 "Gwozd, todd",Edmonton,780-995-0572,CCFP
@@ -4046,14 +4010,14 @@ NAME,CITY,PHONE,SPECIALTY
 "Halliday, William",Calgary,403-239-9733,CCFP
 "Halliwell, Oliver",Calgary,403-777-3003,DRAD
 "Halloran, Brendan",Edmonton,780 492 8691,IM GE
-"Halloran, Kieran",Edmonton,780-492-2691,IM RESP
+"Halloran, Kieran",Edmonton,780-492-2691,RESP IM
 "Halloran, Philip",Edmonton,780-407-3480,IM
 "Halpenny, David",Calgary,403-943-5554,ANES
 "Halse, Robert",Ponoka,403-783-3399,-
 "Hamad, Aseel",Calgary,403-262-7787,-
 "Hamadeh, Mohamad",Edmonton,780-407-7018,IM
 "Hamdan, Loai M. K.",Devon,780-342-7000,CCFP
-"Hamdi, Reem",Calgary,,CCFP
+"Hamdi, Reem",Calgary,825-413-1113,CCFP
 "Hamdi, Saif",St. Albert,780-418-0070,CCFP
 "Hamid, Farah Basil",Airdrie,403-945-8216,CCFP
 "Hamid, Haroon",Edmonton,780-244-7802,CCFP
@@ -4088,7 +4052,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Handkamer, Kristen Claire",Vancouver,,CCFP
 "Hanekom, Abraham Pieter",Grande Cache,780-827-5800,CCFP
 "Hanekom, Lynn",Falher,780-837-2275,-
-"Hanelt, Richard",Edmonton,780-440-8274,FMCE CCFP
+"Hanelt, Richard",Edmonton,780-440-8274,CCFP FMCE
 "Haner, Andrea",Lethbridge,403-388-6802,CCFP
 "Hanif, Aftab",Calgary,,CCFP
 "Hanif, Mehwish",Calgary,403-444-0428,CCFP
@@ -4193,9 +4157,9 @@ NAME,CITY,PHONE,SPECIALTY
 "Hasinoff, David Alexander",Edmonton,780-482-7551,CCFP
 "Haslam, Sean Gregory",Frisco,469-800-7070,ORTH
 "Hassaballah, Dalia",Mundare,780-930-5600,-
-"Hassan, Arsalan",Edmonton,780-907-2649,CCEM CCFP
+"Hassan, Arsalan",Edmonton,780-968-3600,CCEM CCFP
 "Hassan, Fathi Tayeb B.",Barrhead,780-674-5428,CCFP
-"Hassan, Raeesa",Edmonton,780-466-6236,-
+"Hassan, Raeesa",Edmonton,780-466-6236,CCFP
 "Hassan, Shabbir",Calgary,403-289-1188,CCFP
 "Hassan, Waseem",Edmonton,780-466-6236,-
 "Hassanali, Nakia",Edmonton,780-432-8290,CCFP
@@ -4215,6 +4179,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Hattingh, Marion",Blairmore,403-562-8804,-
 "Haubrich, Jay Murray",Edmonton,587 520-0755,CCFP
 "Hauck, Brian",Calgary,403-289-1940,O&G
+"Haugen, Jenna",Calgary,403-702-0762,CCFP
 "Haugen, Rick",Edmonton,780-407-7035,ANES
 "Haugrud, Mark J.",Calgary,403-240-2730,PS
 "Haupt, Sebastian",Beaverlodge,780-354-8993,CCFP
@@ -4265,7 +4230,8 @@ NAME,CITY,PHONE,SPECIALTY
 "Heinrichs, Jeffrey",Edmonton,780 735-4111,ANES
 "Heitman, Steven",Calgary,403-943-2502,IM GE
 "Hellman, Karyn",Calgary,403-910-1871,CCFP
-"Helmersen, Douglas",Calgary,403-944-3224,RESP IM
+"Helmersen, Douglas",Calgary,403-944-3224,IM RESP
+"Helmle, Karmon",Calgary,403-956-3806,IM ENDO
 "Helou, Tarek",Hinton,780-865-3333,DRAD
 "Helson, Erin",Calgary,403-944-1110,IM
 "Hembroff, Tristan",Black Diamond,403-933-4368,CCFP
@@ -4277,7 +4243,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Henderson, Cecile Elizabeth",Calgary,587-329-0266,CCFP
 "Henderson, Ronald Lee",Edmonton,587-524-8388,ORTH
 "Henderson, Winston",Red Deer,403-309-2001,ORTH
-"Hendin, Ariel",Edmonton,780-401-0118,EM CRIT
 "Hendriks, Bill",Wetaskiwin,780-352-3010,CCFP
 "Hendry, James Newhouse",Canmore,403-678-7214,CCFP CCEM
 "Hendson, Leonora",Calgary,403-943-4892,PED NPM
@@ -4303,12 +4268,12 @@ NAME,CITY,PHONE,SPECIALTY
 "Herget, Eric",Calgary,403-944-1969,DRAD
 "Herget, Robert",Calgary,403-266-3353,-
 "Herman, Ben",Edmonton,780-453-6985,ORTH
+"Herman, Bob",Calgary,403 220-3459,IM
 "Herman, Cameron",Grande Prairie,780-539-1902,NEPH IM
 "Hermanutz, Katie",Red Deer,403-342-2234,CCFP
 "Hermosa Garcia, Ana Maria",Edmonton,780-735-4038,-
 "Hern, Sarah",Calgary,403-513-7415,CCFP
 "Hernberger, Julie",Red Deer,403-342-2234,CCFP
-"Herrington, Emma",,,CCFP
 "Hertzer, Cristian Anthony",Calgary,403-221-8780,CCFP
 "Heseltine, James Matthew Christopher",Calgary,,CCFP
 "Hesje, Jonathan",Edmonton,780-422-7333,CCFP
@@ -4317,6 +4282,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Hetherington, Maxine",Edmonton,,CCFP
 "Hetland, Karissa",Edmonton,780-973-4011,CCFP
 "Hetland, Ray",Edmonton,780-735-7000,-
+"Hetland, Rona Ginnelle",Sherwood Park,780-570-8480,CCFP
 "Heugh, Remo Ricardo",Grande Prairie,587-299-6335,-
 "Heule, Mark",Edmonton,780 735 2880,IM
 "Hewton-Backfat, Latisha Lynn",Siksika,403 734 5690,CCFP
@@ -4327,6 +4293,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Heyns, Daneel",Edmonton,780-721-0332,ANES
 "Heyns, Daniel B.",Lethbridge,403-329-8200,OPH
 "Heyns, Liesl",Lethbridge,403-320-7825,PED
+"Heyns, Marguerite",Lethbridge County,403-038-8061,O&G
 "Hezam, Wael",Grande Prairie,780-814-5800,-
 "Hibbard, Jennifer Gale",Calgary,403-943-8301,PSY
 "Hibbard, Kate",Edmonton,587-735-8899,PSY
@@ -4354,7 +4321,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Hill, Vivian",Calgary,403-245-3171,OPH
 "Hillier, Tracey",Edmonton,780-489-8430,CCFP DRAD
 "Hilner, Jon Sanderson",St. Albert,780-459-5581,CCFP
-"Hilsden, Robert",Calgary,403-943-2502,GE IM
+"Hilsden, Robert",Calgary,403-943-2502,IM GE
 "Hilton, Jennifer L.",Calgary,403-284-5444,O&G GREI
 "Hines, Ursula",Calgary,403-802-2265,PSY
 "Hinshaw, Deena",Edmonton,,CM
@@ -4373,7 +4340,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Hiruki, Tadaaki",Vancouver,604-877-6000,ANAP
 "Hiscock, Carrie",Calgary,,CCFP
 "Hiscox, Christina Hiscox",Calgary,403-956-3863,ORTH
-"Hisey, Brandon Mark",Calgary,,IM
+"Hisey, Brandon Mark",Calgary,403-944-1110,IM
 "Hislop, Alan John",Calgary,825 413 5807,-
 "Hitchcock, Deborah J.",Calgary,403-271-3381,CCFP
 "Hitchen, Steven Jared",Spruce Grove,780-962-9393,CCFP
@@ -4415,14 +4382,14 @@ NAME,CITY,PHONE,SPECIALTY
 "Hoentjen, Frank",Edmonton,780-492-8691,GE
 "Hoeve, Allan",Olds,403-556-7130,CCFP
 "Hoeve, Ryan",Calgary,403-514-0500,CCFP
-"Hofer, Marcella",Calgary,403-272-2962,-
+"Hoff Arcand, Léa",Calgary,,CCFP
 "Hoffart, Kaili",Edmonton,780-487-7713,CCFP
 "Hoffman, Bruce",Calgary,403-206-2333,-
 "Hoffman, Ebeth",Didsbury,587-602-4041,-
 "Hoffman, Harold",Edmonton,,OCCM CCFP
 "Hoffman, Jaco",Didsbury,587-602-4041,-
-"Hoffmann, Kristin Marie-Rose Ines",Medicine Hat,403-528-8177,O&G
-"Hogan, David",Calgary,403-220-4578,GM IM
+"Hoffmann, Kristin Marie-Rose Ines",Bragg Creek,,O&G
+"Hogan, David",Calgary,403-220-4578,IM GM
 "Hogan, Mike",Edmonton,780-407-8861,ANES
 "Hogarth, David",Red Deer,403-358-7654,UROL
 "Hogarth, Walter",Red Deer,403-343-4444,CCFP CCEM
@@ -4440,12 +4407,12 @@ NAME,CITY,PHONE,SPECIALTY
 "Holland, John Edward",Lethbridge,403-320-7825,PED
 "Hollingworth, Sean",Medicine Hat,403 529-8839,ANES
 "Hollins, Beren",Vegreville,780-632-6414,-
-"Hollinshead, Kate",Sunnyvale,888-201-1937,CCFP
 "Holloway, Daniel Douglas",Calgary,403-944-5479,CS
 "Hollowell, Brett",Calgary,403-251-9535,CCFP
 "Holm Jhass, Jacqueline",St. Albert,780-569-4492,CCFP
 "Holmen, Carol Dianne",Banff,403 762-2222,EM
 "Holmes, Colin L.",Red Deer,403-346-4206,-
+"Holowachuk, Spencer Nicholas Davies",Victoria,250-370-8000,ANES
 "Holroyd, Brian",Edmonton,780-407-7047,CCFP EM
 "Holroyd-Leduc, Jayna",Calgary,403-944-8222,IM GM
 "Holst, Spencer Jay",Taber,,CCFP
@@ -4475,6 +4442,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Horne, Mark",Vancouver,855-577-8838,-
 "Horne, Sara",Calgary,403-955-7810,ANES
 "Horney, Darren",Edmonton,780-488-8860,CCFP
+"Horsfall, Oriibim Tariere",Peterborough,,CCFP
 "Horsley, Paula",Edmonton,,IM GM
 "Horsman, Cathy",Medicine Hat,403-580-4212,CCFP
 "Horvey, Samantha",St. Albert,780-458-7000,CCFP
@@ -4483,7 +4451,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Hosein, Rasheed A",Edmonton,780-250-6665,IM
 "Hosford, Reid Morris",Calgary,403-944-1991,CCFP
 "Hoshizaki, David K.",Edmonton,,-
-"Hoshowsky, Borys O.",,,OTO
+"Hoshowsky, Borys O.",Calgary,403-244-6700,OTO
 "Hoskins, C. Ryan",North Vancouver,604-701-9138,-
 "Hossain, Md. Zakir",Calgary,403-229-1700,CCFP
 "Hossain, Rana Md Iftekhar",Spruce Grove,587-853-0451,-
@@ -4492,7 +4460,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Houston, Kendra",Edmonton,780-735-4442,CCEM CCFP
 "Houwing, Marlies",Edmonton,587-323-8646,CCFP
 "Hovan, Shirley",Red Deer,403-342-2234,-
-"Howard, Jason James",Wilmington,302-651-5903,ORTH
+"Howard, Beryl Araba Gyeduwaa",Carstairs,403-807-8864,CCFP
 "Howarth, Andrew",Calgary,403-944-8806,IM CARD
 "Howarth, Barbara J.",Calgary,403-870-7286,CCFP
 "Howarth, Karen",Calgary,403-210-9355,CCFP
@@ -4534,35 +4502,33 @@ NAME,CITY,PHONE,SPECIALTY
 "Huartson, Karolina",Okotoks,403-917-0653,CCFP
 "Hubenig, Lindsay",Edmonton,780-735-7918,PM&R
 "Huber, Douglas",Edmonton,780-412-5150,CCFP
-"Huber, James",Salmon Arm,250-833-3633,CCEM CCFP
+"Huber, James",Salmon Arm,250-833-3633,CCFP CCEM
 "Huber, Keith",Edmonton,780-250-6842,CCFP
 "Huber, Laura",Calgary,403-252-9066,CCFP
 "Hubner, Nicole",St. Albert,780-459-1121,O&G
 "Hucal, Sandie G.",Cochrane,587-333-9070,CCFP
 "Hudani, Malika",Calgary,403-981-0911,CCFP
 "Hudon, Mark",Calgary,403-944-1969,DRAD
-"Hudson, Darren",Edmonton,780-492-8597,IM CRIT
+"Hudson, Darren",Edmonton,780-492-8597,CRIT IM
 "Hudson, Emmanuel William",Edmonton,780 432 8771,DRAD NUCM
 "Hudson, Sharlene",Vulcan,403-485-2216,CCFP
 "Hudy, Simon",Calgary,403 280 2700,CCFP
 "Huffman, James Lewis",Calgary,403-944-1596,EM
 "Huget, Michelle Berdigen",Edmonton,780-288-8268,CCFP
 "Hughes, Jeffrey",Taber,403-223-3525,CCFP FMAN
-"Hughes, Jennifer",Calgary,403-944-5862,FMPC CCFP PALL
+"Hughes, Jennifer",Calgary,403-944-5862,CCFP FMPC PALL
 "Hughes, Matt",Calgary,403-286-6888,DERM
 "Hughes, Shannon",Calgary,,CCFP CCEM
-"Hughson, Luke",Prince George,587-985-4844,IM
 "Hugie, Tammy",Edmonton,780-761-6767,PSY
 "Huhn, Karen M",Calgary,403-542-7018,ANAP PATH
 "Hui, Anita",Calgary,403-452-8816,OTO
-"Hui, Carolyn May Woon",Edmonton,780-735-4010,ANES
 "Hui, Catherine",Edmonton,780-732-3714,ORTH
 "Hui, Jacqueline",Calgary,403-944-2304,CCFP
 "Hui, Kristen",Calgary,,PED
 "Huie, Michelle Justine",Calgary,403-252-6651,PED
 "Huk, Michael",Fort Saskatchewan,780-998-1838,DRAD
 "Hull, Andrea",Calgary,403 569 7251,CCFP
-"Hulme, Terry",Calgary,403 943 8470,IM RESP CRIT
+"Hulme, Terry",Calgary,403 943 8470,IM CRIT RESP
 "Hult, Keith William",Fort Saskatchewan,780-998-4434,CCFP
 "Hum, Matthew",Edmonton,780-481-8812,CCFP
 "Hum, Peter C.",Edmonton,780-481-8812,CCFP
@@ -4571,7 +4537,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Humeniuk, Ashley",Calgary,403-920-0011,CCFP
 "Humphreys, Doug",Calgary,403-242-5080,PS
 "Humphreys, Ross Colton",Okotoks,403-995-5740,CCFP
-"Humphreys-Mahaffey, Stephen James Royd",Calgary,403-367-5000,CCFP
 "Humphries, Paul",Edmonton,780-250-6842,CCFP
 "Hundal, Raj",Lethbridge,403-394-3352,IM GE
 "Hundle, Sumeet",Sherwood Park,780-400-3322,CCFP
@@ -4606,7 +4571,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Hussain, Mahjabeen",Calgary,587-316-9934,CCFP
 "Hussain, Munawar",Edmonton,780-757-0021,CCFP
 "Hussain, Seema",Calgary,403-944-3369,PSY
-"Hussain, Syed Hyder",St. Paul,780-645-4323,PSY
+"Hussain, Syed Hyder",St Paul,780-645-4323,PSY
 "Hussain, Wasif",Edmonton,780-248-1698,NEUR
 "Hussan, Naila",Calgary,403-451-5788,-
 "Hussein, Ahmed",St. Albert,780-418-8200,IM ID
@@ -4636,7 +4601,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Hydri, Muneeb",Grande Prairie,825-412-4000,DRAD
 "Hyndman, Eric",Calgary,,UROL
 "Hyndman, Lucy",Calgary,403-944-2800,CCFP
-"Hyndman, William",Calgary,,UROL
 "Hyrcza, Martin",Calgary,403-944-4759,ANAP
 "Iampen, Corrina",Calgary,403-619-1919,CCFP
 "Iannattone, Stephanie",Calgary,403-943-5461,CCFP
@@ -4651,7 +4615,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Ibrahim, Sameh",Grande Prairie,780-882-9449,ORTH
 "Ibrahim, Sherine",Calgary,403-453-7209,CCFP
 "Ibrahim, Wael",Edmonton,780-758-7900,CCFP
-"Idahosa, Peter",Calgary,403-606-4939,-
+"Idahosa, Peter",Calgary,587 318-7156,-
 "Idehen, Blessing Osoh",Three Hills,403-443-5522,-
 "Idowu, Oludamilola Olukemi",Calgary,403-460-4502,CCFP
 "Idris, Sherif",Edmonton,780-306-5656,OTO
@@ -4679,6 +4643,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Imarhiagbe, Oghogho Deborah",Calgary,403-453-7209,CCFP
 "Imbulgoda, Amal",Lethbridge,403-388-6802,MONC IM
 "Imdadullah, Amira",Calgary,587-318-1608,CCFP
+"Imhoede-Uwaezu, Omoalukhe",Lethbridge,403-388-6111,-
 "Imo, Udemezue Obidike",Edmonton,780-342-7700,PSY
 "Imoukhuede, Oje",Red Deer,587-457-0069,NEUR
 "Imran, Ayesha",Calgary,403-454-5580,CCFP
@@ -4701,7 +4666,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Iqbal, Farooq",Edmonton,587-498-9549,CCFP
 "Iqbal, Humaira Ayesha",Edmonton,780-702-3866,IM RESP
 "Irianan, Andrew Eromosele",Calgary,403-910-0279,CCFP
-"Iriogbe, ITUA  GODSON",Camrose,780-672-2425,CCFP
+"Iriogbe, Itua Godson",Camrose,780-672-2425,CCFP
 "Irish, Kevin",Wetaskiwin,587-468-8344,DRAD
 "Irvine, Harley Robert",Fairview,780-835-4255,-
 "Irvine, Jamie John",St. Albert,587-400-3464,PM&R
@@ -4732,9 +4697,9 @@ NAME,CITY,PHONE,SPECIALTY
 "Iwasiw, Ryan",Calgary,403-943-3000,IM
 "Iyaoromi, Omowumi",Edmonton,780-540-8933,CCFP
 "Iyasele, Efe",Calgary,,-
+"Iyawe, Ikponmwosa",Drumheller,,-
 "Iyer, Natasha",Calgary,403 237 2353,CCFP
 "Iyiola, Akinyele Akeem",Medicine Hat,403-527-2999,PSY
-"Izevbaye, Iyare Ehimwenma",Edmonton,780-407-8025,PATH
 "Jabbar, Yasmeen",Calgary,,CCFP
 "Jabbari-Zadeh, Shahram",Spruce Grove,587-461-2050,CCFP
 "Jabeen, Farah",Calgary,403-930-5800,-
@@ -4760,7 +4725,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Jacobs, W. Bradley",Calgary,403-944-3406,NS
 "Jacobsen, Niels",Edmonton,780-407-5800,UROL
 "Jacobs-Le Van, Julia Agnes",Calgary,,PED NEUR
-"Jacoby, Lynn",Edmonton,780-407-8822,PED
 "Jacquier, Jennifer Elizabeth",Edmonton,780-250-4880,IM ENDO
 "Jacyna, Steve",Calgary,403-943-8720,ANES
 "Jadavji, Nadeem",Calgary,403-943-5721,ANES
@@ -4774,7 +4738,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Jah Raja, Habeeb Akbar",Edmonton,780-438-2306,CCFP
 "Jahandar, Parveen",Edmonton,780-735-4181,PSY
 "Jahandardoost, Mohammad Reza",Medicine Hat,403-487-5313,IM GM
-"Jain, Kinjani",Calgary,,CCFP
+"Jain, Kinjani",Canmore,,CCFP
 "Jain, Praveen",Edmonton,780-407-7047,EM
 "Jain, Ruchi",Edmonton,780-448-1166,CCFP
 "Jain, Sangeeta",Calgary,403-955-2953,PED
@@ -4790,7 +4754,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Jamal, Ali",Calgary,,CCFP
 "Jamal, Aliya",Calgary,403-252-5800,CCFP
 "Jamal, Kishwar",Edmonton,780-757-7999,-
-"Jamal, Shelina M",Calgary,403-955-7794,CRIT PED
+"Jamal, Shelina M",Calgary,403-955-7794,PED CRIT
 "Jamal, Zahirali",Mayerthorpe,780-786-2412,CCFP
 "Jamani, Kareem",Calgary,403 944 5222,HEM IM
 "James, Matthew",Calgary,403-220-2465,IM NEPH
@@ -4805,7 +4769,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Janicki, Modest",St. Albert,,DRAD
 "Janicki, Tomasz",Ponoka,403 783 7600,-
 "Janjua, Waleed Sarwar",Calgary,,CCFP
-"Janke, Fred",Sylvan Lake,403-864-6440,CCFP
 "Janke, Mike",Edmonton,780-735-4111,ANES
 "Jankola, Lauchlan",Edmonton,,CCFP
 "Jankunis, Marion",Lethbridge,403-388-6093,ANAP
@@ -4819,7 +4782,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Jansen van Rensburg, Johannes",Calgary,647-576-2429,CCFP
 "Jansen van Rensburg, Stella",Calgary,403-263-0661,-
 "Jansen Van Vuuren, Con",Lloydminster,,-
-"Jansen Van Vuuren, Corrie",Daysland,780-374-3944,-
 "Jansen van Vuuren, Stephanus",Sherwood Park,780-467-4717,-
 "Jansen, Deon",Red Deer,403-356-0222,-
 "Jansen, Paul",Spruce Grove,780-819-9756,-
@@ -4839,11 +4801,9 @@ NAME,CITY,PHONE,SPECIALTY
 "Jassal, Rajive",Edmonton,780-735-9626,NEUR
 "Jassar, Balvinder",Edmonton,780-462-4229,CCFP
 "Jassar, Simran",Edmonton,780-463-2184,IM RHEU
-"Jassat, Zaheera",Edmonton,780 735 7999,PM&R
 "Jassi, Inder Raj",Calgary,403-246-0887,CCFP
 "Javaheri, Erfan",Nanaimo,,CCFP
 "Javed, Sidra",Calgary,403-685-9499,IM
-"Javer, Jamil Akbar",Calgary,403-943-8660,IM
 "Javidiparsijani, Sara",Lethbridge,650-630-8147,PATH HEMP
 "Javier, Joseph Joiner",Medicine Hat,403-487-5313,IM
 "Jay, Jacob",Edmonton,780-432-8290,IM MONC
@@ -4856,7 +4816,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Jeffery, Glenn",Edmonton,780-436-8731,-
 "Jeffery, John",Medicine Hat,403-502-8932,O&G
 "Jegadesh, Soniya",Edmonton,780 342 5555,PSY
-"Jeh, jusli",Edmonton,780-245-2388,-
 "Jelani, Anwar",Calgary,403-943-7615,IM
 "Jen, Ho",Edmonton,780-426-1121,NUCM DRAD
 "Jena, Debakanta",Medicine Hat,403 488 6666,ORTH
@@ -4903,24 +4862,24 @@ NAME,CITY,PHONE,SPECIALTY
 "Jiwa, Gul",Edmonton,780-454-0351,O&G
 "Jiwani, Farouk",Edmonton,780-407-3737,PED
 "Jo, Patricia Carolyn",Regina,,DRAD
-"Jo, Sarah",Surrey,604-581-2211,CCFP
 "Jo, Wooje",Red Deer,,ANAP
 "Joanis, Vincent",Kelowna,,CCFP ANES
-"Joe, Joseph",Black Diamond,403 933 4368,CCFP
+"Joe, Joseph",Diamond Valley,403 933 4368,CCFP
 "Joffe, A. Mark",Edmonton,780-342-2078,IM ID
 "Joffe, Ari R.",Edmonton,780-248-5435,PED ID
 "Joffe, Ken",Edmonton,780-735-2594,PSY
 "Jogiat, Muhammad",Medicine Hat,403-529-8839,ANES
+"Johannson, Kerri",Calgary,403-956-2800,RESP IM
 "John, Nicholas D.",Edmonton,780-488-4412,PSY
 "John, Sheri",Edmonton,780-735-4111,CCFP
 "Johns, Daniel",Calgary,403-286-9118,CCFP
 "Johns, Katharine",Calgary,403-286-9118,CCFP
 "Johns, Scott",Edmonton,,CCFP
 "Johnson Keeping, Cheryl",Calgary,403-289-1188,CCFP
-"Johnson, Andrea Jeannette",Edmonton,780-492-6030,IM RHEU
+"Johnson, Andrea Jeannette",Edmonton,780-328-3902,IM RHEU
 "Johnson, Andrew",Calgary,403-944-2325,IM MMIC ID
 "Johnson, Carey",Calgary,403-686-7200,MGEN PED
-"Johnson, David",Calgary,403-473-6442,PED
+"Johnson, David Wyatt",Calgary,403-473-6442,PED
 "Johnson, Douglas",Calgary,403-264-6720,GS
 "Johnson, Dustin Wayne",Lethbridge,403-328-0693,IM CARD
 "Johnson, Erik",Wetaskiwin,780-352-7157,CCFP
@@ -4929,6 +4888,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Johnson, Ian",Stony Plain,780-963-7800,CCFP
 "Johnson, Jadah",Calgary,403-943-7840,PSY
 "Johnson, James",Blackfalds,587 797 4088,-
+"Johnson, Jo-Ann Margret",Calgary,403-289-9269,O&G
 "Johnson, Kevin",Calgary,403-943-7000,CCEM CCFP
 "Johnson, Kody",Red Deer,403-343-2666,PS
 "Johnson, Kristen",Calgary,403-955-7070,PED
@@ -4937,7 +4897,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Johnson, Nicole",Calgary,403-955-7771,PED RHEU
 "Johnson, Paul",Sherwood Park,780-464-0123,CCFP
 "Johnson, Robert",Fort McMurray,,CCEM FMAN CCFP
-"Johnson, Sarah Augusta",Toronto,,DRAD
 "Johnson, Scott",Edmonton,780-735-6589,TS GS
 "Johnston, Aaron Thain",Calgary,403-943-3000,CCEM CCFP
 "Johnston, Colleen Gay",Edmonton,780-462-8120,CCFP
@@ -5008,7 +4967,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Jung, Shirley",Edmonton,,-
 "Jungen, David Robert Arthur",Calgary,403-944-1430,ANES
 "Jurgens, Dewald",Okotoks,403-938-3860,CCFP
-"Justice, Tara Dawn",Calgary,,O&G
 "Juta, Ramesh",Fort Saskatchewan,780-589-3989,GS
 "Kabani, Rameez",Calgary,825-540-4070,GIM
 "Kabaroff, Alison",Edmonton,780-407-7047,EM
@@ -5029,7 +4987,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Kahlon, Maninder",Strathmore,,EM CCFP
 "Kainth, Hardeep Singh",Edmonton,780-735-8213,PM&R
 "Kaiser, Grant",Calgary,403-284-3711,CCFP
-"Kalagher, Sean",Lethbridge,403-328-1122,DRAD IRAD
 "Kalala, Biduaya Frank",Leader,639-932-7011,-
 "Kalala, Willy",Calgary,403 692 3230,CCFP
 "Kalashyan, Hayrapet",Red Deer,403-986-9861,-
@@ -5052,6 +5009,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Kamaleldin, Mostafa",Edmonton,780-604-5751,IM
 "Kamaluddeen, Majeeda",Calgary,403-944-1087,PED NPM
 "Kamar, Fareed",Calgary,403-944-3870,NEPH IM
+"Kambo, Jaspreet Singh",Calgary,,RESP IM
 "Kamel, Dalia B Dalaly",Calgary,403 276 8711,-
 "Kaminska, Elzbieta Anna",Calgary,403-955-8732,RHEU IM
 "Kamitakahara, Holly Kiyoko",Edmonton,780-430-8788,CCFP
@@ -5069,7 +5027,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Kanigan, Arlene",Edmonton,780-426-1121,DRAD
 "Kanji, Aliyah",Edmonton,780-424-3295,GS
 "Kanji, Hussein",Vancouver,,EM
-"Kanji, Jamil",Calgary,403 944 3683,MMIC ID IM
+"Kanji, Jamil",Calgary,403 944 3683,MMIC IM ID
 "Kanji, Raisa",Calgary,403-252-6651,PED
 "Kannu, Peter",Edmonton,780-407-7333,MGEN
 "Kantoch, Michal J.",Edmonton,780-407-3963,PED CARD
@@ -5104,6 +5062,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Karnik, Nachiket",Edmonton,587-412-2200,CCFP
 "Karnik, Vikram",Calgary,,NEUR
 "Karolak, Michael",Edmonton,,IM
+"Karolak, Wojtek",Calgary,403-944-1671,CS
 "Karpakis, Janine",Edmonton,780-540-8933,-
 "Karpiyevich, Maryna",Spruce Grove,780 962 9393,CCFP
 "Karpman, Matthew",Edmonton,780-425-1212,DERM
@@ -5139,7 +5098,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Kaura, Deepak",Calgary,403-726-9729,DRAD
 "Kavadas, Fotini",Edmonton,780-761-2900,PED CI&A
 "Kavalinas, Jennifer",Calgary,403-246-7788,CCFP
-"Kavanagh, Katherine",Calgary,403-210-6152,CARD IM
+"Kavanagh, Katherine",Calgary,403-210-6152,IM CARD
 "Kavanagh, Kimberly",Calgary,403-852-8073,CCFP
 "Kawada, Patricia Sachi",Edmonton,780-248-5420,PGE
 "Kawamura, Nao",Calgary,403-252-5882,DRAD
@@ -5169,7 +5128,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Keller, Ron",Lacombe,403-782-4435,-
 "Keller, Susanna Jean",Calgary,403-289-1901,CCFP
 "Kellerman, Madelene Sophia",Lethbridge,403-381-5260,PSY
-"Kelliher, Brendan",Calgary,403-943-7570,CCFP
+"Kelliher, Brendan",Calgary,403-943-7570,CCEM CCFP
 "Kellner, James D",Calgary,403-955-7813,PED ID
 "Kelly, Allan",Edmonton,780-473-2102,CCFP
 "Kelly, Brian",Calgary,403 253 2288,PED
@@ -5217,17 +5176,16 @@ NAME,CITY,PHONE,SPECIALTY
 "Kerwin, Stephanie Aidan",Calgary,403-258-1960,CCFP
 "Keshvara, Anil",Medicine Hat,403-527-1233,CCFP
 "Keshvara, Arshi M.",Medicine Hat,403 527 1233,CCFP
-"Keshvara, Rajesh",Medicine Hat,403-527-1233,IM CARD
+"Keshvara, Rajesh",Medicine Hat,403-527-1233,CARD IM
 "Ketiku, Adegboyega Oluwafemi Saskatoon",,306-653-1543,-
 "Kettana, Muthanna (Thane)",Swan Hills,,-
 "Keyes, Glenn",Edmonton,,CCFP
 "Keyes, Robert",Edmonton,780-735-4449,EM CRIT
 "Khabuli, Sumaya",Spruce Grove,587 853 0451,CCFP
-"Khadaroo, Rachel",Edmonton,,CRIT GS
+"Khadaroo, Rachel",Edmonton,,GS CRIT
 "Khadour, Fadi",St. Albert,780 418-7331,CARD IM
 "Khair, Alexei",Stony Plain,780 968 3673,CCFP
 "Khaira, Gurpreet Kaur",Edmonton,780-918-4452,PED CRIT
-"Khalafi, Farnaz",Calgary,403-297-8123,ANAP
 "Khaleifa, Ali Omran",Edmonton,780-705-1011,-
 "Khalfalla, Wesam",Edmonton,780-990-1820,CCFP
 "Khalif, Marwan",Edmonton,780-249-8911,CCFP
@@ -5262,9 +5220,8 @@ NAME,CITY,PHONE,SPECIALTY
 "Khan, SHAH F",Abbotsford,604-870-7800,PSY
 "Khan, Shahid",Calgary,403-457-1877,CCFP
 "Khan, Shahnawaz",St Paul,780-614-3210,PSY
-"Khan, Suqlain Ali",Wetaskiwin,780-352-9700,-
+"Khan, Suqlain Ali",Wetaskiwin,780-352-9700,CCFP
 "Khan, Uzma",Edmonton,780-487-7713,CCFP
-"Khan, Wahab",Calgary,,PM&R
 "Khan, Wasim Alam",Edmonton,780-447-4924,NEUR
 "Khan, Zoya",Chestermere,403-235-3343,CCFP
 "Khanam, Habiba",Calgary,403 475 2500,-
@@ -5282,14 +5239,13 @@ NAME,CITY,PHONE,SPECIALTY
 "Khatoon, Amna",Calgary,403-291-2122,CCFP
 "Khattak, Abid Saeed",Leduc,780-986-8831,PSY
 "Khatter, Manishi",Sherwood Park,780 467-4343,CCFP
-"Khayambashi, Shahin",Calgary,,NEUR
 "Kheir, Hatim",Calgary,403-455-6656,CCFP
 "Kheirani, Kamran",North Vancouver,778-838-5383,PSY
 "Khera, Amandeep Sheny",Edmonton,780-735-2800,CCFP
 "Kherani, Amin",Calgary,403-286-6802,OPH
 "Kherani, Femida",Calgary,403 286 6802,OPH
 "Kherani, Tamizan",Edmonton,780.248.5584,PED
-"Khetani, Karim",Calgary,403-943-4301,ANAP
+"Khetani, Karim",Grande Prairie,825-412-4348,ANAP
 "Khimji, Hussain",Airdrie,403-960-1234,CCFP
 "Khinda, Surinder Singh",Edmonton,587-635-5220,IM
 "Khlabatyn, Tet",Calgary,403-286-0086,DERM
@@ -5303,7 +5259,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Khosla, Deepak",Calgary,403-474-0025,OPH
 "Khosla, Indu",Calgary,403-571-1235,-
 "Khosla, Munish",Calgary,403-705-3636,ENDO IM
-"Khosla, Randeep",,,DRAD
+"Khosla, Randeep",Calgary,403-827-8881,DRAD
 "Khosrodad, Nasim",Edmonton,780-735-2390,CCFP
 "Khoury, Michael",Edmonton,780-407-8361,PED PEDC
 "Khoza, Phumi",Langdon,403-936-5990,-
@@ -5311,11 +5267,12 @@ NAME,CITY,PHONE,SPECIALTY
 "Khullar, Mohini",Devon,780-987-3315,-
 "Khullar, Monika",Calgary,403-930-0707,CCFP
 "Khullar, Sarjiwan",Devon,780-987-3315,-
+"Khumree, Altaf",Strathmore,403-930-6131,-
 "Khurana, Manisha",Edmonton,,CCFP
 "Khurram, Mehnaz",Edmonton,780-488-4242,CCFP
 "Khurram, Sabahat",Edmonton,780-757-7999,CCFP
 "Khwaja, Raida",Edmonton,,IM
-"Kiamanesh, Omid",Calgary,587-330-3001,CARD IM
+"Kiamanesh, Omid",Calgary,587-330-3001,IM CARD
 "Kiani, Essa",Edmonton,780-457-6060,CCFP
 "Kiani, Usman",Edmonton,780-457-6060,CCFP
 "Kiared, Ahmed",Fort Macleod,,CCFP
@@ -5353,6 +5310,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Kim, Tom",Calgary,403 944 1567,PSY
 "Kimber, Shane",Edmonton,780-407-6946,CARD IM
 "Kim-Fine, Shunaha",Calgary,403-944-4000,O&G
+"Kindle, Geoffrey Ferris",Calgary,,DRAD
 "Kindrachuk, Michael Nicolas",Edmonton,780-407-1432,NS
 "Kindzierski, Robert",Edmonton,780-735-4010,ANES
 "King, Arienne",Sherwood Park,780-342-3390,ID IM
@@ -5375,7 +5333,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Kirkham, Julia",Calgary,403-955-6155,PSY GPS
 "Kirkpatrick, Andrew Wallace",Calgary,403-944-4262,GS CRIT
 "Kirkpatrick, Christian",Medicine Hat,,DRAD
-"Kirkpatrick, Jennifer",Calgary,587-352-6283,CCFP
+"Kirkpatrick, Jennifer",,,CCFP
 "Kirkwood, Jessica",Edmonton,780-422-7333,CCFP
 "Kirova, Juliana",Calgary,403 956 4222,PSY
 "Kirschner, Dave",St. Albert,,EM
@@ -5395,7 +5353,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Kiz, Robert",Winnipeg,204-999-2130,CCFP CCEM
 "Kizuk, Rozemin",Lethbridge,403-381-1013,-
 "Kjelland, Colleen",Edmonton,780 735-4443,EM
-"Klapatiuk, Eric",Calgary,403-826-5896,CCFP
 "Klapko, Christa",Calgary,587-355-3300,CCFP
 "Klarenbach, Scott",Edmonton,,NEPH IM
 "Klasa, Marc",Calgary,403-590-9992,CCFP
@@ -5416,13 +5373,12 @@ NAME,CITY,PHONE,SPECIALTY
 "Klinck, Jennifer",Edmonton,780-735-4010,ANES
 "Kline, Gregory Alan",Calgary,403-955-8327,IM ENDO
 "Klingbeil, Kevin",Edmonton,780-461-6012,GS
-"Kloiber, Reinhard",Calgary,403 944 1969,DRAD NUCM
 "Klonarakis, Jim",Lethbridge,403-388-6111,ANES
 "Klonowski, Paul",Calgary,403-770-3600,ANAP
 "Klopper, Linky",Athabasca,780-675-5018,-
 "Kloppers, Allan Alexander",Lloydminster,780-872-0505,-
 "Klourfeld, Evgenia",Calgary,587-747-5615,NEUR
-"Klowak, Jennifer Ann",Calgary,403-955-7211,PED
+"Klowak, Jennifer Ann",Calgary,403-955-7211,PED CRIT
 "Kluczynski, Paul",Sherwood Park,780-467-4717,-
 "Klym, Kelleigh",Okotoks,587-364-3995,PED
 "Knash, Michael",Edmonton,780-453-5255,NEUR
@@ -5514,6 +5470,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Kowalewski, Richard",Calgary,403-605-1853,ANES
 "Kowe, Joan",Edmonton,780-342-7700,PSY
 "Kowe, OLAJIDE",Edmonton,780-407-8822,ANES
+"Koya, Funmilola",Lethbridge,403-328-6641,-
 "Kozak, Gregory",Calgary,403-943-8987,UROL
 "Koziak, Adrian",Edmonton,780-735-4010,ANES
 "Koziak, Cypriana Irena",Edmonton,,GS
@@ -5521,7 +5478,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Kozlowska, Marta D.",Calgary,403-955-1400,CCFP
 "Kozlowska, Urszula",Calgary,403 272 6422,CCFP
 "Kozman, Mervat",Calgary,403-719-0035,PSY
-"Kozody, Ray",Calgary,403-943-5721,ANES
 "Kraft, Scott",Calgary,403-944-4364,NEUR
 "Krahn, Danae",Calgary,403-944-1430,ANES
 "Krahn, Spencer Campbell",,,CCFP
@@ -5534,7 +5490,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Krantz, Len",Barrhead,780-674-2231,-
 "Krause, Barbara",Edmonton,780-735-4718,RADO
 "Krause, Kevin L.",Calgary,403-943-7000,CCFP
-"Krause, Vanessa Suzanne",Calgary,403-521-3093,IM MONC
+"Krause, Vanessa Suzanne",Calgary,403-521-3093,MONC IM
 "Kraushar, Glenn Allen",Calgary,403-879-7003,CCFP
 "Kraut, Roni",Edmonton,,CCFP
 "Kravchenko, Olena",Airdrie,403-948-3109,-
@@ -5588,7 +5544,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Kuechler, Derek Adam",High River,403-652-7999,CCFP
 "Kuganathan, Girudiha",Edmonton,780-457-6060,CCFP
 "Kuhn, SUSAN",Calgary,403 955 7553,PED ID
-"Kula, Brittany",Edmonton,,IM
+"Kula, Brittany",Edmonton,,IM ID
 "Kulaga, Adam",Fort McMurray,780-791-6128,EM
 "Kulaga, Andrzej",Calgary,403-943-3411,ANAP
 "Kulak, Larry",Whitecourt,780-778-2224,-
@@ -5599,7 +5555,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Kumar, Amit",Edmonton,780-250-2400,-
 "Kumar, Anu",Edmonton,780-426-1121,DRAD
 "Kumar, Elena",Edmonton,,CCFP
-"Kumar, Manoj",Edmonton,780-735-4647,PED NPM
+"Kumar, Manoj",Edmonton,780-735-4647,NPM PED
 "Kumar, Mohit",Medicine Hat,403-502-8929,CCFP
 "Kumar, Parveen",Calgary,,CCFP
 "Kumar, Pavan",Lethbridge,403-393-6383,ANES
@@ -5624,11 +5580,10 @@ NAME,CITY,PHONE,SPECIALTY
 "Kundi, Pardeep Singh",Calgary,403-930-0707,PSY
 "Kundra, Manu",Edmonton,,PED
 "Kung, Lina",Calgary,,CCFP
-"Kunimoto, Brenden",Edmonton,,CCFP
+"Kunimoto, Brenden",Calgary,587-316-3932,CCFP
 "Kunimoto, Dennis Y.",Edmonton,780-492-6389,IM
 "Kunkel, Lucinda",Leduc,780-986-8831,CAPS PSY
 "Kunneman, Sara Frances",Calgary,403-686-3628,-
-"Kuper, Tanya Maria",Calgary,,GS
 "Kupoluyi, Olalekan Adedotun",Ponoka,403-783-7600,CCFP
 "Kupper, Suzana",St. Albert,780-459-6633,GSO GS
 "Kuraim, Gabriela",Edmonton,780 248 5445,PED
@@ -5662,7 +5617,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Kwan, Michael",Calgary,403-956-3865,GS
 "Kwan, Peter",Lethbridge,,CCFP CCEM
 "Kwan, Peter Oliver",Edmonton,780-407-1849,PS
-"Kwan, Stephen",Ponoka,,-
 "Kwan, Steve",Lethbridge,403-329-2059,ORTH
 "Kwetny, Igor",Red Deer,403-872-7251,ANES
 "Kwiatkowski, Chris",Parksville,250-905-0555,CCFP CCEM
@@ -5695,7 +5649,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Labuschagne, Josef",Grande Prairie,780-539-4770,CCFP
 "Labuschagne, Willem",Vegreville,780-632-6414,-
 "Lacasse, Michelle",St. Albert,780-459-1121,O&G
-"Lach, Christopher",Pincher Creek,403-627-3321,CCFP
+"Lach, Katherine Daria",Calgary,403-770-3828,ANAP
 "Lacny, Sarah",Heritage Pointe,403-279-4944,CCFP
 "Lacombe, Christina",Edmonton,780-973-4011,CCFP
 "Lacoursiere, Derek Keith",Jasper,780-852-4885,CCFP
@@ -5736,11 +5690,10 @@ NAME,CITY,PHONE,SPECIALTY
 "Laliberte, Michael Christian",Canmore,403-678-2020,PS
 "Lall, Rohan Niall",Calgary,403-944-8735,GS
 "Lalli, Paul",Calgary,403 460-4502,CCFP
-"Lalonde, Lucille",Edmonton,780 407 7929,CARD
 "Lalonde, Megan Mireille",Edmonton,780-993-4412,CCFP ANES
 "Lam, Ada",Edmonton,,IM
 "Lam, Anna",Edmonton,,ENDO IM
-"Lam, Calvin",Calgary,403-217-6983,IM CRIT
+"Lam, Calvin",Calgary,403-217-6983,CRIT IM
 "Lam, Darren",Edmonton,780-735-4010,ANES
 "Lam, Gail",Calgary,403-242-0770,O&G
 "Lam, Grace",Edmonton,780-492-1657,RESP IM
@@ -5754,6 +5707,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Lam, Ni",Edmonton,780-407-8432,EM
 "Lam, Nina Katherine",Edmonton,780-735-4442,EM
 "Lam, Paul",Edmonton,780-735-4111,IM
+"Lam, Quyen Kim",Edmonton,,PED
 "Lam, Richard P.",Calgary,403-266-3331,CCFP
 "Lam, Russell Andre",Calgary,,PED PEM
 "Lam, Samantha",Calgary,403-944-2304,CCFP
@@ -5798,7 +5752,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Laratta, Cheryl",Edmonton,780-492-0324,RESP IM
 "Laratta, Peter",Edmonton,780-482-7551,CCFP
 "Lardner, David",Calgary,403-955-7810,ANES
-"Lari, Harris",Surrey,604-496-6777,PSY
 "Larios, Oscar",Calgary,403-956-2401,ID MMIC IM
 "Larjani, Soroush",Lethbridge,,CCFP
 "Larose, Dwaine",Edmonton,780-483-2901,O&G
@@ -5809,7 +5762,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Larsen, Grant Arnold",Calgary,250-218-4708,DRAD
 "Larsen, Udell",Calgary,403-943-8720,ANES
 "Larson, Bonnie",Calgary,403-862-5381,CCFP
-"Larson, Charles Philip",Edmonton,780-263-4242,PEDC CRIT
 "LaRue, Curtis",Sylvan Lake,403-887-2224,CCFP
 "Lashyn, Trevor",Edmonton,780-735-7905,PM&R
 "Lasner, Brian",Edmonton,,-
@@ -5868,7 +5820,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Le Roux, John",Airdrie,403-945-8216,CCFP
 "Le Roux, Sarah",Cold Lake,780 639 3180,CCFP
 "Le, Christopher",Edmonton,780-474-3712,CCFP
-"Le, David",Calgary,587-319-2236,PED
 "Le, Doan",Calgary,403 955 7155,PED HEM
 "Le, Grace",Calgary,403-276-8866,CCFP
 "Le, Ian Long Dang",Calgary,403-221-8359,ORTH
@@ -5880,7 +5831,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Leaker, Michael",Calgary,,PED HEM
 "Leal, Ronie",Grande Prairie,780-532-2280,CCFP
 "Leam, Howe",Lethbridge,403-328-6641,CCFP
-"Lea-Makenny, Susan",Calgary,587-333-3580,CCFP
+"Lea-Makenny, Susan",Calgary,,CCFP
 "Leaman, Todd Nicholas",Calgary,,CCFP
 "Lear, Naomi Diane",Calgary,705-915-3703,CCFP
 "Leavitt, Cole",Cardston,403-653-3331,CCFP
@@ -5901,11 +5852,10 @@ NAME,CITY,PHONE,SPECIALTY
 "Lee, Andrew",Calgary,,DRAD
 "Lee, Ann",Calgary,587-391-0801,CCFP
 "Lee, Ann Shuk On",Edmonton,780-735-2800,CCFP
-"Lee, Antonio",Toronto,,CCFP
+"Lee, Antonio",Kitchener,,CCFP
 "Lee, Arden",Calgary,403-777-3000,DRAD
 "Lee, Benny Sibun",Calgary,,CCFP
 "Lee, Bonita E.",Edmonton,780-492-8038,PED ID
-"Lee, Brian",Edmonton,780-250-6665,-
 "Lee, Bryan",Calgary,,CCFP
 "Lee, Cheng-Han",Edmonton,587-879-3615,ANAP
 "Lee, Christopher",Leduc,780-986-6200,CCFP
@@ -5967,12 +5917,12 @@ NAME,CITY,PHONE,SPECIALTY
 "Leggett, Alison",Calgary,,CCFP
 "Lehmann, Carmen E.",Calgary,,CCFP
 "Lehmann, Ordan Jacob",Edmonton,780-735-4720,OPH
-"Lei, Yang",Calgary,,GE IM
+"Lei, Yang",Calgary,403-277-7321,GE IM
 "Leia, Nathan",Edmonton,,PSY
 "Leicht, Krista",Edmonton,780-342-5270,PSY
 "Leigh, Richard",Calgary,403.220.4245,IM RESP
 "Leighton, Dayna R",Edmonton,780-735-2863,ANES
-"Leijser, Lara Maria",Calgary,403-944-4638,NPM PED
+"Leijser, Lara Maria",Calgary,403-944-4638,PED NPM
 "Leinweber, Landon",Red Deer,403-343-4442,CCFP EM
 "Leiper, Thomas",Edmonton,780 342 7788,PSY
 "Leishman, Eric",Taber,403-223-3525,CCFP
@@ -5997,7 +5947,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Lenz, Kasia",Calgary,403-943-7000,EM
 "Lenz, Ryan",Calgary,403-943-3000,IM
 "Lenza, Eric",Edmonton,780-426-1121,DRAD NUCM
-"Leon, Griselle Carina",Calgary,403-452-6622,CCFP
+"Leon, Griselle Carina",Calgary,,CCFP
 "Leon, Hernando",St. Albert,780-347-0407,GIM IM
 "Leonard, Heather",Edmonton,780-705-0200,PED
 "Leonard, Norma",Edmonton,,MGEN
@@ -6048,7 +5998,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Leung, Stephen T",Calgary,403-277-3333,CCFP
 "Leung, Tanya",Edmonton,,ANES
 "Leung, Victoria",Edmonton,780-466-6236,CCFP
-"Leung, Winnie",Edmonton,780-492-4112,IM RESP
+"Leung, Winnie",Edmonton,780-492-4112,RESP IM
 "Leung, Wynne",Calgary,587-400-6700,O&G
 "Levacque, Zach",Okotoks,403-938-4990,CCFP
 "Lever, Christopher",Calgary,403-284-0001,PED
@@ -6065,6 +6015,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Lewis, Carrie Brie",Edmonton,780-432-1414,PED
 "Lewis, Colton Royal",Olds,403-556-3381,CCFP
 "Lewis, Danielle Josee",Edmonton,587-991-5071,CCFP
+"Lewis, Gregory John",Three Hills,585-610-6764,CCFP
 "Lewis, James",Edmonton,780-735-5754,OPH
 "Lewis, Melanie",Edmonton,780-407-6370,PED
 "Lewis, Paul J",Lethbridge,403-894-6818,CCFP
@@ -6077,7 +6028,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Li, Bing",Edmonton,780-440-8274,CCFP
 "Li, Daniel",Edmonton,780-342-5473,PSY
 "Li, Doris",Calgary,403-943-4561,CCFP
-"Li, Dorothy",Calgary,403-956-2469,GE IM
+"Li, Dorothy",Calgary,403-956-2469,IM GE
 "Li, Erwin",Lethbridge,403-380-1057,CCFP FMCE
 "Li, Hui (Nancy)",Calgary,403-775-9669,CCFP
 "Li, Jemma",Airdrie,587-775-1887,CCFP
@@ -6086,8 +6037,8 @@ NAME,CITY,PHONE,SPECIALTY
 "Li, Katherine",Edmonton,780-973-4011,CCFP
 "Li, Mathew",Calgary,403-210-9980,DRAD
 "Li, Matthew Daniel",Edmonton,780-490-1313,DRAD
-"Li, Nicholas",Calgary,403-944-3850,NEPH IM
-"Li, Pen",St. Albert,587-290-4449,IM RESP
+"Li, Nicholas",Calgary,403-944-3850,IM NEPH
+"Li, Pen",St. Albert,587-290-4449,RESP IM
 "Li, Pin",Calgary,403-210-6564,IM
 "Li, Raymond",Calgary,403-705-3636,IM ENDO
 "Li, Stephanie",Calgary,587-882-4477,IM ENDO
@@ -6104,7 +6055,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Lian, Kevin Shuai",Edmonton,,DRAD
 "Liang, Teresa I-Han",Edmonton,780-426-1121,DRAD
 "Liang, Tina",Edmonton,780-990-4442,GREI O&G
-"Liang, William",Calgary,403-944-1110,IM RESP
+"Liang, William",Calgary,403-944-1110,RESP IM
 "Liao, Chiu-Hsiang",Calgary,,ANAP
 "Liapounova, Natalia",Calgary,587-332-0600,NEUR PEDN
 "Libin, Mike",Calgary,403-229-0129,CCFP
@@ -6117,7 +6068,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Lien, Dale C.",Edmonton,780-492-8031,RESP IM
 "Liepert, David",Calgary,403-943-8720,ANES
 "Lieu, Anthony",Calgary,403-944-3364,IM ID
-"Liew, Elena",Edmonton,780-407-1584,IM HEM
+"Liew, Elena",Edmonton,780-407-1584,HEM IM
 "Liew, Javier",Calgary,403-338-4000,DRAD
 "Ligate, Lora V.",Red Deer,403-346-4206,-
 "Ligier, Bruno",Calgary,403-944-1430,ANES CRIT
@@ -6143,11 +6094,10 @@ NAME,CITY,PHONE,SPECIALTY
 "Lin, Katie Yuwei",Calgary,403-944-1818,EM
 "Lin, Lily",Edmonton,780-407-8361,CARD PED
 "Lin, Michael",Edmonton,780-944-9588,PED CI&A
-"Lin, Sam",Richmond,,CCFP
 "Lin, Su",Delta,,CCFP
 "Lin, Tan",Fort Saskatchewan,780-342-3078,CCFP
 "Lind, Daren",Edmonton,587-334-4761,CCEM CCFP
-"Linden, Paul",Fort McMurray,780-793-6161,CCEM
+"Linden, Paul",Fort McMurray,780-793-6161,CCEM CCFP
 "Lindenberg, Tracy-Lee",Lac La Biche,780-623-4421,-
 "Lindgren, Jeff",Edmonton,,CCFP
 "Lindsay, Martine",Edmonton,780-407-8861,ANES
@@ -6166,7 +6116,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Lipp, Chris (Christopher)",Calgary,,EM
 "Lisboa, Luiz",Calgary,,MMIC
 "Liserani, Donna",Calgary,,-
-"Liss, Michael",Calgary,403-944-1110,PS
 "Lisztwan, Magdalena",Lethbridge,403-388-6301,CCEM CCFP
 "Lithgow, Kirstie Catherine",Calgary,403-955-8678,ENDO IM
 "Litwinson, Laurie",Edmonton,780-735-2594,PSY
@@ -6177,7 +6126,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Liu, Daniel",Calgary,587-955-9400,CCFP
 "Liu, Edmond Kam Hung",Calgary,403 730 7663,CCFP
 "Liu, Fangwei",Edmonton,780-306-9998,CCFP
-"Liu, Fanny",Edmonton,780-469-3311,CCFP
+"Liu, Fanny",Spruce Grove,587-520-0755,CCFP
 "Liu, hongwei liu",Red Deer,403-406-8452,RADO
 "Liu, Jonathan",Calgary,403-943-4833,IM RESP
 "Liu, Katherine Y",Calgary,403 944 2304,CCFP FMPC
@@ -6185,7 +6134,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Liu, Linda",Pointe Claire,,CCFP
 "Liu, Natarie",Edmonton,780-407-6108,NEUR
 "Liu, Richard",Edmonton,780-757-2188,OTO
-"Liu, Selina",Edmonton,780-469-3311,CCFP
 "Liu, Stephanie",Edmonton,780-487-7713,CCFP
 "Liu, Steve",Calgary,403-973-6681,EM
 "Liu, Wei-Qiao",Calgary,403-943-8669,NEUR
@@ -6217,12 +6165,10 @@ NAME,CITY,PHONE,SPECIALTY
 "Lockwood, Evan",Edmonton,780-735-4162,IM CARD
 "Lodha, Abhay",Calgary,403-944-1087,NPM PED
 "Lodhi, Rohit",London,519-695-8500,PSY
-"Lodhia, Parth",New Westminster,604-553-9110,ORTH
 "Loe, Brian Rama",Okotoks,403 995-2727,DRAD
 "Loeffler, Kimberly Natalie",Edmonton,,CCFP
 "Loehr, Jane",,,CCFP
 "Loeppky, Chantal Krista",Calgary,403-910-3990,CCFP
-"Loewe, Celeste",Edmonton,780-495-2703,CCFP PHPM
 "Loewen, Andrea",Calgary,403-943-5425,IM RESP
 "Loewen, David AJ",Calgary,403-221-4467,CCFP
 "Loewen, Shaun",Calgary,403-521-3723,RADO
@@ -6246,7 +6192,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Long, Malcolm J.",Edmonton,,CCEM CCFP
 "Long, Richard",Edmonton,780-407-1427,IM
 "Long-Innes, Malcolm",Calgary,403 569 7464,-
-"Longino, David",Calgary,403 206 3390,ORTH
+"Longino, David",Calgary,403-206-3390,ORTH
 "Longowal, Maninder",Edmonton,780-425-1212,DERM
 "Longowal, Nanki",Calgary,403-943-5461,CCFP
 "Loo, Alisa",Calgary,403-221-9340,CCFP
@@ -6259,7 +6205,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Lorincz, Caeley",Calgary,,CCFP
 "Lorrain, Brandene Lee",Edmonton,780-904-3781,CAPS PSY
 "Lortie, Chuck",Sherwood Park,780-784-3347,CCFP DERM
-"Lotay, Muninder Singh",Edmonton,780-757-5115,CCFP
+"Lotay, Muninder Singh",Edmonton,780-489-8470,CCFP
 "Lott, Bettina",Edmonton,780-901-1060,CCFP
 "Lou, Lawrence",Calgary,,NUCM DRAD
 "Lou, Samuel Shan",Edmonton,780-407-7755,CCFP
@@ -6279,7 +6225,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Louw, Deon",Calgary,403 452 6876,NS
 "Love, Richa",Calgary,403-539-4062,CCFP
 "Lovo, Lana",Calgary,403-229-2273,CCFP
-"Lovse, Lisa",Banff,403-760-2897,ORTH
 "Low, Aaron",Lethbridge,,IM
 "Low, Connor",Lethbridge,403-328-2326,CCFP
 "Low, David",Calgary,825-540-4070,IM
@@ -6324,7 +6269,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Lui, Robert",Calgary,403-247-3855,GS
 "Luk, Collin Chill-Fone",Calgary,,NEUR
 "Luk, Trevor",Edmonton,,CCFP
-"Luksun, Warren James",Edmonton,780-248-1256,ANES CRIT
+"Luksun, Warren James",Edmonton,780-248-1256,CRIT ANES
 "Lukubisa, Alexander",Langdon,403-936-5990,-
 "Lukwinski, Angelina",Red Deer,403-986-1900,O&G
 "Lumby, Pollie",Calgary,403-879-7000,CCFP
@@ -6360,7 +6305,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Lyubetska, Val",Edmonton,780-735-8845,CCFP
 "Lywood, Colin James",Edmonton,,DRAD
 "M, Enias",Edmonton,780-342-4700,-
-"Ma, Andrew",Calgary,403-452-0999,OTO
 "Ma, Cary",Edmonton,,CCFP
 "Ma, Christie",Edmonton,780-306-9998,CCFP
 "Ma, Christopher",Calgary,403-592-5013,IM GE
@@ -6374,7 +6318,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Ma, Ling Ling",Calgary,587-356-0567,IM CI&A
 "Ma, Lisa",Calgary,403-851-5370,CCFP
 "Ma, Mang",Edmonton,780-492-8146,IM GE
-"Ma, Michael",Calgary,403-568-9789,GE IM
+"Ma, Michael",Calgary,403-568-9789,IM GE
 "Ma, Michael Louis",Edmonton,780-407-7361,ANES
 "Ma, Patrick",Calgary,403 571 6952,CARD IM
 "Ma, Warren",Edmonton,780-407-8722,EM
@@ -6401,7 +6345,7 @@ NAME,CITY,PHONE,SPECIALTY
 "MacDonell Carter, Johanna",Calgary,403-944-1110,CCFP
 "MacEachern, Neil Henry",Leduc,780-980-0891,GS
 "MacEachern, Paul",Calgary,403-220-6882,IM RESP
-"MacEachern, Sarah",Calgary,403-955-5900,PED DEVP
+"MacEachern, Sarah",Calgary,403-955-5900,DEVP PED
 "Macedo, Ben",St. Albert,780-458-7000,CCFP
 "MacEwan, Robert",Edmonton,780-432-8643,DRAD
 "MacGougan, Cameron",Edmonton,780-735-4449,EM
@@ -6413,7 +6357,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Machuk, Andrew",Edmonton,780-424-2233,OPH
 "Maciejewski, Barbara Anna",Calgary,403-247-9797,CCFP
 "Maciejko, Jessica Marie",Sylvan Lake,403-887-2224,CCFP
-"MacIntyre, Erika",Edmonton,,RESP IM CRIT
+"MacIntyre, Erika",Edmonton,,RESP CRIT IM
 "Macintyre, Melanie",Stand Off,403-737-3888,CCFP
 "MacIver, Douglas",St. Albert,780-419-3627,-
 "MacIver, Shauna",St. Albert,780-419-3627,-
@@ -6441,6 +6385,7 @@ NAME,CITY,PHONE,SPECIALTY
 "MacLellan, Kathryn (Kate)",Calgary,403-955-5851,PED
 "MacLeod, Kelsey Marie",Calgary,,CCFP CCEM
 "MacLeod, Scott",High River,403-652-2929,CCFP FMAN
+"MacMullan, Paul",Calgary,403-955-8726,RHEU IM
 "Macneil, Catherine",Calgary,403-955-2953,PED
 "Macphail, Gisela L.P.",Calgary,403-221-8797,ID IM
 "MacPherson, Jennifer",Calgary,403-955-7841,PED
@@ -6468,8 +6413,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Mah, Graham David",Edmonton,,GIM CRIT IM
 "Mah, Jean Kit-Wah",Calgary,403-955-5437,PED NEUR
 "Mah, John",Calgary,403-201-3003,CCFP
-"Mah, Jordan",Calgary,403-944-3364,IM
-"Mah, Kandice",Edmonton,780-407-8020,PED CARD
 "Mah, Kevin Arthur",Sherwood Park,780-464-6300,CCFP
 "Mah, Michael Keith",Calgary,403-247-6966,CCFP
 "Mah, Nancy E.",Edmonton,780-436-8731,-
@@ -6489,7 +6432,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Maher, Neal",Calgary,403-943-5554,ANES
 "Maheshwari, Perkash",Edmonton,587 415 3443,CCFP
 "Maheswaran, Dharini",Edmonton,780-342-6850,PSY
-"Maheswaran, Rajeev",Sherwood Park,587-210-1002,IM
+"Maheswaran, Rajeev",Red Deer,,IM
 "Mahfud, Abdulaati",Grande Prairie,,CCFP
 "Mahfud, Ahmed Salem",Fort McMurray,780-791-6161,DRAD
 "Mahgoub, Linda Elshaikh Omer",Edmonton,,PED NPM
@@ -6511,6 +6454,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Mainprize, David Gordon",Calgary,403-944-1110,EM
 "Mair, Walter Malcolm John",St. Albert,780-940-4460,-
 "Mairs, Simon",Red Deer,403-975-5108,IM MONC
+"Maizlin, Zeev",Toronto,,DRAD
 "Majaesic, Carina",Edmonton,780-407-3943,PED
 "Majaesic, Nic",Fairview,,CCFP
 "Majeed, Ashif",Calgary,403-705-3636,IM ENDO
@@ -6531,7 +6475,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Makoyeva, Alina",Calgary,403-944-4530,DRAD
 "Maksymowych, Walter",Edmonton,780-407-1964,IM RHEU
 "Makus, Ken",Edmonton,780-454-3344,NEUR
-"Malach, Jaye",Lethbridge,403-327-4637,CCFP O&G
+"Malach, Jaye",Lethbridge,403-327-4637,O&G CCFP
 "Malagon Barrera, Maria Fernanda",Calgary,403-943-3597,CCFP
 "Malak, Majed",Edmonton,780-735-2000,IM CARD
 "Malan, Johann",Calgary,403-910-1871,-
@@ -6559,7 +6503,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Maloka, Nabil",Calgary,403-275-4611,-
 "Malowany, Leo",Edmonton,780-479-3055,IM
 "Malpica Vera, Carlos Jaime",Lethbridge,403-593-0560,-
-"Mami, Mustafa",Edmonton,587 523 6334,-
+"Mami, Mustafa",Edmonton,587-523-6334,-
 "Mamo, Andrew",Red Deer,403-343-6172,DRAD
 "Mamogobo, Charmaine",High River,403-649-0552,-
 "Man, Carllin",Burnaby,,CCFP
@@ -6574,7 +6518,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Mangan, KEVIN",Edmonton,780-756-1234,CCFP CCEM
 "Mangat, Birender Singh",Calgary,403-590-4444,-
 "Mangat, Dilpriya Kaur",Calgary,403-943-8832,IM GM
-"Mangat, Jaspreet Paul Singh",Edmonton,780-735-4113,CCFP
 "Mangat, Lovpreet Singh",Calgary,,IM
 "Mangat, Ramanjot",Abbotsford,604-755-4408,CCFP
 "Mangat, Sandeep",Calgary,403-910-1871,-
@@ -6648,7 +6591,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Marr, Hubert",Calgary,,CCFP FMPC
 "Marr, Kaleb",Lethbridge,403-394-3352,GE IM
 "Marro, Alex",Grande Prairie,,DRAD
-"Marrone, Amanda",Calgary,,CCFP
 "Marshall, Kirsten Rachel",Calgary,587-430-0627,CARD IM
 "Marsh-Joyal, Melanie",Edmonton,780-735-4181,PSY
 "Marsicano, Daniela",Edmonton,,ANES
@@ -6691,7 +6633,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Mastel, Douglas",Medicine Hat,403-526-6982,CCFP
 "Masterson, Tami",Edmonton,780-758-2273,PED
 "Masurkar, Swapna",Calgary,403-930-6505,CCFP
-"Matar, Ayah",Edmonton,,CCFP
+"Matar, Ayah",Edmonton,780-989-3289,CCFP
 "Mateer, Abdul",Drumheller,403-820-5334,IM
 "Matejko, Philip",Calgary,403 692 0233,CCFP
 "Matemisz, Laura Charlotte",Edmonton,780-735-7180,CCFP CCEM
@@ -6712,7 +6654,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Matthews, Jennifer",Calgary,403-474-0113,PS
 "Matthews, Selena Tamara",Edmonton,780-434-2778,CCFP
 "Matthews, Wayne",Calgary,403 944-4501,OTO
-"Matthewson, Graeme",Winnipeg,,ORTH
 "Matthey, Peter Walter",Edmonton,780-735-2000,ANES
 "Maul, Clark Peter",Edmonton,778-951-9776,CRIT
 "Maulud, Awatef",Vermilion,780-853-6655,-
@@ -6759,7 +6700,6 @@ NAME,CITY,PHONE,SPECIALTY
 "McCauley, Scott Douglas",St. Albert,780 459 1104,O&G
 "McClure, Scott",Calgary,,CS
 "McColl, Jeanine",Edmonton,780-407-8822,PED
-"McColl, Mary Ellen",High River,250-558-9505,-
 "McColl, Ryan John",Red Deer,,GS
 "McCombe, Jennifer",Edmonton,,NEUR
 "McCombe, Padraic",Fort McMurray,780-790-9342,CCFP
@@ -6772,7 +6712,8 @@ NAME,CITY,PHONE,SPECIALTY
 "McCubbin, Duncan",Medicine Hat,403-502-8935,O&G
 "McCubbin, Jacquie",Edmonton,780-430-2229,O&G
 "McCulloch, Sylvia Gowrie",Calgary,403-943-2501,IM HEM
-"McDermid, Jill",Edmonton,780-421-1029,IM GE
+"McDermid, Jill",Edmonton,780-421-1029,GE IM
+"McDermit, Dale Robert",Calgary,,PSY
 "McDermott, John",Edmonton,780-482-7551,NEUR
 "McDonald, Allan Arthur",St. Albert,780-458-1234,CCFP
 "McDonald, Braedon Alexander",Calgary,403-220-6885,CRIT IM
@@ -6788,7 +6729,7 @@ NAME,CITY,PHONE,SPECIALTY
 "McFadden, Sean",Calgary,,GS TS
 "McFadyen, Lori",Red Deer,403-357-6820,GS
 "McFarlane, Alexandra",Edmonton,780-735-5491,IM ID
-"McFarlane, Kari",Calgary,403-943-7000,CCFP CCEM
+"McFarlane, Kari",Calgary,403-943-7000,CCEM CCFP
 "McFarlane, Rene",Calgary,,CCFP
 "McFee, Kari",Langley,,CCFP
 "McGale, Jance Gabriel",Edmonton,780-732-3714,ORTH
@@ -6801,14 +6742,13 @@ NAME,CITY,PHONE,SPECIALTY
 "McGovern, Christine H.",Calgary,403-944-4224,PM&R
 "McGowan, Liam",Grande Prairie,780-539-3555,ANES
 "McGowan, M. Dan",Calgary,403-944-4500,PM&R
-"McGrath, Tara",Edmonton,780-248-5620,PED RHEU
 "McGruthers, Lauren",Calgary,587-353-4483,CCFP
 "McGuire, Jennifer",Cochrane,403-851-6261,CCFP
 "McIntosh, Chris",Edmonton,780-490-1313,DRAD
 "McIntyre, Brian",Calgary,403-278-8000,ANES
 "McIntyre, James A.",Red Deer,403-342-2234,CCFP
 "McIntyre, Jamie",Red Deer,403-343-4444,CCFP
-"McIsaac, Mark",Edmonton,,IM NEPH
+"McIsaac, Mark",Edmonton,,NEPH IM
 "McIsaac, Matt",Canmore,403-678-1271,CCEM CCFP
 "McKague, Jeff",St. Albert,780 418 8559,-
 "McKaigney, Conor",Calgary,403-956-3000,EM
@@ -6829,7 +6769,6 @@ NAME,CITY,PHONE,SPECIALTY
 "McKnight, Aaron",Red Deer,,-
 "McKnight, Tammy",Calgary,,CCFP
 "McKoen, Elizabeth",Sherwood Park,780-467-4343,CCFP
-"McLachlan, Megan Elizabeth",Edmonton,780-407-8861,ANES
 "McLane, Brienne Jean",Calgary,403-944-1322,PSY
 "McLaren, Sherry",Edmonton,780-434-5129,-
 "McLaughlin, Kevin",Calgary,403-944-5883,NEPH
@@ -6862,10 +6801,11 @@ NAME,CITY,PHONE,SPECIALTY
 "McNab, Brian",Edmonton,780 492 4103,IM RESP
 "McNab, Tammy",Edmonton,780-492-3626,IM ENDO
 "McNally, Dermot",Edmonton,780-407-1794,DRAD
+"McNamee, Dave",Canmore,403-609-2136,CCFP
 "McNeil, Gordon",Calgary,,EM
 "McNeil, Joanna Dawn",High River,403-652-0133,CCFP
 "McNeil, Steve",Calgary,403-944-4224,PM&R
-"McNeilly, Nancy",Edmonton,780-443-7477,CCFP
+"McNeilly, Nancy",Edmonton,,CCFP
 "McNicol, Keith",Spruce Grove,780-962-9888,-
 "McPeak, Brian",Edmonton,780-801-3366,CCFP
 "McPhail, Nicholas Michael",Lethbridge,,CCFP
@@ -6875,7 +6815,7 @@ NAME,CITY,PHONE,SPECIALTY
 "McPhee, Nancy J.",Calgary,403-270-4300,CCFP
 "McPherson, Alexandra",Edmonton,780-342-7764,PSY
 "McPherson, Christa",Canmore,403-609-8333,CCFP
-"McQuarrie, Carrie",Victoria,,CCFP CCEM
+"McQuarrie, Carrie",Grande Prairie,,CCFP CCEM
 "McQuillan, S.",Calgary,403-956-2025,O&G
 "McRae, Andrew",Calgary,,EM
 "McSorley, John J.",Airdrie,403-948-6422,-
@@ -6926,7 +6866,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Ménard, Sonia",Calgary,403.221.4434,PED
 "Mendis, Mahipala Calista",Calgary,,CCFP
 "Meng, Lingwei",Calgary,,ANES
-"Meng, Zhao Wu",Calgary,,GE IM
 "Mengel, Michael",Edmonton,780-407-8877,ANAP
 "Menhem, Zoul",Calgary,403 286 3700,PED
 "Menon, Bijoy",Calgary,403-944-8107,NEUR
@@ -6961,6 +6900,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Mew, Jenny",Calgary,403-943-3509,PSY
 "Mews, Lorissa",Calgary,780-266-6958,EM
 "Meyer, Johan",Lethbridge,587-787-4444,-
+"Meyer, Pieter",Calgary,587 535 5600,-
 "Meyer, Steven",Edmonton,780 407 1959,CS
 "Meza-Junco, Judith",Edmonton,780-432-8514,MONC
 "Mgbor, Ebele Ifeoma",Lamont,780 579 2222,CCFP
@@ -6985,7 +6925,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Milani, Ali",Calgary,403-955-6566,PSY
 "Mildenberger, Adam James",Peace River,,CCFP
 "Milenkovic, Jovana",Calgary,,PED
-"Miles, Brendan",Calgary,403-943-5000,CCFP
+"Miles, Brendan",Calgary,403-943-8900,CCFP
 "Miles, Laura",Calgary,403-531-9757,PED
 "Miles, Peter",Grande Prairie,780-539-4545,GS
 "Millar, Cassandra Blaire",Calgary,403-539-5214,CCFP
@@ -7002,7 +6942,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Mills, Lindsay",Calgary,,PED CARD
 "Milne, David Gordon",Calgary,403-943-4555,ANES
 "Milne, Lois Ann",Calgary,403-270-4300,CCFP
-"Milne-Epp, Andrea Margaret",Edmonton,780-250-6842,CCFP
+"Milne-Epp, Andrea Margaret",Edmonton,780-438-3241,CCFP
 "Milner, Jillian Amber",Calgary,,CCFP
 "Milner, Kayla",Didsbury,403-335-2535,CCFP
 "Milovanovic, Lazar",Edmonton,,IM
@@ -7040,7 +6980,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Mish, Joanna",Calgary,403-259-2709,CCFP
 "Mishchenko, Natalia",Edmonton,780-444-0350,CCFP
 "Mishra, Geetika",Edmonton,780 395 1061,CCFP
-"Mishra, Navin",Bonnyville,780-826-3346,PED
+"Mishra, Navin",Calgary,403-930-9940,PED
 "Mishra, Renata",Edmonton,780-444-0350,CCFP
 "Mishra, Sachin Maheshdutt",Edmonton,780-407-7363,NEUR
 "Miskew, Linda Dawn",Calgary,403-270-8978,CCFP
@@ -7052,7 +6992,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Mitchell, Cindy",Calgary,403-815-1350,CCFP
 "Mitchell, Ian",Calgary,403-955-2952,PED RESP
 "Mitchell, L. Brent",Calgary,403-944-1683,CARD IM
-"Mitchell, Mhairi",Calgary,587-355-3300,CCFP
 "Mitchell, Nicholas David",Edmonton,780-407-6564,PSY
 "Mitchell, Patrick",Calgary,,OPH CCFP
 "Mitchell, Philip",Calgary,403-264-6720,GS
@@ -7074,7 +7013,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Mobach, Theodore",Calgary,403-944-4408,NEUR
 "Mocanu, Adriana",Edmonton,780 735 7934,CCFP
 "Mochinski, Autumn",Peace River,780-624-2581,CCFP
-"Moctezuma Velazquez, Carlos",Edmonton,780-492-8184,IM GE
+"Moctezuma Velazquez, Carlos",Edmonton,780-492-8184,GE IM
 "Modi, Monica",Calgary,403-944-1157,CCFP
 "Modi, Renuca",Edmonton,780-735-5620,CCFP
 "Mody, Chris",Calgary,403-220-8774,IM RESP
@@ -7195,7 +7134,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Morrissey, Sarah",Edmonton,833-553-3278,GS VS
 "Morros, Michelle",Edmonton,780-735-2800,CCFP
 "Morrow, Donna Michele",Camrose,780-679-6100,CCFP
-"Morrow, Farrah",Calgary,,ANES
+"Morrow, Farrah",Calgary,403-943-3000,ANES
 "Morse, Amy",Edmonton,780-421-1029,GE IM
 "Morse, Chris",Calgary,403-374-0781,CCFP
 "Mortera, Genevieve",Edmonton,780-492-2612,CCFP
@@ -7204,9 +7143,8 @@ NAME,CITY,PHONE,SPECIALTY
 "Morys, Stephen Jan",Calgary,403-282-3806,CCFP
 "Mosadomi, Deji",Calgary,403-910-1871,CCFP
 "Mosaico, Francesco",Edmonton,780-422-7333,CCFP FMAD
-"Moscovitch, Adam",Calgary,403 455 3747,PSY
 "Moser, Joanna Joy",Calgary,403-956-3690,ANES
-"Mosher, Dianne",Calgary,403-955-8717,RHEU IM
+"Mosher, Dianne",Calgary,403-955-8717,IM RHEU
 "Moshood, Ibrahim",Drumheller,403-823-3345,CCFP
 "Moshurchak, Kim",Edmonton,780-482-7551,CCFP
 "Mosli, Mohammed",Wetaskiwin,587-768-1046,PHPM
@@ -7220,12 +7158,11 @@ NAME,CITY,PHONE,SPECIALTY
 "Mott-Trille, Rachel",Ponoka,403-783-7600,PSY
 "Mouhammed, Samir",Edmonton,780-486-7370,CCFP
 "Moulay, Omar",Fort McMurray,780-791-6161,ANES
-"Mourad, Walid",Calgary,403-764-8719,ANAP
-"Mousa, Sylvia",Calgary,403-956-1500,PSY
+"Mourad, Walid",Calgary,403-690-4254,ANAP
+"Mousa, Sylvia",Calgary,403-956-1500,PSY CAPS
 "Moussa, Sahar",Edmonton,780-760-1727,CCFP
 "Moussadji, Yael",Calgary,403-956-3000,EM
 "Moussienko, Danylo",Calgary,,CCFP
-"Moustafa, Ahmed Tarek",Calgary,,IM
 "Moustarah, Fady",Bloomfield Hills,313-484-8007,GS
 "Mouton, Godwin",Redwater,780-942-3840,CCFP
 "Mowat, Gordon A.",Edmonton,780-342-7700,PSY
@@ -7258,13 +7195,13 @@ NAME,CITY,PHONE,SPECIALTY
 "Mukhi, Alfin Nizar",Lloydminster,780 874 1004,GS
 "Mukiibi, Herbert Kiwanuka",Edmonton,780 475 9635,-
 "Mukuna, Franck",High Prairie,780-523-2868,-
-"Mulchey, Kimberley",Winnipeg,204-787-2977,IM RESP
+"Mulchey, Kimberley",Winnipeg,204-787-2977,RESP IM
 "Mulder, Jeffrey",Red Deer,403-342-7270,CCFP
 "Mulder, Karen",Edmonton,780-432-8340,MONC IM
 "Mulholland, Graeme Brodie",Leduc,780-986-8770,OTO
 "Mulholland, Michael",Sylvan Lake,403-588-4259,-
-"Mullen, John C",Edmonton,780-902-6327,GS CVTS
-"Mullen, Tyler",Red Deer,403-755-9270,IM GE
+"Mullen, John C",Edmonton,780-902-6327,CVTS GS
+"Mullen, Tyler",Red Deer,403-755-9270,GE IM
 "Muller, Emile",Strathmore,403-361-2422,CCFP
 "Muller, Jacobus",Bonnyville,780-826-5188,-
 "Muller, Jeanne",Lacombe,403-782-6717,-
@@ -7283,7 +7220,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Mundell, Jo",Rocky Mountain House,403-845-2815,CCFP
 "Mundi, Neil",Calgary,226-926-9161,OTO
 "Mundin, Joann",Calgary,403-452-6272,PSY
-"Muneer, MOHAMMAD",Edmonton,780-436-2121,CCFP
 "Munim, Dina",Calgary,403-944-8298,PSY
 "Munro, Monique",Calgary,403-258-1773,OPH
 "Munsamy, Gonny",St. Albert,780 569 5455,-
@@ -7296,7 +7232,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Murias, Kara",Calgary,403 955 5900,PEDN
 "Murji, Salma",Edmonton,780 735 7000,CCFP
 "Murji, Sheila Jessa",Sherwood Park,780-467-2773,DRAD
-"Murphy, Bill",Calgary,403-956-2460,NEUR
 "Murphy, John Denis",Bonnyville,,-
 "Murphy, Lindy",Calgary,403-944-2304,FMPC CCFP
 "Murphy, Magnus",Calgary,403-692-0440,O&G
@@ -7326,6 +7261,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Muthanna, Russell",Hinton,780-865-3338,-
 "Muwanguzi, Kizza Stan",Camrose,780-679-6111,CCFP
 "Muwonge, Stanley",Calgary,587-955-9400,CCFP
+"Muzammal, Bushra Maqbool",Calgary,403-944-1169,IM
 "Muzychuk, Adam Kiel",Calgary,403-286-3335,OPH
 "Muzyka, David L.",Edmonton,780-735-4010,ANES CRIT
 "Muzyka, Timothy G.",Edmonton,780-735-2255,IM CARD
@@ -7368,7 +7304,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Naidu, Dhiren",Edmonton,780-453-5255,PM&R
 "Naidu, Phnendren",Calgary,403-242-8633,-
 "Naidu, Prenilla",Edmonton,780.451.3702,MMIC
-"Naidu, Veyantiz",Edmonton,780 454 4242,CCFP
+"Naidu, Veyantiz",Sherwood Park,780-464-6300,CCFP
 "Naik, Sandeep",Edmonton,780-426-1121,DRAD
 "Naiker, Randy",Edmonton,780-484-7574,CCFP
 "Naimi, Iman",Edmonton,780-407-8020,PED
@@ -7380,7 +7316,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Nakashima, Brenda Akemi",Calgary,,CCFP
 "Nakatsui, Thomas C.",Edmonton,780-482-1414,DERM
 "Nakhuda, Sadia",Edmonton,780-735-4605,PED
-"Nakonechny, Quentin",Edmonton,780.451.3702,PATH
 "Nalder, Byron Kay",Lethbridge,403-388-6131,ANES
 "Namaruish, Osama Ali Abdalla",Edmonton,587-754-5600,CCFP
 "Namsechi, Risa Farah",Edmonton,780-306-9209,NEUR
@@ -7410,7 +7345,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Nason, Renee",Edmonton,780-809-1495,CCFP
 "Nasr, Maryam",Calgary,403-215-4070,O&G
 "Nasser, Ali Mounir",Calgary,403 269 9488,CCFP
-"Nasser, Yasmin",Calgary,403-944-3386,IM GE
+"Nasser, Yasmin",Calgary,403-944-3386,GE IM
 "Nataraj, Andrew",Edmonton,780 407 7179,NS
 "Nath, Emil Sambhu",Edmonton,780-735-2000,IM
 "Nath, Ermin Sambhu",Edmonton,780-735-2255,IM CARD
@@ -7418,7 +7353,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Natha, Raj",Calgary,403 984 3193,-
 "Natho, Lorraine Ruth",Calgary,587-392-5066,CCFP
 "Natiq, Beenish",Edmonton,780-250-2400,CCFP
-"Naud, Kentia",Edmonton,780-540-9940,MFM O&G
+"Naud, Kentia",Edmonton,780-540-9940,O&G MFM
 "Naude, Adel",Lloydminster,780-875-2221,-
 "Naude, Dalaine",Rocky Mountain House,403-845-2815,-
 "Naude, Paul",Lloydminster,780-875-2221,-
@@ -7433,7 +7368,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Ndovi, Edwards D.",Bonnyville,780-812-0388,IM
 "Ndubuisi, Adaeze",Camrose,780-672-2423,-
 "Neary, Peter",Calgary,403-258-0848,-
-"Nechifor, Roxana",Red Deer,403-347-3350,CCFP
+"Nechifor, Roxana",Red Deer,403-342-7270,CCFP
 "Needham, Craig John",Edmonton,780-735-7020,ANES
 "Neil, Gordon F.",Red Deer,403 343-4442,-
 "Neilson, Andrea",Vancouver,604-877-6000,GONC O&G
@@ -7467,11 +7402,10 @@ NAME,CITY,PHONE,SPECIALTY
 "Neufeld, John",Calgary,403-943-3000,EM
 "Neuls, Rick",Edmonton,780 482 7551,CCFP
 "Neuman, Glen Dale",Edmonton,780-735-2763,PATH
-"Neupane, Karen Margaret",Peace River,780-624-2581,FMSS CCFP
+"Neupane, Karen Margaret",Peace River,780-624-2581,CCFP FMSS
 "Newnham, Peter James",St. Albert,780-458-7000,CCFP
 "Newson, Adam",Calgary,403-225-9499,CCFP
 "Newton, Ethan",Calgary,403-955-2218,OTO
-"Ng, Anita",Scarborough,,OPH
 "Ng, Antony",Calgary,403-243-9500,CCFP
 "Ng, Danny",Calgary,,DRAD
 "Ng, David",Edmonton,780-498-3999,CCFP
@@ -7506,6 +7440,8 @@ NAME,CITY,PHONE,SPECIALTY
 "Niazee, Ali Husham",High Prairie,780-523-2868,CCFP
 "Niccoli, Vincent",Medicine Hat,403-527-1233,CCFP
 "Nichol, Chris",Camrose,780-672-2425,CCFP
+"Nichol, Rowland",Calgary,403-229-2273,-
+"Nicholas, Mathew",Edmonton,780-439-7546,DERM
 "Nicholls, Erin Frances",Calgary,587-400-6700,CCFP
 "Nicholls, Fred",Calgary,403-930-3179,ORTH
 "Nichols, Darren",Edmonton,780-407-7047,CCFP CCEM
@@ -7530,6 +7466,8 @@ NAME,CITY,PHONE,SPECIALTY
 "Nighswander, Tammy",Calgary,587-434-4332,CCFP
 "Nijjar, Sundeep Singh",Calgary,403-235-4109,NUCM
 "Nijjar, Terry",Edmonton,780-432-8517,IM MONC RADO
+"Nijssen-Jordan, Cheri",Calgary,403-955-7211,PED
+"Nikkel, Karly",Penticton,,CCFP
 "Nikoleychuk, Gerald Daniel",Grande Prairie,780-539-1902,IM
 "Nikolic, Ana",Calgary,403-585-3166,NP
 "Nilsson, Jan",Edmonton,780-496-1390,IM
@@ -7586,7 +7524,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Novak, Kerri",Calgary,403-944-6562,GE IM
 "Novak, Michele Yong Ling Ding",Calgary,403-589-8118,CCFP
 "Novak, Travis",Calgary,,CCFP
-"Novick, Richard J",Calgary,403-944-2334,CRIT GS CVTS
+"Novick, Richard J",Calgary,403-944-2334,GS CVTS CRIT
 "Nowacki, Tom",Edmonton,780-248-2346,NEUR
 "Nowak, Agata M.",Calgary,403-263-7997,CCFP
 "Nowak, Peter",Calgary,403-259-3256,CCFP
@@ -7602,6 +7540,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Nunweiler, Christine",Hinton,780-865-3333,DRAD
 "Nunweiler, Donovan E.S.",Medicine Hat,403-528-4490,CCFP
 "Nutley, Mark Terrence",Calgary,403-943-4013,GS GS VS
+"Nutting, Jade Elle",Calgary,,CCFP
 "Nutting, Michael G.",Edmonton,780 499 8240,IM
 "Nwachukwu, Izu",Calgary,403-955-6566,PSY
 "Nwaka, Bernard Chukwuemeka",Edmonton,780-462-8120,CCFP
@@ -7619,6 +7558,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Nzekwu, Emeka",Calgary,587-434-9886,DRAD
 "Oad, Lachman Das",Wetaskiwin,780 312 1866,GS
 "Oakander, Margie",Calgary,403 944 9750,PSY
+"Obadan, Ehiremhen Odalo",Sydney,,CCFP
 "Obaid, Halah",Airdrie,403-945-0770,PED
 "Obaitua, Ehi",St Paul,780-614-3210,-
 "Obaitua, Serena Ifueko",St Paul,780-614-3210,-
@@ -7647,7 +7587,7 @@ NAME,CITY,PHONE,SPECIALTY
 "O'Croinin, Feargus",Ponoka,403-783-7600,PSY
 "Odaibo, Felix S.",Grande Prairie,780 513 1991,NPM PED
 "Odenbach, Jeff",Edmonton,780-735-7000,EM CRIT
-"Odendaal, Hendrik",Edson,780-723-3366,-
+"Odendaal, Hendrik",Edson,780-723-3366,CCFP
 "Odendaal, Morne Lombard",Red Deer,403-356-0222,CCFP
 "Odenigbo, Chukwuemeka",Calgary,403-663-5974,PSY
 "Odetola, Oluwaseun  David",Edmonton,780-809-1955,CCFP
@@ -7668,14 +7608,15 @@ NAME,CITY,PHONE,SPECIALTY
 "Ogbonnaya, Vanessa Chinma",Calgary,403-873-7300,CCFP
 "Ogilvie, Robert James",Edmonton,780 454 3800,NEUR
 "Ogilvie, Robert Travis",Calgary,403-956-1358,ANAP
-"Ogo, Ngozi",Calgary,587-354-4000,-
+"Ogo, Ngozi",Calgary,403-456-6290,CCFP
 "Ogoke, valentine",High River,403 652 2880,-
 "Ogona, Onome",Calgary,403-465-8814,CCFP
 "O'Gorman, Monica",Banff,403-762-4846,CCFP
 "Oguekwe, Uche Ero",Edmonton,780-705-8400,CCFP
 "Ogundeji, Olumide Abiodun",Calgary,855-577-8838,CCFP
-"Ogundipe, Bosun",Calgary,403 475 8200,-
+"Ogundipe, Bosun",Calgary,403-730-0224,-
 "Ogundiya, Deji",Edmonton,780-761-2430,CCFP
+"Ogunfolaji, Temitope James",High Level,780-841-3200,-
 "Ogunlewe, OBAFEMI",Lloydminster,780-872-7343,O&G
 "Ogunnaike, Oluyemisi Olumide",Airdrie,587-287-1837,CCFP
 "Ogunnuga, Fausat Oludare",Okotoks,403-917-0653,CCFP
@@ -7710,11 +7651,9 @@ NAME,CITY,PHONE,SPECIALTY
 "Okunade, Wasiu Adeleke",Calgary,587-937-2017,CCFP
 "Okwuosa, Odili Sabastine",Slave Lake,780-849-4155,CCFP
 "Okwuosa, Uzoamaka Charity",Edmonton,780-438-2306,CCFP
-"Oladapo, Oladele",Prince Albert,,-
 "Oladele, Oluseyi",Edmonton,780-342-7810,CCFP
 "Oladoyin, Ajike",Lagos Island,+234807032441,CCFP
 "Olaitan, Olubunmi Olufunke",Camrose,780-672-2423,-
-"Olakanmi, Moses Oluwadamilare",Saskatoon,,-
 "Olaleye, Tinu",Two Hills,780-657-3337,-
 "Oland, Ryan",Stony Plain,780-968-3600,CCFP
 "Olaniyan, Adefolake Oluwakemi",Spirit River,780-864-3962,-
@@ -7769,7 +7708,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Omotara, Femi",Calgary,587-356-3793,CCFP
 "Ondrus, Peter",Edmonton,780-735-4111,-
 "O'Neil, Conar Robinson",Edmonton,780-735-9192,IM ID
-"O'Neill, Blair J",Edmonton,,IM CARD
+"O'Neill, Blair J",Edmonton,587-990-9746,IM CARD
 "O'Neill, Laura",Calgary,403-453-3300,CCFP
 "O'Neill, Siobhan",Edmonton,780-490-1313,DRAD
 "Ong, Eric",Red Deer,403-343-6404,PED
@@ -7785,13 +7724,12 @@ NAME,CITY,PHONE,SPECIALTY
 "Onyekweli, Matthew Obi",Calgary,587-471-9467,-
 "Onyong, Elia",Edmonton,780-468-1884,-
 "Ooi, Jan",Calgary,403 509-3080,CCFP
-"Oommen, Tania Anne",Nanaimo,250-739-5868,PSY
 "Oosman, Farook N.",Wetaskiwin,587-768-1046,-
 "Oosman, Jodie",Calgary,587-392-5066,PSY
 "Oosthuysen, Marzanne",Lacombe,403-782-6717,-
 "Opgenorth, Andrea",Edmonton,780-492-3626,IM ENDO
 "Opperman, Estelle",Lethbridge,403-381-5260,PSY
-"Oqab, Zardasht",Edmonton,780-407-4843,IM CARD
+"Oqab, Zardasht",Edmonton,780-407-4843,CARD IM
 "O'Quinn, Candace",Calgary,403-210-8030,O&G MFM
 "O'Regan, Kierra",Calgary,403-284-2261,CCFP
 "O'Reilly, Amanda",Edmonton,780-461-6220,O&G
@@ -7840,7 +7778,8 @@ NAME,CITY,PHONE,SPECIALTY
 "Osiogo, Felix Omonosioni",Edmonton,780-342-7690,PSY
 "Oskin, Alec",Edmonton,780-428-4524,-
 "Osman, Ebtihal",Edmonton,780 250 6665,CCFP
-"Osman, Maisoon",Edmonton,780-540-9168,IM NEPH CCFP
+"Osman, Heba",Calgary,,-
+"Osman, Maisoon",Edmonton,780-540-9168,IM CCFP NEPH
 "Osman, Mo",Edmonton,780-492-7481,RHEU IM
 "Osmond, Allison",Calgary,,ANAP
 "Osmond, Colette",Edmonton,780-488-2724,ANES
@@ -7850,7 +7789,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Ostolosky, Lara Jean",Edmonton,780-407-1855,PSY
 "Ostrowerka, Bethany",Edmonton,780-407-6504,PSY
 "Osuagwu, Ferdinand",Bon Accord,780-565-3007,CCFP
-"Osundwa, Vincent M.",Edmonton,780 425 3400,PED CI&A
+"Osundwa, Vincent M.",Edmonton,780 425 3400,CI&A PED
 "Oswald, Anna",Edmonton,780-492-7500,IM RHEU
 "Oswald, Ron",Edmonton,780-342-7700,PSY
 "Oteghekpen, Osayande Jim Tesh",Whitecourt,780-706-7080,-
@@ -7901,9 +7840,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Paetsch, Paul R.",Edmonton,,ANES
 "Pagan, Tristan",Cochrane,,CCFP
 "Pagano, Joseph",Edmonton,780-407-3957,PEDC
-"Page, Anne Marie",Calgary,403-291-3001,-
 "Page, Jessica",Lethbridge,403-394-3720,ORTH
-"Pagenkopf, Cort",Canmore,403-678-7198,GS
 "Pahulje, Bernadette",Lethbridge,403-381-7000,CCFP
 "Paish, Adam Andrew",Westlock,780-349-3341,CCFP
 "Palakkamanil, Mathew",Edmonton,780-450-3335,OPH
@@ -7919,7 +7856,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Panaccione, Remo",Calgary,,IM GE
 "Panaro, Carlo",Edmonton,780-481-5650,ORTH
 "Panayides, Pete",Red Deer,403-347-9037,GS
-"Pancic, Stefana",Calgary,403-685-9499,GIM IM
+"Pancic, Stefana",Calgary,403-685-9499,IM GIM
 "Pandey, Samita",St. Albert,780-569-5455,CCFP
 "Pandya, Anjali",Calgary,403-944-1315,EM
 "Pandya, Neil",Edmonton,780-469-3434,NEUR
@@ -7931,13 +7868,12 @@ NAME,CITY,PHONE,SPECIALTY
 "Pang, Zhiyu",Edmonton,780-669-2222,DRAD
 "Panhwer, Idrees",Edmonton,,CCFP
 "Panich, Niki",Calgary,403-735-4922,CCFP
-"Pankiv, Viktoria",Calgary,403-286-9118,PED
+"Pankiv, Viktoria",,,PED
 "Pannu, Kanwar",Didsbury,403-518-8762,CCFP
 "Pannu, Neesh",Edmonton,780-492-8519,IM NEPH CRIT
 "Pannu, Tania",Calgary,825-540-4070,IM
 "Panu, Anukul",Edmonton,780-426-1121,DRAD
 "Papadopoulou, Mary",Calgary,587-355-7222,-
-"Papas, Konstantin",Edmonton,780-489-8430,DRAD
 "Papini, Adam Bruno",Calgary,403-944-5530,IM NEPH
 "Papp, Ed",Edmonton,780-468-6035,CCFP
 "Pappachan, Michael",Edmonton,,PM&R
@@ -7946,7 +7882,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Parai, Mira Rani",Red Deer,403-343-4515,ANAP
 "Parai, Sushil Kumar",Red Deer,403-986-1888,ANAP
 "Parakoyi, Marcin",Ponoka,,PSY
-"Parameswaran, Sandrasekeram Parameswaran",Cold Lake,780-812-5168,GS
 "Parameswaranathan, Suba",Peterborough,705-876-5838,IM ENDO
 "Paras, Erica Dawn",Edmonton,780-760-1727,CCFP
 "Parekh, Dwip",Calgary,,IM
@@ -7973,7 +7908,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Parks, Paul",Medicine Hat,403-529-8053,EM
 "Parmar, Jasneet",Sherwood Park,780-901-6236,-
 "Parmar, Radhmila Kumari",Airdrie,587-775-1887,CCFP
-"Parmar, Rajni",Calgary,587-349-0500,CCFP
 "Parmar, Saurabh",Hythe,780-356-3869,CCFP
 "Parrington, Kyle Andrew",Leduc,780-980-5050,IM
 "Parrish, Adam",Edmonton,780-434-5129,CCFP
@@ -8045,12 +7979,12 @@ NAME,CITY,PHONE,SPECIALTY
 "Patterson, Jeffery",Edmonton,780-496-1390,HEM IM
 "Patterson, Margot",Denwood,780-842-1363,-
 "Patterson, Steven John",Calgary,403 943 4555,ANES
+"Pattison, Mark Andrew",,,CAPS PSY
 "Pattison, Philip",Calgary,403-212-5645,DRAD
 "Pattison-Bacon, James",Fort Saskatchewan,780-998-2256,FMAN CCFP CCEM
-"Pattison-Bacon, Manuela",Edmonton,780-735-4111,CCFP
-"Patton, David",Calgary,403 955 7858,CRIT PED PEDC
+"Patton, David",Calgary,403 955 7858,CRIT PEDC PED
 "Patton, William R.",Edmonton,587-340-0940,CCEM CCFP
-"Patzer, Jessica Dawn",Calgary,,CARD IM
+"Patzer, Jessica Dawn",Calgary,,IM CARD
 "Pau, Stephanie",Edmonton,780-414-6812,PED
 "Paul, Asha",Calgary,403-451-8387,-
 "Paul, Ashley",Edmonton,,IM MONC
@@ -8092,12 +8026,10 @@ NAME,CITY,PHONE,SPECIALTY
 "Peeka, Rajeev",Fort McMurray,780-750-8428,PED
 "Peens, Erus",Rocky Mountain House,403-845-2815,-
 "Peerani, Farhad",Edmonton,780-492-8691,IM GE
-"Peerani, Nargis Nasir",Edmonton,780-468-1884,-
 "Peeters, Thomas",Wainwright,780-842-3341,-
 "Peiravi, Haleh",Calgary,403 955 1400,CCFP
 "Peiris, Lashan Jude",Edmonton,780 486 5030,GS
 "Pekez, Jelena",Edmonton,780-474-3712,CCFP
-"Pelech, Stephanie",Edmonton,,CCFP
 "Pelinska, Gabriela",Edmonton,780-439-2008,O&G
 "Peliowski, Abraham",Edmonton,780-908-7509,NPM PED
 "Pelletier, Jerry",Calgary,403-293-7800,CCFP
@@ -8112,7 +8044,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Penner, Kristy",Blairmore,403-562-8804,CCFP
 "Penner, Lisa F.",Calgary,403-257-0500,CCFP
 "Penner, Roseanne",Calgary,403-452-7527,-
-"Penner, Stevie",Victoria,,CCFP
+"Penner, Stevie",Victoria,587-674-2712,CCFP
 "Penner, Victor",Edmonton,780-450-3335,OPH
 "Penney, Vicki",Calgary,403-254-4024,CCFP
 "Pennington, Maureen",Calgary,,PSY
@@ -8173,6 +8105,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Pfeifer, Linda Mary",Fort Saskatchewan,780-998-2256,CCFP
 "Pfeiffer, Shannon",Calgary,,CCFP
 "Pham, Anh Ngoc Christine",Calgary,403-777-3003,DRAD
+"Pham-Nguyen, Michael",Whitehorse,,CCFP
 "Phan, Cecile L.",Edmonton,780-248-1698,NEUR
 "Phan, Tien",Calgary,403-521-3077,RADO
 "Phelps, Ian",Fort McMurray,780-791-6128,CCFP
@@ -8216,13 +8149,13 @@ NAME,CITY,PHONE,SPECIALTY
 "Pinto-Rojas, Alfredo",Calgary,403-276-6760,ANAP
 "Pinzon, David",Edmonton,780-914-7833,CCFP
 "Pinzon, Jorge Luis",Calgary,403-955-7636,PED
-"Pira, Shamira",Calgary,403-284-8666,CCFP
 "Pirani, Fatima",Edmonton,780-306-5555,IM
 "Pirbhai, Nureen",Calgary,403 955 1400,CCFP
 "Pirisola, Durojaiye Raphael",Calgary,403-230-0502,CCFP
 "Pirlot, Tyler",Calgary,403-955-7610,PSY CAPS
 "Pirwany, Imran Rahmetullah",Calgary,403-910-7888,O&G
 "Pisani, Amin",Edmonton,780-496-9350,IM NEPH
+"Piskorski, Anna Maria",Edmonton,780-239-1909,ANAP
 "Pistore, Alexandra",Calgary,403-512-2708,CCFP
 "Pitout, Johann",Calgary,403-770-3573,MMIC
 "Pitter, Curt",Calgary,403-943-5554,ANES
@@ -8230,7 +8163,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Place, Rodney",Calgary,403-944-1110,CCFP
 "Plamondon, Stephanie A.",Calgary,403-956-2459,PM&R
 "Plant, Jeff",Banff,403-762-2222,EM
-"Platt, Jody",Calgary,403-955-2397,RESP PED
+"Platt, Jody",Calgary,403-955-2397,PED RESP
 "Playfair, David Reed",Lacombe,403-782-6555,CCFP FMAN
 "Plemel, David",Calgary,403-255-5561,OPH
 "Plewes, Arthur",Edmonton,780-735-4111,GS
@@ -8268,7 +8201,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Pope, A. James D",Grande Prairie,780-831-0135,CCFP
 "Popke, Manfred E.",Edmonton,,-
 "Poplawski, Stephen",Calgary,,DRAD
-"Popma, Barbara",Lethbridge,403-388-6153,ANAP
 "Popoff, Jeff",Edmonton,780-735-4010,ANES
 "Popov, Serghei",Calgary,403-229-1771,-
 "Popowycz, Krystyn",Edmonton,780-436-3790,CCFP
@@ -8329,11 +8261,11 @@ NAME,CITY,PHONE,SPECIALTY
 "Prinsloo, Yolanda",Cold Lake,,-
 "Prior, Alexandra",Edmonton,780-461-6220,O&G
 "Prior, Trevor",Calgary,403-955-6566,PSY
+"Prisnie, Joey Curtis",Calgary,403-944-1282,PSY
 "Pritchard, Jennifer",Edmonton,780-735-4449,EM
 "Provan, Andrew Iain",Calgary,,CCFP
 "Prowse, Matthew",Edmonton,780-735-7918,PM&R
 "Prusinkiewicz, Chris",Calgary,403-944-1539,ANES
-"Prystajecky, Mary",Calgary,,-
 "Przybojewski, Stefan",Calgary,403-944-4634,DRAD
 "Puddy, Jennifer Jane",Calgary,,CCFP CCEM
 "Pugh, Jeff",Edmonton,780-429-3991,NS
@@ -8358,7 +8290,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Pytka, Saul",Calgary,403-943-8720,ANES
 "Qaddori, Asaad",Calgary,,CCFP
 "Qadry, Syed Mohammed",Airdrie,,CCFP
-"Qalbani, Erum",Edmonton,,CCFP
 "Qarni, Uwais",Edmonton,780-492-9379,NEPH IM
 "Qassim Abdelbaqi, Maisoun",Red Deer,403-343-4516,PATH
 "Qian, Helen",Calgary,,CCFP
@@ -8460,11 +8391,11 @@ NAME,CITY,PHONE,SPECIALTY
 "Raj, Deepak Shidart",Edmonton,780-457-5511,CCFP
 "Raj, Dr Sakina",Calgary,403-800-1171,CCFP
 "Raj, Nurunnisa",Calgary,403-800-1171,CCFP
-"Raj, Satish R",Calgary,403-210-6152,CARD IM
+"Raj, Satish R",Calgary,403-210-6152,IM CARD
 "Raj, Vidya",Calgary,403-956-2655,PSY
 "Rajab, Khaled A.M.",Edmonton,780-669-9229,-
 "Rajabali, Naheed",Edmonton,780-735-6233,IM
-"Rajabali, Zain",,,PM&R
+"Rajabali, Zain",Calgary,587-355-3090,PM&R
 "Rajaee, Nikoo",Edmonton,780 486-5030,GS
 "Rajakone, Anthea",Edmonton,780-462-8120,CCFP
 "Rajakumar, Chandrew",Calgary,403-956-2017,O&G
@@ -8481,6 +8412,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Rakheja, Rajan",Saskatoon,306-321-2540,NUCM
 "Rakhra, Gurpreet Singh",Calgary,403-568-2295,CCFP
 "Rakic, Dubravka",Calgary,403-248-8807,CCFP
+"Ralhan, Ankur",Red Deer,,OPH
 "Ram, Rithesh",Drumheller,403-823-5000,CCFP
 "Ram, Véronique Dorais",Drumheller,403-823-5000,CCFP
 "Ramadan, Soha Said",Edmonton,780-451-3702,ANAP
@@ -8498,7 +8430,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Ramji, Qahir",Calgary,403-956-2437,IM
 "Ramji, Zulfikar",Calgary,403-272-4218,-
 "Ramlall, Jacintha",High River,403-652-7212,-
-"Ramlall, Kumar",Edmonton,780-868-1348,PED RESP
+"Ramlall, Kumar",Edmonton,780-784-0920,PED RESP
 "Ramos, Timothy",Calgary,,PSY
 "Rampling, Roger",Lethbridge,403-329-0500,PSY
 "Ramsahai, James Michael",Calgary,403-943-8660,RESP IM
@@ -8541,7 +8473,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Rashid, Samira",Calgary,403-777-2757,CCFP
 "Rashiq, Saifee",Edmonton,780-407-8861,ANES
 "Rasic, Nivez",Calgary,403-955-7810,ANES
-"Raslan, Tark",Edmonton,989-214-3077,-
+"Raslan, Tark",Edmonton,,-
 "Rasmusen, Lee A.",Calgary,403-968-0163,PSY
 "Rasmussen, Andrew Colin",Edmonton,780-407-5800,UROL
 "Rasmussen, Derek J",Taber,403-223-3525,-
@@ -8556,7 +8488,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Raugust, Jordan",Calgary,403-251-1165,PM&R
 "Rautenbach, Derick",Red Deer,403-342-2040,-
 "Rauw, Jennifer",Edmonton,,IM MONC
-"Raval, Milan",Edmonton,780-735-9192,ID IM
+"Raval, Milan",Edmonton,780-735-9192,IM ID
 "Ravani, Pietro",Calgary,403-210-7839,NEPH
 "Rawani, David Anil  K",Edmonton,780-735-8800,-
 "Rawat, Brijendra",Edmonton,780-426-1121,DRAD
@@ -8575,12 +8507,10 @@ NAME,CITY,PHONE,SPECIALTY
 "Razavi, Jalees",Edmonton,403-517-6000,OCCM
 "Read, Daniel L.",Edmonton,780-735-4181,PSY
 "Reagan, Adrian",Grande Prairie,587-495-9817,DRAD
-"Rebeyka, Ivan Michael",Edmonton,780-445-8442,GS CVTS
 "Rebus, Christopher David",Calgary,403-944-1818,CCEM CCFP
 "Rebus, Lisa M.",Edmonton,780-454-0738,CCFP
 "Receveur, Darryn",Edmonton,780-490-1313,DRAD
 "Rech, Lia",Edmonton,780 454-4882,-
-"Redding, Rebecka",Sherwood Park,,-
 "Reddy, Kiran",Edmonton,780-425-8717,DRAD
 "Reddy, Nelini",Chestermere,403-266-9200,-
 "Reddy, Neville",Calgary,403-474-6979,ANES
@@ -8589,6 +8519,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Reddy, Suresh",Edmonton,780-669-2824,NEPH IM
 "Redel, Lioba",Canmore,587-807-0128,PED
 "Redel, Tanner",Edmonton,587-372-7535,CCFP
+"Redelinghuys, Johan",Boyle,780-689-0003,CCFP
 "Redgate, Lauren",Calgary,403-727-5055,PED
 "Redman, Kate",Peace River,780-624-6151,PSY
 "Reed, Andy",Canmore,403-760-2897,CCFP
@@ -8605,13 +8536,13 @@ NAME,CITY,PHONE,SPECIALTY
 "Rehman, Mujeeb",Edmonton,780-735-2000,-
 "Rehmani, Jasmine",Edmonton,,CCFP
 "Reich, Christy",Spruce Grove,780-963-9292,-
-"Reich, Krista Margaret",Calgary,403-943-3453,IM
+"Reich, Krista Margaret",Calgary,403-943-3453,IM GM
 "Reichenauer, Jeff",Edmonton,780-454-0351,CCFP
 "Reichert, Amber",Edmonton,780-735-4647,PED NPM
 "Reid, Andre",Edmonton,780-735-5195,ANAP
 "Reid, Branden",Calgary,403-221-9340,-
-"Reid, DAVID",Calgary,403-944-1969,DRAD
 "Reid, David",Edmonton,780-735-2000,-
+"Reid, DAVID",Calgary,403-944-1969,DRAD
 "Reid, David C",Edmonton,780-407-5160,ORTH
 "Reid, James Douglas",Edmonton,587-879-3015,CCFP
 "Reid, Kirk",Saddle Lake,780-726-3930,CCFP
@@ -8654,7 +8585,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Riaz, Imrana Salim",Calgary,403-239-8888,CCFP
 "Riaz, Salman",Medicine Hat,587-289-2112,ORTH
 "Ribeiro, Ricardo",Edmonton,780-735-7000,CCFP
-"Ribeiro, Rona Ginnelle",Sherwood Park,780-570-8480,CCFP
 "Rice, Alexandra Michelle",Spruce Grove,780-962-9888,CCFP
 "Rice, Tiffany Katharine",Calgary,403-955-7810,ANES
 "Rich, Dana Alexandra",Sundre,403-638-2424,CCFP
@@ -8688,7 +8618,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Rittberg, Naomi Leah",Calgary,403-440-6326,CCFP
 "Ritter, Anne",Calgary,,GS
 "Riva-Cambrin, Jay",Calgary,403-955-7805,NS
-"Rivest-Abel, Ellie",Calgary,514-554-2165,RESP IM
 "Rivet, Dana Lynn",Edmonton,780-439-2008,O&G
 "Riyaz, Rehan",Edmonton,780-450-3335,OPH
 "Rizk, Nabil",Edmonton,780-407-2732,OTO
@@ -8707,7 +8636,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Roberts, Jeff",Burnaby,604-422-7276,O&G
 "Roberts, Katrina",Edmonton,,ANES
 "Roberts, Loretta",Fort McMurray,780-370-8425,-
-"Roberts, Matthew",Vancouver,,CCFP
 "Roberts, NEIL",Edmonton,780-451-6029,IM NEUR
 "Roberts, Stacey",Beaumont,780-929-6050,CCFP
 "Roberts, Ted",Edmonton,780-860-6809,NEUR
@@ -8720,7 +8648,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Robertson, Murray",Edmonton,780-437-5505,PED PEDC
 "Robertson, Stuart George",Okotoks,403-995-5740,CCFP
 "Robertson-More, Connal",Comox,250-792-5080,GS
-"Robinson, Andrea",Edmonton,,CRIT IM
+"Robinson, Andrea",Edmonton,,IM CRIT
 "Robinson, Andrew John",Calgary,403-944-1818,EM
 "Robinson, Betty",Calgary,403 955 7211,PED
 "Robinson, Chris",Victoria,,NP
@@ -8752,7 +8680,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Rodych, Murray",Olds,403-556-7130,CCFP
 "Rodyniuk, Andriy",Edmonton,,ANES
 "Roelofs, Kelsey Andrea",Edmonton,424-299-0885,OPH
-"Roeper, Rhiana Lena",Edmonton,780-407-6297,NPM PED
+"Roeper, Rhiana Lena",Edmonton,780-407-6297,PED NPM
 "Roettger, David Conrad",Edmonton,780-437-8818,CCFP
 "Rogacion, Maria Ciedelle Michal Paez",Edmonton,780-489-4976,CCFP
 "Rogan, Kyle Jameson",Calgary,403-944-1539,ANES
@@ -8784,9 +8712,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Romney, Jacques",Edmonton,780-492-3626,IM ENDO
 "Roob, Otto",Fort Saskatchewan,780-997-0177,-
 "Roode, Lourene",Calgary,403-943-3000,-
-"Roopnundh, Anita",Edmonton,780-735-2000,ANES
 "Roos, Louise",Calgary,587-355-9383,CCFP
-"Roos, Willene",Lethbridge,403-327-3977,CCFP
 "Roper, Nicole",High River,403-652-2929,CCFP
 "Roque, Elmer Angara",St. Albert,780 590 0758,CCFP
 "Rosas, Yuserly",Calgary,,CAPS PSY
@@ -8831,7 +8757,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Rouhi, Reza",Calgary,,CCFP
 "Rourke, Keith",Edmonton,780-407-5800,UROL
 "Rourke, Margaret",Edmonton,780-983-5223,PSY
-"Rousseau-Saine, Alexis",Banff,403-760-2897,ORTH
 "Rousso, Sharon",Red Deer,,PED
 "Rowan, Sharon Lynn",Lethbridge,403-942-0555,CCFP
 "Rowe, Brad",Edmonton,780-484-7574,CCFP
@@ -8843,13 +8768,13 @@ NAME,CITY,PHONE,SPECIALTY
 "Roy, Joey Simon",Grande Prairie,587-243-0177,UROL
 "Roy, Martine Natalie",Edmonton,780-483-2901,O&G
 "Roy, Peter Douglas",Red Deer,,GS
-"Roy, Steven",Calgary,,CRIT IM
-"Roze des Ordons, Amanda Lee",Calgary,,ANES CRIT
+"Roy, Steven",Calgary,,IM CRIT
+"Roze des Ordons, Amanda Lee",Calgary,,CRIT ANES
 "Rtemi, Anis Mohamed Hussein",Edmonton,780-756-1222,-
 "Rubensohn, Hayden",Calgary,403-944-2304,IM
 "Rubino, Maria",Montreal,514-252-6443,GE IM
 "Rucker, Diana",Edmonton,780-445-7552,IM GM
-"Rudecki, Alex",Blairmore,,-
+"Rudecki, Alex",Blairmore,,CCFP
 "Rudge, Trevor Damon",Red Deer,403-396-6698,ANES
 "Rudkin, David",Calgary,403-764-4072,CCFP
 "Rudmik, Luke",Calgary,,OTO
@@ -8860,6 +8785,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Ruether, Dean",Calgary,403 521 3165,IM
 "Ruiz Escuder, Juan",Edmonton,,ANES
 "Ruiz Mirazo, Eider",Calgary,,O&G
+"Ruiz, Lisa",Calgary,,PSY CAPS
 "Ruka, Emmeline",Calgary,403-943-3000,CCEM CCFP
 "Ruman, Tanya",Sherwood Park,780-467-4343,CCFP
 "Rumley, Alina",Fort Saskatchewan,780-998-2256,CCFP CCEM
@@ -8899,13 +8825,13 @@ NAME,CITY,PHONE,SPECIALTY
 "Saba, Elias",,,CCFP
 "Sabah Mahmood, Venus",Calgary,403-452-9030,CCFP
 "Sabah, Ali",Paris,519-442-9999,CCFP
+"Sabapathi, Karthik",Calgary,403-955-7211,ANES
 "Sabha, Racha",Tofield,780-662-2080,-
 "Sabir, Aaliya",Calgary,,PED
 "Sabo, Marlis Tamara",Calgary,403-956-3864,ORTH
 "Sabourin, Jeanelle",Edmonton,780-432-8560,O&G
 "Sabourin, Jenna Michelle Marie",Calgary,,CCFP
 "Sabri, Rana",Edmonton,780 457 4250,-
-"Sacevich, Calen",Pass Lake,,ANES
 "Sachdeva, Ashok K.",Calgary,403-250-9111,-
 "Sachdeva, Rajeev",Calgary,403-943-3597,CCFP
 "Sachedina, Ayaaz Kazmir",Calgary,403-944-2807,IM CARD
@@ -8915,7 +8841,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Saddik, Maruf",Edmonton,,PATH
 "Sader, Ben",Strathmore,403-934-4444,CCFP
 "Sader, Naeem A.",Calgary,403-239-5822,-
-"Sadiq, Ammara",Spruce Grove,780-260-2220,-
+"Sadiq, Ammara",Spruce Grove,780-461-2050,-
 "Sadiq, Shahnaz",Calgary,403-239-3660,-
 "Sadiq, Tashfeen",Edmonton,587-415-3050,CCFP
 "Sadler, David James",Calgary,,DRAD
@@ -8944,13 +8870,12 @@ NAME,CITY,PHONE,SPECIALTY
 "Saini, Neetu",Calgary,587-254-3130,CCFP
 "Sainsbury, Joanna",St. Albert,780-418-8559,CCFP CCEM
 "Saint-Martin, Marc",Edmonton,780-434-2778,FMCE CCFP
-"Saiyed, Ali Yaseen",Westlock,780-349-3341,-
+"Saiyed, Ali Yaseen",Westlock,780-349-3341,CCFP
 "Sajwani, Tasneem",Edmonton,780 438 3241,CCFP
 "Sakr, Ahmed Tawfik",Leduc,780-612-6991,CCFP
 "Salami, Azeez Abiodun",Edmonton,780-452-0281,CCFP
 "Salami, Eniola",Edmonton,780-342-1470,CCFP
 "Salat, Peter",Calgary,403-777-3000,DRAD
-"Salazar, Anastasio",Calgary,403-944-1149,GS
 "Saleem, Madiha",Calgary,403-455-2550,CCFP
 "Saleh, Abdullah",Edmonton,780-407-1430,GS PGS
 "Saleh, Ahmed",Calgary,403-943-7000,CCEM CCFP
@@ -9047,7 +8972,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Sarker, Anjali",Edmonton,780-735-2390,CCFP
 "Sarlieve, Philippe",Edmonton,780-407-1210,DRAD
 "Sarna, Justyna R.",Calgary,403-944-4364,NEUR
-"Sarna, Magdalena",Calgary,403-956-2437,NEPH IM
+"Sarna, Magdalena",Calgary,403-956-2437,IM NEPH
 "Sarnat, Harvey B.",Calgary,403-441-8409,PEDN
 "Sarpong, Dr. Simon",Cross Lake,204-676-2011,CCFP
 "Sarria, Ricardo",Edmonton,780-468-5999,-
@@ -9069,11 +8994,11 @@ NAME,CITY,PHONE,SPECIALTY
 "Savage, Paul",Calgary,403-245-4442,OPH
 "Savage, Tyson",Calgary,,EM
 "Savard, Michael",Stony Plain,780-968-3673,-
-"Savaryn, Bohdan Peter",Edmonton,587-590-3016,ID IM MMIC
+"Savaryn, Bohdan Peter",Edmonton,587-590-3016,ID MMIC IM
+"Savin, Anton",Edmonton,,CCFP
 "Savitsky, Trisha Audrey",Edmonton,780-436-8071,CCFP
 "Savoia, Katherine M.",Calgary,403-247-3612,CCFP
 "Savoie, Lynn",Calgary,403-944-5222,HEM IM
-"Savtchenko, Alexei",Calgary,403-220-3915,IM
 "Sawatsky, Katrina",Calgary,587-353-4483,CCFP
 "Sawchuk, Brett David",Calgary,403-943-8301,CAPS PSY
 "Sawchuk, Michael Alexander",Edmonton,780-761-8432,DERM
@@ -9106,13 +9031,10 @@ NAME,CITY,PHONE,SPECIALTY
 "Schell, Andrew",Calgary,403-943-3275,ANAP
 "Schembri, Paul James",Edmonton,780-438-0123,PS
 "Schendel, Jennifer",Red Deer,403-347-9037,GS
-"Schepansky, Alexandra",,,O&G
-"Schick, Elizabeth Louise",Edmonton,780-486-3660,CCFP
 "Schick, Judy",Edmonton,780-487-7532,-
 "Schiebel, Nicola Emily Esther",Calgary,403 956-3000,EM
 "Schieman, Colin",Calgary,403-944-2180,TS GS
 "Schiller, Dan",Edmonton,780-413-7766,GS
-"Schimpf, Jim",Spruce Grove,780-952-4189,CCFP
 "Schinbein, Laura Ellen",Calgary,403-239-9733,CCFP
 "Schindel, Joel",Saskatoon,,CCFP
 "Schindel, Mark",Calgary,,ANES
@@ -9144,11 +9066,11 @@ NAME,CITY,PHONE,SPECIALTY
 "Schoombee, Glenda",Cochrane,403-981-0911,-
 "Schoombee, Willem",Cochrane,403-851-6261,-
 "Schorr, Melissa",Calgary,,NEPH IM
-"Schorr, Samuel",Calgary,,NEPH IM
+"Schorr, Samuel",Calgary,,IM NEPH
 "Schouten, Amanda",Edmonton,780-407-8822,EM
 "Schrag, Christiaan",Calgary,403 215 5155,PS
 "Schreiner, Amanda Jane",Calgary,,CCFP
-"Schubert, Ted",Calgary,403-956-3690,ANES
+"Schubert, Edward",Calgary,403-956-3690,ANES
 "Schuck, Matt",Black Diamond,403-933-4368,CCFP
 "Schuld, Richard",Lethbridge,403-328-0693,IM
 "Schuler, Trevor D.",Edmonton,780-407-5800,UROL
@@ -9199,15 +9121,13 @@ NAME,CITY,PHONE,SPECIALTY
 "Séguin, Patrick",Edmonton,780-999-4867,ANES
 "Seguin, Tony",Sherwood Park,780-342-3464,CCEM CCFP
 "Sehgal, Tarun",Edmonton,587-990-8759,IM CARD
-"Seifert, Oliver",Edmonton,780-709-7021,-
 "Seigel, Karen",Calgary,403-239-9733,CCFP
 "Seikaly, Hadi",Edmonton,780-407-3822,OTO
 "Seitz, Dallas",Calgary,403-210-6867,GPS PSY
 "Sekhon, Preet Pal Singh",Calgary,,CCFP
-"Sekhon, Ravneet Kaur",Calgary,403-955-7858,PED CARD
+"Sekhon, Ravneet Kaur",Calgary,403-955-5049,PED CARD
 "Selim, Ayman",Edmonton,780-478-2995,NEUR
 "Sellmer, Rory",Calgary,,PSY
-"Selvakumar, Naren",Calgary,403-800-2234,CCFP
 "Selvanandan, Vamini",Banff,403-763-1660,CCFP
 "Selvaraj, Saumya",Calgary,,CCFP
 "Selvarajah, Vijey",Edmonton,780-705-9933,IM
@@ -9219,7 +9139,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Senekal, Greta",St Paul,780-645-6000,-
 "Senez, Joe",Sherwood Park,780-570-8480,IM
 "Sengar, Sarit Kumar",Calgary,403-615-6719,CCFP
-"Senior, Peter Alexander",Edmonton,780-407-3626,IM ENDO
+"Senior, Peter Alexander",Edmonton,780-492-3626,IM ENDO
 "Senzani, Farai David",Strathmore,403-934-5911,CCFP
 "Seow, Cynthia",Calgary,403 592 5015,GE
 "Sepandj, Farshad",Calgary,403-521-0201,IM NEPH
@@ -9268,9 +9188,8 @@ NAME,CITY,PHONE,SPECIALTY
 "Shah, Nikhil",Edmonton,780-492-0146,NEPH
 "Shah, R M",Calgary,403-955-2878,PEDH
 "Shahat, Mikhail",Calgary,,CCFP
-"Shahbaz, Ali",Edmonton,780-428-5554,DERM
 "Shaheen, Abdel-Aziz",Calgary,403-944-6555,IM GE
-"Shahidi, Mariam",Edmonton,780-819-2222,ENDO IM
+"Shahidi, Mariam",Edmonton,780-492-3626,ENDO IM
 "Shahoo, Nirmal",Ponoka,403-783-7600,-
 "Shahrabadi, Parisa",Blairmore,403-562-8804,CCFP
 "Shahzad, Tanzela",Calgary,403 457 3400,CCFP
@@ -9293,7 +9212,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Shami, Aysha",Edmonton,780-705-0506,CCFP
 "Shamsi, Mehrnoosh",Maple Ridge,604 463 1111,CCFP
 "Shan, H",Edmonton,780-407-8822,EM
-"Shandro, M. Tami L.",Edmonton,780-735-6458,CCFP
 "Shaneman, Venessa",Siksika,403-734-5600,CCFP
 "Shanmugam, Ganesh",Calgary,403 944 8443,CS
 "Shapiro, James",Edmonton,780-492-3974,GS
@@ -9307,7 +9225,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Sharkey, Bryn",Calgary,403-297-9500,CCFP
 "Sharkey, Skye",Calgary,587-317-9978,CCFP CCEM
 "Sharma, Anil",Edmonton,780-476-7970,CCFP
-"Sharma, Anjali",Cambridge,,PSY
 "Sharma, Ankur",Red Deer,403-406-1987,RADO
 "Sharma, Ashima",Calgary,403-514-0500,CCFP
 "Sharma, Ishan",Calgary,403-536-2480,CCFP
@@ -9337,7 +9254,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Shen, Yiting",Calgary,,PSY
 "Shenkenfelder, Warren Matthew",Edmonton,780-328-7737,CCFP
 "Shenouda, Irene",Consort,403-577-3555,-
-"Shenouda, Suzan",Coronation,,-
+"Shenouda, Suzan",Coronation,,CCFP
 "Shenouda, Zizi",Edmonton,780-756-3666,-
 "Sheopershad, Vitesh",Airdrie,403-960-0336,-
 "Sheopershad, Yuktesh",Red Deer,403-356-0222,-
@@ -9354,7 +9271,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Shergill, Amninder",Calgary,403-800-2234,CCFP
 "Shergill, Navi",Edmonton,780-426-1121,DRAD
 "Shergill, Simran",Edmonton,780-453-5255,PM&R
-"Sherley, Jill",Calgary,403-955-1400,CCFP
 "Sherlock, Kelli",Calgary,,CCFP CCEM
 "Sherman, Raj",Edmonton,780 735 4442,CCFP
 "Sherman, Sameena Louise",Edmonton,780-735-7000,CCFP
@@ -9369,7 +9285,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Shibil, Majid",Barrhead,780-674-2246,GS
 "Shields, Ryan James",Calgary,403-220-8518,CCFP FMSE
 "Shields, William",Lethbridge,,UROL
-"Shigeishi, Steve",Banff,403-762-3155,CCFP
+"Shigeishi, Stephen",Banff,403-762-3155,CCFP
 "Shillington, Andrew D.",Calgary,403-226-6715,CCFP
 "Shillington, Cameron",Calgary,403-944-4200,ANES
 "Shillington, John Robson",Calgary,403 943-3000,-
@@ -9426,7 +9342,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Siddique Cheema, Afia",Calgary,403-345-7111,CCFP
 "Siddique, Sadaf",Calgary,403-221-4373,CCFP
 "Siddiqui, Abul Ala Sohail",Vegreville,780-632-6414,-
-"Siddiqui, Muzaffar",Edmonton,,NEUR
 "Siddiqui, Omair",Calgary,403-879-7000,CCFP
 "Siddiqui, Raheela Fareed",Edmonton,,ANAP
 "Sideri, Kyriaki",Edmonton,780-893-2018,CI&A
@@ -9452,14 +9367,13 @@ NAME,CITY,PHONE,SPECIALTY
 "Sikder, Soumi",Edmonton,780-488-8860,CCFP
 "Sikder, Zaki",Airdrie,403 980 9929,-
 "Sikora, Chris",Edmonton,780-342-0194,PHPM CCFP
-"Sikosana, Majid",Edmonton,780 435 0207,-
+"Sikosana, Majid",Edmonton,780-492-6170,-
 "Sileikiene, Danga",Red Deer,403-343-4707,ANAP
 "Silva Martinez, Julio Cesar",Medicine Hat,403-529-8000,ANAP
 "Silvano, Mary Jean",Edmonton,780-757-7713,IM
 "Silverman, Jason",Edmonton,780-248-5420,PED GE
 "Silverman, Sveta",Edmonton,780-735-2778,ANAP
 "Silverstone, Peter",Edmonton,780-407-6576,PSY
-"Silvester, Lois",Calgary,403-540-7781,-
 "Silvius, James L.",Calgary,403-943-8832,IM GM
 "Sim, Adrian",Edmonton,,ANAP
 "Sim, Jaime",Edmonton,780-735-7000,ANES
@@ -9478,7 +9392,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Simon, Jessica Emma",Calgary,403-944-2304,IM
 "Simon, Karl",Calgary,,ANES
 "Simon, Sandra",Edmonton,780-904-8058,CCFP
-"Simone, Kristen",Edmonton,,O&G
+"Simone, Kristen",Edmonton,780-421-4728,O&G
 "Simonelli, Michelle Adrianna",Calgary,,PED
 "Simpson, Meg",Calgary,493-800-5596,CCFP
 "Simpson, Roderick Howard Wallace",Calgary,403-463-1586,ANAP
@@ -9486,7 +9400,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Sims, Christopher",Calgary,403-943-8720,ANES
 "Simson, Noemi",St. Albert,780-569-5030,CCFP
 "Sin Yan Too, Natalie",Calgary,403-242-8633,CCFP
-"Sinclair, Caitlin",Calgary,403-221-4476,ENDO IM
+"Sinclair, Caitlin",Calgary,403-221-4476,IM ENDO
 "Sinclair, David Barry",Edmonton,780-248-5630,NEUR
 "Sinclair, Kirk",Edmonton,,IM
 "Sinclair, Tom",Canmore,,PS
@@ -9504,8 +9418,8 @@ NAME,CITY,PHONE,SPECIALTY
 "Singh, Gurpreet",Calgary,403-955-3035,PED
 "Singh, Harjot Kaur",Calgary,403-282-9865,CCFP
 "Singh, Harsimranjit",Calgary,,CCFP
-"Singh, Jas",Calgary,403-769-0111,PHPM
 "Singh, JAS",Edmonton,780-462-3008,CCFP
+"Singh, Jas",Calgary,403-769-0111,PHPM
 "Singh, Jitendra",Red Deer,403-340-2724,IM
 "Singh, Kulwinderjit",Sherwood Park,,EM
 "Singh, Mishka",Lethbridge,403-328-8101,CCFP
@@ -9529,7 +9443,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Sirianni, Faye Elaine",Calgary,403-640-0600,CCFP
 "Siriwardena, Komudi",Edmonton,780-407-8390,PED
 "Sis, Banu",Edmonton,,ANAP
-"Sissons, Elizabeth Brenda",Edmonton,,CCFP
+"Sissons, Elizabeth Brenda",Edmonton,780-492-2612,CCFP
 "Sissons, Joy",Medicine Hat,403-594-9004,-
 "Sit, Grace",Calgary,403-276-8866,CCFP
 "Siu, May P.",Calgary,403-270-8939,-
@@ -9552,7 +9466,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Skjodt, Neil",Sherwood Park,780 449 1434,CRIT RESP IM
 "Sklar, Cam",Edmonton,,O&G
 "Skoblenick, Kevin",Edmonton,780-735-4443,EM
-"Skochylas, Ed",Canmore,403-347-6606,OPH
 "Skolnik, Kate",Calgary,403-943-8470,IM RESP
 "Skorenki, Andrea",Edmonton,780-461-6220,O&G
 "Skovsbo, Vivian",Calgary,403 943 5461,CCFP
@@ -9593,6 +9506,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Smith, Aidan",Lethbridge,403-327-3977,-
 "Smith, Alex",Calgary,403-910-1871,CCFP
 "Smith, Benjamin Roger Kieran",Edmonton,780-426-1121,DRAD
+"Smith, Chris",Calgary,403-828-5719,DRAD
 "Smith, Christopher",Edmonton,780-492-2612,CCFP
 "Smith, Dana",Edmonton,780-450-4550,CCFP
 "Smith, Dianne Elizabeth",Didsbury,403-518-8762,CCFP
@@ -9649,7 +9563,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Sockanathan, Sanjeeve",Calgary,,CCFP
 "Soehn, Scott",Beaumont,780-929-5400,CCFP
 "Soetaert, James E",Sherwood Park,,CCFP
-"Sohn, Melanie",Calgary,,CCEM CCFP
+"Sohn, Melanie",Calgary,,CCFP CCEM
 "Sohn, Sam",Calgary,403-252-9066,CCFP
 "Soibelman, Felix",Edmonton,780-735-2627,EM
 "Soin, Jasminder",Calgary,403-955-6600,CCFP
@@ -9703,7 +9617,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Soper, Paul",Edmonton,780-735-7928,PSY
 "Soraisham, Amuchou",Calgary,403-944-4638,PED NPM
 "Sorenson, Katherine",Hinton,780-865-3338,CCFP
-"Sorg, Michael",Cochrane,403-981-3232,CI&A PED
+"Sorg, Michael",Cochrane,403-981-3232,PED CI&A
 "Soriano, Jeannette",Calgary,403-202-0003,-
 "Soroardy, Jesmin",Edmonton,780-705-0707,CCFP
 "Soroceanu, Alex",Calgary,403-984-5456,ORTH
@@ -9752,7 +9666,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Sridharan, Sarup",Fort McMurray,,ORTH
 "Srikisson, Nirupa",Calgary,403 275 4611,-
 "Srir, Allam",Edmonton,780-478-0975,CCFP
-"Srivastava, Ratika",Edmonton,780-934-4704,PEDN
+"Srivastava, Ratika",Edmonton,780-248-5555,PEDN
 "St. Germaine, Ronald",Grande Prairie,780-539-4545,GS CCFP
 "St.Martin, Blair",Edmonton,780-407-5770,UROL
 "Stacey, Shean F.",Calgary,403 944 4200,ANES
@@ -9792,7 +9706,8 @@ NAME,CITY,PHONE,SPECIALTY
 "Steblecki, Lisa Jane",Edmonton,780-735-2800,CCFP
 "Stechishin, Owen",Edmonton,780-407-7132,DRAD
 "Steckham, Katherine Elizabeth",Calgary,403-220-6660,IM
-"Steed, Barrie L",Calgary,403-568-7676,DRAD
+"Stedford, Adrienne",Canmore,,CCFP CCEM
+"Steed, Barrie Steed",Calgary,403 568-7676,DRAD
 "Steed, Brandon",Lethbridge,,CCFP
 "Steed, David John",Cardston,403-653-3331,FMAN CCFP
 "Steed, Helen",Edmonton,780-432-8560,O&G
@@ -9816,7 +9731,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Stelfox, Tom",Calgary,403-210-9422,CRIT IM
 "Stelmaschuk, Myron",Calgary,403-289-0636,CCFP
 "Stephan, Jarad",Calgary,403-956-3690,ANES
-"Stephens, Mark",Fort Macleod,403-557-5055,CCFP
+"Stephens, Mark",Pincher Creek,403-627-3321,CCFP
 "Stephenson, Jerrett Brock",Lethbridge,403-328-8101,CCFP
 "Sterling, George",Edmonton,780 426 1121,DRAD
 "Sternberg, Harvey",Edmonton,780-904-4420,CCFP
@@ -9825,7 +9740,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Steve, Trevor",Edmonton,780-248-2346,NEUR
 "Stevens, Corey",Edmonton,780-483-3253,CCFP
 "Stevens, Jonathan",Edmonton,780-735-4647,PED NPM
-"Stevens, Kelly",Edmonton,,PED
+"Stevens, Kelly",Edmonton,780-342-4168,PED
 "Stevenson, Lisa",Calgary,403-229-2273,CCFP
 "Stevenson, Marie",Calgary,403-202-8888,-
 "Stevenson, Rebeka Anne Marie",Calgary,,RHEU PED
@@ -9855,7 +9770,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Stocks, Christelle",Lethbridge,403 381 8444,-
 "Stoffel, Sandra",Calgary,403-955-6011,CM
 "Stoian, Cristina Ana",Calgary,403-955-2953,PED
-"Stojanovic, Mileva",Calgary,,CCFP
+"Stojanovic, Mileva",Calgary,403-259-2709,CCFP
 "Stokes, Philip Meredith A.",Calgary,403 943 4555,PSY
 "Stokes, Shelley",Calgary,403-246-0200,CCFP
 "Stokes, William",Edmonton,780-492-8782,ID MMIC IM
@@ -9896,12 +9811,11 @@ NAME,CITY,PHONE,SPECIALTY
 "Strydom, David",Vegreville,780-632-6414,-
 "Strydom, HARDIE",High Level,780-926-2286,-
 "Strydom, Marthinus",Edmonton,780-498-4736,-
-"Stryker, Trina",Edmonton,780-735-4813,O&G MFM
+"Stryker, Trina",Edmonton,780-735-4813,MFM O&G
 "Strytveen, Chuck",St. Albert,780-459-5581,CCFP
 "Stuart, Cameron",Calgary,403 292-5941,CCFP
 "Stubbs, Michael",Calgary,403-955-2226,CAPS PSY
 "Stubbs, Robert",Medicine Hat,403-527-7334,DRAD
-"Stuleanu, Tommy",Calgary,403-944-2888,GS
 "Sturtevant, Doris",Edmonton,780 342-4740,CM CCFP
 "Stys, Dana",Calgary,403-880-7029,PEM PED
 "Stys, Peter",Calgary,,NEUR
@@ -9946,12 +9860,11 @@ NAME,CITY,PHONE,SPECIALTY
 "Sun, Yi-Hui",Calgary,403-777-2757,CCFP
 "Sundararajan, Suma",Calgary,403-254-4522,CCFP
 "Sunder, Vickram",Calgary,403-293-7443,CCFP
-"Sunderani, Brit",Calgary,403-944-1818,EM PEM
 "Sunderani, Zahid",Calgary,403-399-6179,ANES
 "Sung, Deborah Hong-Wei",Calgary,403-284-3272,CCFP
 "Sung, HJ",Edmonton,780-371-6640,CCFP
 "Sunkara, Madhava R",Calgary,403-235-5651,-
-"Sunner, Parveen",Edmonton,780-490-1313,DRAD
+"Sunner, Parveen",Edmonton,780-490-1313,DRAD NUCM
 "Supernault, Sharona",Calgary,587 317 9978,CCFP
 "Surak, Aimann",Edmonton,780-735-6870,PED NPM
 "Surani, Karim S.",Calgary,403-234-0066,CCFP
@@ -9970,7 +9883,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Sutherland, Catherine",Calgary,,PSY
 "Sutherland, Francis",Calgary,403-944-1233,GS
 "Sutherland, Garnette",Calgary,403-944-4403,NS
-"Sutiono, Claudia I.V.",Calgary,403-282-2804,-
+"Sutiono, Claudia I.V.",Calgary,403-282-2804,CCFP
 "Sutton, Graeme John",Okotoks,403-917-0653,CCFP
 "Sutton, Susan K",Calgary,403-252-8851,CCFP
 "Suttorp, Vivien V.",Lethbridge,403-388-6014,CCFP
@@ -9984,10 +9897,9 @@ NAME,CITY,PHONE,SPECIALTY
 "Swanepoel, Braam",Jasper,780-852-4885,-
 "Swanepoel, Richard",Red Deer,403-314-5357,-
 "Swanson, Murray C.J.",Edmonton,780-735-2934,PSY
-"Swanson, Paul Eric",Calgary,403-770-3500,ANAP
 "Swarnalingam, Eroshini Shashikala",Calgary,,NEUR
-"Swaro, Amaresh",Calgary,587-356-3793,CCFP
-"Swaro, Ruchika",Calgary,,CCFP
+"Swaro, Amaresh",Calgary,825-413-5807,CCFP
+"Swaro, Ruchika",Calgary,825-413-5807,CCFP
 "Swart, Deon",Calgary,403-226-6475,-
 "Swart, Johan",Calgary,587-316-3932,-
 "Swarts, Peter",Red Deer,403-343-0115,-
@@ -10025,8 +9937,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Szymczakowski, Mike",Calgary,403-956-4222,PSY
 "Tabani, Abdul Sattar",Edmonton,,-
 "Tabassum, Roolan",Calgary,403-454-3276,IM
-"Tabet, Paul",Edmonton,,OTO
-"Tacheji, Ralph",Edmonton,,PSY
 "Tachere, Oghoteru Richardson",Calgary,587-392-3601,PSY
 "Tackaberry, Kelly",Taber,403-223-3525,CCFP
 "Tadros, Ayman",Calgary,403-454-3770,CCFP
@@ -10041,9 +9951,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Taher, Taha",Edmonton,780-485-6669,CARD IM
 "Taher, Zaki",Edmonton,780-461-1188,DERM
 "Taheri, Amir",Camrose,780-672-2423,GS
-"Taheri, Zohreh",Saskatoon,306-655-1069,PATH
 "Tahir, Affan",Red Deer,403-343-4422,IM
-"Tai, Chao",Edmonton,780-428-9538,NEUR
 "Tailfeathers, Esther",Stand Off,403-737-3888,CCFP
 "Tainsh, Gloria",Medicine Hat,403.527.4246,CCFP
 "Taiwo, Olumide",Red Deer,403-346-2202,CCFP
@@ -10107,7 +10015,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Tataryn, Ivanna Viola",Edmonton,780-405-9115,O&G
 "Tateno, Toru",Edmonton,780-492-3626,ENDO
 "Taub, Dina",Calgary,403-606-6968,CCFP
-"Taub, Elana",Calgary,403-251-9535,CCFP
+"Taub, Elana",Canmore,403-760-2897,CCFP
 "Tauh, Mangi",Edmonton,780-306-8400,O&G
 "Tausif, Ali",Calgary,587-329-0266,CCFP
 "Tawfeeq, Mohammed",Bow Island,403-545-2244,-
@@ -10127,7 +10035,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Taylor, Regan",Claresholm,,CCFP
 "Taylor, Rhett",Edmonton,780-540-9066,DRAD
 "Taylor, Shawna",Beaumont,587-979-0701,CCFP
-"Taylor, Simon",Calgary,825-540-4070,IM GIM
+"Taylor, Simon",Calgary,825-540-4070,GIM IM
 "Taylor, Tracy Lynn",Calgary,403 531-9757,PED
 "Taylor, Valerie Hannah",Calgary,403-944-1296,PSY
 "Tayyab, Ambreen",Calgary,403-457-1877,CCFP
@@ -10161,7 +10069,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Tham, Edythe",Edmonton,780-407-3355,PEDC
 "Thambiraj, Joshua",Edmonton,780-250-1800,ORTH
 "Thapar, Tania",Edmonton,780-462-4229,CCFP
-"Thawer, Zoya",Edmonton,,PED ENDO
 "Theal, Jeremy",Edmonton,780-492-4390,IM GE
 "Theam, Michelle",Calgary,403-955-7810,ANES
 "Thejeel, Bashiar",Edmonton,,DRAD
@@ -10171,7 +10078,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Thiara, Raj",Edmonton,780-735-8208,PM&R
 "Thibault, Nicolas",Edmonton,780-973-4011,CCFP
 "Thibodeau, Michelle",Lethbridge,403-388-6111,CCFP
-"Thiele, Allison",Vancouver,604-875-2424,O&G
 "Thiesen, Aducio",St. Albert,780-238-1970,ANAP
 "Thirsk, Warren",Edmonton,780-342-4123,EM
 "Thirunavukkarasu, Sibi",Edmonton,780-496-1390,NEUR
@@ -10204,7 +10110,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Thomson, Rory",Calgary,403-943-7000,CCFP
 "Thomson, Steven",Calgary,403-955-8981,IM
 "Thomson, Tracy",Calgary,403-270-2273,CCFP
-"Thorgrimson, Joelle Lynn",Cold Lake,,CCFP
 "Thorne, Jim",Calgary,403-284-4040,CCFP
 "Thornton, Christina Sarah",Calgary,403-210-8945,RESP IM
 "Thornton, Kimber",Calgary,403-944-1680,O&G
@@ -10265,7 +10170,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Tomy, Halim",Fort McMurray,780-791-6161,CCFP
 "Tomy, Nadia",Edmonton,780-488-3627,PSY
 "Tonelli, Marcello Antonio",Calgary,403-220-7906,IM NEPH
-"Tong, Bonnie",Toronto,,ANAP
+"Tong, Bonnie",Edmonton,780-735-5281,ANAP
 "Tong, Maya",,,OPH
 "Tonkin, Katia",Edmonton,780-705-8400,IM MONC
 "Toofaninejad, Naghmeh",Edmonton,780-735-4181,PSY
@@ -10380,6 +10285,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Tupper, Janet",Lethbridge,403-328-6641,CCFP
 "Tupper, Jennifer",Banff,403-762-2222,CCFP CCEM
 "Tura, Emanuela",Victoria,604-706-2117,CCFP
+"Turanich, Luke",Creston,250-428-9371,FMAN CCFP
 "Turbide, Christian",Calgary,,IM GE
 "Turenne, Annette Y.M.",Medicine Hat,587-289-2219,-
 "Turk, William",Calgary,,OPH
@@ -10448,6 +10354,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Unrau, Jennifer",Calgary,,PED NPM
 "Unryn, Brad Michael",Cochrane,403-981-1466,CCFP
 "Unsworth, Declan",Jasper,780-852-4885,CCFP
+"Unuafe, Jude",Rimbey,403-843-2256,-
 "Unuafe, Rose",Red Deer,403-346-1533,-
 "Unwala, Fatima",Edmonton,780-434-2778,CCFP
 "Unwala, Hussein Ali",Calgary,403-955-7070,PED
@@ -10515,7 +10422,6 @@ NAME,CITY,PHONE,SPECIALTY
 "van der Watt, Hercu",Abbotsford,778-728-1557,CCFP
 "Van der Watt, Sharne",Chilliwack,,-
 "Van der Watt, Talita",Lethbridge,403-320-7825,PED
-"van der Westhuizen, Brenden",Kelowna,250-763-2226,GS
 "van der Westhuizen, Frans",Wetaskiwin,780-352-9700,-
 "Van Der Westhuizen, Gerhard",Claresholm,,-
 "van der Westhuizen, Johann",Calgary,587-777-0034,-
@@ -10598,7 +10504,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Vatts, Dr.Henna",Edmonton,780-342-7700,PSY
 "Vaughan, Brendan",Calgary,403-258-1960,CCFP
 "Vaughan, Stephen Douglas",Calgary,,ID IM
-"Vayalumkal, Claire",Regina,306-352-3888,PM&R
 "Vayalumkal, Joseph",Calgary,403-955-7505,ID PED
 "Vaz, Gerald Archibald",Medicine Hat,403-527-4448,PED
 "Vaz, Gina Anne",Calgary,,PSY
@@ -10613,14 +10518,14 @@ NAME,CITY,PHONE,SPECIALTY
 "Velji, Alkarim",Edmonton,780 735 5200,EM
 "Veljkovic, Andrea",Vancouver,778-945-6756,ORTH
 "Velmurugiah, Vel",Edmonton,587-635-4417,-
-"Veltri, Nicole Lara",Calgary,403-943-4243,GIM IM
+"Veltri, Nicole Lara",Calgary,403-943-4243,IM GIM
 "Venkata, Ram",Lethbridge,403-320-7825,PED
 "Venos, Erik",Calgary,403-944-9603,ENDO IM
 "Venter, Chris",Wetaskiwin,780-352-7157,-
 "Venter, Maria Magdalena",Medicine Hat,403-580-1882,-
 "Venter, Ruan",Wainwright,780-842-3341,CCFP
 "Venter, Wikus",Calgary,403-457-9117,CCFP
-"Venumbaka, Abaya",Calgary,403-955-8589,CAPS PSY
+"Venumbaka, Abaya",Calgary,403-955-8589,PSY CAPS
 "Venumbakka, Anand",Airdrie,403-945-0770,PSY
 "Verburg, Lucas",Valleyview,780-524-4469,-
 "Verdoorn, Marius",Fort Vermilion,780-927-3223,-
@@ -10638,7 +10543,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Vermeulen, Petrus",Brooks,403 793 8883,CCFP
 "Verones, Patricia Maria",Edmonton,780-432-0211,CCFP
 "Verster, Julinda",Edson,780-723-3366,CCFP
-"Vervaeck, Colette",Didsbury,403 335 3669,-
 "Vetere, Peter Joseph",Calgary,403-955-7211,PED
 "Vethanayagam, Dilini",Edmonton,780-492-5879,IM RESP
 "Vetter, Cheyanne Lee",Wainwright,780-842-6676,CCFP
@@ -10697,6 +10601,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Vomiero, Gemma",Calgary,403-955-2953,PED
 "von Both, Ingo",Edmonton,780-427-4987,FP ANAP
 "von Dewitz, Brigid",Martensville,306-933-4110,CCFP
+"Von Engelbrechten, Heidi",Calgary,403-509-3080,CCFP
 "von Ritschl, Rüdiger Hugo Andreas",Abbotsford,604-855-0112,DRAD
 "Vonder Muhll, Isabelle",Edmonton,780-407-3107,CARD IM
 "Vong, Vincent",Calgary,403-955-1400,CCFP
@@ -10762,7 +10667,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Wallace, Jonathan Richard",Taber,403-223-7211,CCFP CCEM FMAN
 "Wallace-Chau, Dhea",Calgary,403-246-0200,O&G
 "Waller, Anke",Lethbridge,403-329-4361,CCFP
-"Waller, Christopher",Lethbridge,403-329-2484,CCFP
+"Waller, Christopher",Lethbridge,403-329-4361,CCFP
 "Waller, Terri",Calgary,403-291-2122,CCFP
 "Walsh, Andrew",Edmonton,780-450-1500,DRAD
 "Walsh, Colin",Lethbridge,403-328-6641,CCFP
@@ -10802,10 +10707,10 @@ NAME,CITY,PHONE,SPECIALTY
 "Wang, Li",Calgary,403-920-0011,CCFP
 "Wang, Linyuan",Calgary,403-944-4748,ANAP
 "Wang, Lucy",Edmonton,,CCFP
+"Wang, Melissa",Calgary,,IM
 "Wang, Naomi Yiqun",Edmonton,,CCFP
 "Wang, Peng",Edmonton,780-407-1584,HEM IM
 "Wang, Robby",Red Deer,403-343-4723,PATH
-"Wang, Sarah Renxuan",Edmonton,780-492-8307,IM GE
 "Wang, Shao-Hua",Edmonton,780-407-3630,CS TS
 "Wang, Sheila",Edmonton,780-482-7551,CCFP
 "Wang, Shih-hsien (Michael)",Camrose,780 672 2423,-
@@ -10924,8 +10829,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Wells, Tiffany",Edmonton,780-432-8771,O&G GONC
 "Welsh, Hannah Louise",Calgary,403 474 6979,CCFP
 "Welsh, Michael Murray",Calgary,403-777-3003,DRAD
-"Welsh, Robert",Edmonton,780-407-3466,CARD IM
-"Wen, Kevin",Edmonton,780-492-6170,IM NEPH
+"Welsh, Robert",Edmonton,780-407-3466,IM CARD
 "Wendelboe, Michael",Lethbridge,403-388-6110,PATH
 "Weninger, Elizabeth",Hinton,780-865-3338,CCFP
 "Wensel, Andrea",Edmonton,780-407-7047,EM
@@ -10972,9 +10876,8 @@ NAME,CITY,PHONE,SPECIALTY
 "Whitehead, Kate",Edmonton,825-436-8375,CCFP FMPC CCEM
 "Whitfield, Bobbi-Jo",Calgary,403-229-0129,CCFP
 "Whitford, Amber",Red Deer,403-347-1114,O&G
-"Whitlock, Kevin Andrew",Rocky Mountain House,403-845-3412,GS
+"Whitlock, Kevin Andrew",Grande Prairie,825-412-4000,GS
 "Whittaker, Brianne",Calgary,403-640-0600,CCFP
-"Whitty, Michelle",Petawawa,,CCFP
 "Wiber, Stuart",Calgary,587-774-6413,RHEU IM
 "Wicentovich, Lana",Edmonton,780-428-5554,CCFP
 "Wickersham-Napier, Stephanie Ruth",Raymond,,CCFP
@@ -10990,7 +10893,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Wiebe, Nicholas",Calgary,,ANAP
 "Wiebe, Samuel",Calgary,403-944-4242,NEUR
 "Wielenga, Vicki",Olds,403-556-3318,CCFP
-"Wiemer, chad christopher",Red Deer,403-597-3385,DRAD
+"Wiemer, Chad Christopher",Red Deer,403-597-3385,DRAD
 "Wiens, Barry",Red Deer,403-343-4422,CCFP
 "Wiens, Charmaine",Calgary,,DRAD
 "Wiens, Irene",Calgary,403-271-3381,CCFP
@@ -11000,7 +10903,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Wiesenberg, Sara",Calgary,403-457-9117,-
 "Wiesenthal, Zeph Manuel",Vancouver,604.261.9494,-
 "Wilbur, Colin",Edmonton,780-248-5555,NEUR
-"Wilcox, Mary Elizabeth",,,GIM CRIT
+"Wilcox, Mary Elizabeth",Edmonton,,GIM CRIT
 "Wilde, Alan",Lethbridge,403-388-6111,CCFP
 "Wilde, Eric",Lethbridge,403-320-0633,IM RESP
 "Wilde, Sean",Lethbridge,403-388-6301,CCFP
@@ -11026,7 +10929,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Williams, Elizabeth",Calgary,403-956-3011,EM
 "Williams, Geoff",Calgary,403-286-6802,OPH
 "Williams, Heloise",Medicine Hat,,ANES
-"Williams, Jennifer",Calgary,587-518-3800,GE IM
 "Williams, Jonathan",Calgary,,IM
 "Williams, Kiely",Calgary,403-375-8900,CCFP
 "Williams, Kimberly Golding",Calgary,403-944-1322,PSY
@@ -11066,11 +10968,10 @@ NAME,CITY,PHONE,SPECIALTY
 "Wink, John Dowson",Calgary,,CCEM CCFP
 "Winkelaar, Gerrit",Edmonton,780-461-6012,GS VS
 "Winkler, Olga Karolina Joanna",Edmonton,780-342-5555,PSY
-"Winston, Brent",Calgary,403-220-4341,IM RESP CRIT
+"Winston, Brent",Calgary,403-220-4341,RESP CRIT IM
 "Winston, Karin",Calgary,403-284-0440,ENDO PED
 "Winter, Christopher Keith",Edmonton,780-426-1121,DRAD NUCM
 "Winterbach, Uys",Edmonton,780-989-1212,CCFP
-"Winters, Sean",Edmonton,780-426-1121,DRAD CCFP
 "Winterstein, Jeffrey",Edmonton,780-444-1935,-
 "Wirasinghe, Manoji",Calgary,403-240-2660,CCFP
 "Wirzba, Brian James",Edmonton,780-462-3010,GIM IM
@@ -11094,6 +10995,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Wolch, Gary",Edmonton,780-735-4111,CCFP
 "Wolf, M. Uri",North York,647-933-2855,PSY GPS
 "Wolf, Michael",Calgary,403-956-1111,CCFP CCEM
+"Wolf, Mike",,,CCFP
 "Wolfaardt, Danae Elizabeth",Spirit River,780-864-3962,-
 "Wolfli, James",Edmonton,780-433-1393,PS
 "Wollin, Brenda",Edmonton,780-438-8844,CCFP
@@ -11107,8 +11009,8 @@ NAME,CITY,PHONE,SPECIALTY
 "Wong, Andrew",Edmonton,780-487-1223,-
 "Wong, Andrew Sang",Calgary,403-266-2622,CCFP
 "Wong, Andy V.F.",Calgary,403-242-7300,-
-"Wong, Benjamin",Calgary,,O&G
 "Wong, Benjamin",Calgary,403-253-4666,DRAD
+"Wong, Benjamin",Calgary,,O&G
 "Wong, Billy Roy",Edmonton,780-414-0782,O&G
 "Wong, Brian",Edmonton,780-407-3323,HEMP
 "Wong, Byron E.",Calgary,403-239-9333,PED
@@ -11116,7 +11018,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Wong, Charles",Calgary,403-943-7000,CCEM CCFP
 "Wong, Chrison",Calgary,,ANES
 "Wong, Cindy",St. Albert,780-418-8559,CCFP
-"Wong, Clarence",Edmonton,780-735-6838,IM GE
+"Wong, Clarence",Edmonton,780-735-6838,GE IM
 "Wong, Daniel Jun Hung",Calgary,403-956-3801,HEM IM
 "Wong, Daniel Lik Hang",Edmonton,780-479-1944,CCFP
 "Wong, David G.",Calgary,403-277-4962,CCFP
@@ -11144,14 +11046,13 @@ NAME,CITY,PHONE,SPECIALTY
 "Wong, Kan Shick",Edmonton,780-489-3339,PED
 "Wong, Karen",Edmonton,,GE IM
 "Wong, Kathleen",Edmonton,780-407-6052,PATH HEMP
-"Wong, Kenny K.",Edmonton,780-407-3355,PED PEDC
 "Wong, Kerry",Edmonton,,GE PED
 "Wong, Kevin",Grande Prairie,780-513-2255,OTO
 "Wong, Mark",Calgary,403-453-3300,CCFP
 "Wong, Martin",Medicine Hat,403-529-9252,CCFP
 "Wong, Matthew Gene",Edmonton,780-471-2071,CCFP
 "Wong, Michael Dean",Calgary,403 944 9602,IM HEM
-"Wong, Morley",Lethbridge,403-320-0633,NEPH IM
+"Wong, Morley",Lethbridge,403-320-0633,IM NEPH
 "Wong, Nick",Edmonton,780-429-4761,CCFP
 "Wong, Norman CW",Calgary,403-220-8867,IM
 "Wong, Norris Alvin",Edmonton,780 452 4590,CCFP
@@ -11185,7 +11086,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Wood, Stephen",Calgary,403-944-1438,O&G
 "Woodard, Aaron Francis",Calgary,403-229-0129,-
 "Woodhouse, Douglas Charles",Calgary,587-391-3500,CCFP
-"Woodley, Kristine Frances",Port Alberni,250-723-7391,CCFP
 "Woodman, Angella",Calgary,403-999-4370,IM
 "Woodmass, Jarret Murray",Calgary,403-910-4585,ORTH
 "Woodruff, Jerry",Bow Island,403-545-2244,-
@@ -11218,7 +11118,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Wright, Natasha Jesook",Calgary,403-943-3000,EM
 "Wright, Nicola",Calgary,403-955-3035,PED
 "Wright, Ryan",Edmonton,780-407-7755,CCFP
-"Wrigley, Heather",Calgary,403-284-3711,CCFP
+"Wrigley, Heather",Calgary,403-923-0503,CCFP
 "Wrobel, Iwona",Calgary,403-955-3071,PED GE
 "Wu, Beatrice",Edmonton,780-801-3366,CCFP
 "Wu, Bing",Calgary,825-509-4744,CCFP
@@ -11227,19 +11127,16 @@ NAME,CITY,PHONE,SPECIALTY
 "Wu, Cynthia Mung Jueng",Edmonton,780-407-1584,IM HEM
 "Wu, Jackson",Calgary,403-521-3675,RADO
 "Wu, James Yifei",Calgary,403-944-5426,ORTH
-"Wu, Jeremy Zhen-yeu",Sherwood Park,780-467-3244,CCFP
 "Wu, Nathanael",Calgary,403-247-9797,CCFP
 "Wu, Prudence",Red Deer,403-342-2234,CCFP
-"Wu, Roger",Edmonton,780-469-3311,CCFP
 "Wu, Theresa",Calgary,403-955-7211,PED
 "Wu, William",Calgary,403-398-5449,CCFP
 "Wurster, Chuck",Sherwood Park,780-449-5380,CCFP CCEM
 "Wycliffe-Jones, Keith",Calgary,403-943-5000,CCFP
 "Wylie, Mark",Sundre,403-638-2424,CCFP
-"Wynick, Avery",Edmonton,587-404-0570,CCFP
 "Wysocki, Ewa Joanna",Calgary,844-826-2665,CCFP
 "Xia, Linda",Calgary,403-930-1005,CCFP
-"Xie, Liya",Calgary,403-943-4596,PSY
+"Xie, Liya",Calgary,403-662-3725,PSY
 "Xin, Aiqun",Calgary,587-329-0266,CCFP
 "Xing, Raymond",Edmonton,587-489-2941,NEPH IM
 "Xiong, Cherry",Calgary,403-956-3038,CCFP
@@ -11251,7 +11148,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Xue, Boying",Edmonton,,CCFP
 "Yacoub, Magued Farag Samuel",Calgary,403-943-4904,FPSY PSY
 "Yacyshyn, Brian J.",Calgary,403-777-3009,DRAD
-"Yacyshyn, Elaine",Edmonton,780 492 2780,RHEU IM
+"Yacyshyn, Elaine",Edmonton,780 492 2780,IM RHEU
 "Yacyshyn, Vincent",Calgary,,CARD IM
 "Yager, Jerome",Edmonton,780.964.1161,PED
 "Yahyaee, Elham",Calgary,403-280-2749,-
@@ -11272,7 +11169,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Yan, Michael",Edmonton,780-342-1470,CCFP
 "Yanchar, Natalie Lynn",Calgary,403-955-2850,PGS GS
 "Yang, Charlie",Calgary,,IM
-"Yang, Chengyue (Victor)",Edmonton,780-492-4155,GIM IM
 "Yang, Christina",Calgary,,O&G
 "Yang, Christina",Calgary,403.521.3347,CCFP
 "Yang, Hua",Calgary,403-944-4056,ANAP
@@ -11310,9 +11206,9 @@ NAME,CITY,PHONE,SPECIALTY
 "Yee, Selena Lai",Calgary,403-282-1038,CCFP
 "Yee, Vernie Fong",Edmonton,780-457-1600,CCFP
 "Yeh, Timothy",Edmonton,780-238-4460,ANES
-"Yehya, Jaled",Edmonton,780-433-5891,IM RESP
+"Yehya, Jaled",Edmonton,780-433-5891,RESP IM
 "Yelnadu, Prasanna",Edmonton,780-444-0350,CCFP
-"Yen, Kevin Chih-Kang",Edmonton,780-616-7636,NEUR
+"Yen, Kevin Chih-Kang",Edmonton,780-248-1927,NEUR
 "Yen, Tien",Edmonton,780 453 5255,PM&R
 "Yeo, Caitlin",Calgary,403-944-0966,GS
 "Yeo, Tom",Edmonton,780-426-1121,DRAD
@@ -11324,7 +11220,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Yeung, Douglas",Calgary,403-239-9333,PED
 "Yeung, Ernest",Calgary,403-292-0160,CCFP
 "Yeung, Grace",Calgary,403-568-8672,DRAD
-"Yeung, Helen",Calgary,403-955-1393,PSY
+"Yeung, Helen",Calgary,403-955-6986,PSY
 "Yeung, Jared",Edmonton,780-735-4111,CCFP
 "Yeung, Jeff",Calgary,403-943-3000,CCFP
 "Yeung, Jonathan",Calgary,403-943-7520,NEUR
@@ -11394,7 +11290,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Yue, Jody",Edmonton,,-
 "Yue, Ming",Leduc,780-986-2712,CCFP
 "Yuen, Gilbert Wing Hou",Calgary,403-248-2273,CCFP
-"Yuen, Owen",,,CCFP
+"Yuen, Owen",Calgary,403-282-3806,CCFP
 "Yuen, Vincent Hung-Yeh",Calgary,403-280-2700,-
 "Yull, Chris",Calmar,780-985-3344,CCFP
 "Yung, Chen Fong",Calgary,587-319-2234,-
@@ -11425,7 +11321,6 @@ NAME,CITY,PHONE,SPECIALTY
 "Zanussi, Lauren",Calgary,403-944-3369,PSY
 "Zaozirny, Jon",Edmonton,780-735-2627,CCEM CCFP
 "Zapasnik, Romuald",Calgary,825-509-4958,-
-"Zapf, Cathryn",Galway,+353 91 743 700,CCFP
 "Zappavigna, Christopher",Ladysmith,,UROL
 "Zara, Rieza Kristielle",Edmonton,780-757-7713,CCFP
 "Zargham, Ramin",Calgary,403-770-3251,-
@@ -11469,6 +11364,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Zheng, Bo",Edmonton,780-407-7047,EM
 "Zheng, James",Calgary,,DRAD
 "Zheng, Jia Min",Canmore,587-885-2988,DRAD
+"Zhou, Harry",Calgary,403-943-3230,PSY
 "Zhou, Hong Yuan",Calgary,403-944-2724,MMIC
 "Zhou, Ray",Calgary,,ANES
 "Zhu, Alan",Edmonton,780-973-4011,CCFP
@@ -11494,6 +11390,7 @@ NAME,CITY,PHONE,SPECIALTY
 "Zlot, Zoe",Calgary,403-229-2273,CCFP
 "ZoBell, J Stryder",Ponoka,844-383-7688,CCFP
 "Zochodne, Douglas",Edmonton,780-248-1928,NEUR
+"Zommer, Hila",Edmonton,780-407-8822,OPH
 "Zondervan, Nathan",Calgary,403-264-6720,GS
 "Zorzela, Liliane",Edmonton,,PED
 "Zubi, Kalfalla Mohamed",Edmonton,780-756-3666,PED
