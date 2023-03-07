@@ -15,7 +15,7 @@ with center:
 st.title("AB Physicians")
 
 
-@st.cache
+@st.cache_data
 def load_df():
     df_physicians = pd.read_csv("physicians.csv")
     df_population = pd.read_csv("population.csv")
