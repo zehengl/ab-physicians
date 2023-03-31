@@ -1,10 +1,10 @@
 -r requirements.txt
-black==23.1.0
+black==23.3.0
 camelot-py==0.11.0
-jupyterlab==3.6.2
+jupyterlab==3.6.3
 opencv-python==4.7.0.72
-pip-check-updates==0.20.0
+pip-check-updates==0.21.0
 pylint==2.17.1
-seleniumbase==4.13.19
+seleniumbase==4.13.21
 stats-can==2.5.1
 tqdm==4.65.0
