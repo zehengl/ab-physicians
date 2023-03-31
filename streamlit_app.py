@@ -113,3 +113,16 @@ fig = px.box(
     color="CITY",
 )
 fig
+
+st.subheader("Helpfulness")
+fig = px.violin(
+    df_physicians[
+        df_physicians["CITY"].isin(most_physicians.head(10)["city"])
+        & (df_physicians["helpfulness"])
+    ].dropna(),
+    y="helpfulness",
+    x="CITY",
+    category_orders={"CITY": most_physicians.head(10)["city"]},
+    color="CITY",
+)
+fig
