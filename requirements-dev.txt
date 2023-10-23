@@ -3,6 +3,6 @@ camelot-py==0.11.0
 jupyterlab==4.0.7
 opencv-python==4.8.1.78
 pip-check-updates==0.22.0
-seleniumbase==4.20.3
+seleniumbase==4.20.6
 stats-can==2.5.3
 tqdm==4.66.1
