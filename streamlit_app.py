@@ -4,7 +4,6 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-
 st.set_page_config(page_title="ab-physicians", page_icon=":mask:")
 _, center, _ = st.columns([2, 1, 2])
 with center:

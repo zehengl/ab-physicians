@@ -1,7 +1,7 @@
 # %%
 import camelot
-import pandas as pd
 import numpy as np
+import pandas as pd
 
 url = "https://cpsa.ca/MedicalDirectory/Alphabetical%20Listing.pdf"
 tables = camelot.read_pdf(url, pages="all", flavor="stream")
@@ -28,13 +28,10 @@ def process(tdf):
     df = df[~df.apply(lambda row: row.isna().sum() == 4, axis=1)]
     df = df.reset_index(drop=True)
     for ind in df[df.apply(lambda row: row.isna().sum() == 3, axis=1)].index:
-
         if df.loc[ind]["CITY"] is not np.nan:
-
             df.loc[ind - 1]["CITY"] += f' {df.loc[ind]["CITY"]}'
 
         if df.loc[ind]["NAME"] is not np.nan:
-
             df.loc[ind - 1]["NAME"] += f' {df.loc[ind]["NAME"]}'
     df = df[~df.apply(lambda row: row.isna().sum() == 3, axis=1)]
     return df

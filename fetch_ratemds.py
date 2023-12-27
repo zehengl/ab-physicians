@@ -7,7 +7,6 @@ import pandas as pd
 from seleniumbase import SB
 from tqdm import tqdm
 
-
 df = pd.read_csv("physicians.csv")
 
 
