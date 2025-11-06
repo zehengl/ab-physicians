@@ -1,8 +1,8 @@
 -r requirements.txt
-camelot-py==0.11.0
-jupyterlab==4.4.8
-opencv-python==4.10.0.84
+camelot-py==1.0.9
+jupyterlab==4.4.10
+opencv-python==4.12.0.88
 pip-check-updates==0.27.0
-seleniumbase==4.32.9
-stats-can==2.9.4
-tqdm==4.67.0
+seleniumbase==4.44.7
+stats-can==3.0.0
+tqdm==4.67.1
