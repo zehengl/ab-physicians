@@ -5,12 +5,6 @@ import plotly.express as px
 import streamlit as st
 
 st.set_page_config(page_title="ab-physicians", page_icon=":mask:")
-_, center, _ = st.columns([2, 1, 2])
-with center:
-    st.image(
-        "https://cdn3.iconfinder.com/data/icons/covid-19-coronavirus-protection-or-prevention-fill/64/HospitalCovid-19-512.png",
-        use_column_width=True,
-    )
 st.title("AB Physicians")
 
 
